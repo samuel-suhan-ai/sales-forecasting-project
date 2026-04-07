@@ -1,0 +1,1501 @@
+﻿item_id,item_name,item_category_id,brand,pack_size_value,pack_size_uom,pack_count,tier,is_perishable,shelf_life_days,mrp_inr,unit_cost_inr,gst_rate
+1,Coca-Cola Seasonal Specials 500g x12 (Premium),61,Coca-Cola,500,g,12,Premium,0,361,810.62,729.22,0.05
+2,Monster Baby Care 250g x3 (Economy),35,Monster,250,g,3,Economy,0,669,403.34,348.95,0.12
+3,Kissan Hardware 100g x4 (Regular),70,Kissan,100,g,4,Regular,0,551,656.48,553.63,0.18
+4,Catch Dishwash 50g x1 (Regular),40,Catch,50,g,1,Regular,0,640,92.15,80.92,0.12
+5,ITC Baking Supplies 250g x1 (Regular),25,ITC,250,g,1,Regular,0,146,143.48,116.33,0.05
+6,Dabur Batteries 2000ml x5 (Regular),67,Dabur,2000,ml,5,Regular,0,320,1194.51,947.09,0.12
+7,Britannia Biscuits 200g x5 (Regular),13,Britannia,200,g,5,Regular,0,697,357.7,315.3,0.0
+8,Red Bull Shaving 2000ml x2 (Regular),79,Red Bull,2000,ml,2,Regular,0,351,3202.01,2578.98,0.18
+9,Lifebuoy Home Furnishing 500g x2 (Economy),52,Lifebuoy,500,g,2,Economy,0,414,827.57,728.82,0.12
+10,Colgate Category 90 250ml x2 (Regular),90,Colgate,250,ml,2,Regular,0,139,2376.45,1994.58,0.18
+11,Patanjali Chocolates 1000g x4 (Regular),14,Patanjali,1000,g,4,Regular,0,181,379.89,344.8,0.05
+12,Amul Frozen Foods 750ml x24 (Regular),16,Amul,750,ml,24,Regular,1,7,617.13,488.86,0.05
+13,ITC Men's Grooming 750ml x5 (Economy),33,ITC,750,ml,5,Economy,0,636,550.05,503.5,0.05
+14,Ariel Packaged Foods 50g x2 (Regular),10,Ariel,50,g,2,Regular,0,570,41.91,33.37,0.05
+15,Aashirvaad Bakery 1000ml x3 (Regular),3,Aashirvaad,1000,ml,3,Regular,1,3,485.21,400.9,0.05
+16,Coca-Cola Dry Fruits 100ml x2 (Regular),24,Coca-Cola,100,ml,2,Regular,0,416,179.51,161.53,0.0
+17,Colgate Seasonal Specials 250ml x24 (Premium),61,Colgate,250,ml,24,Premium,0,516,845.9,734.47,0.05
+18,Red Bull Shaving 1000g x6 (Regular),79,Red Bull,1000,g,6,Regular,0,682,3490.57,3009.91,0.12
+19,Saffola Frozen Foods 1000ml x1 (Regular),16,Saffola,1000,ml,1,Regular,1,25,284.18,236.85,0.0
+20,Britannia Pet Food Premium 750ml x4 (Economy),88,Britannia,750,ml,4,Economy,0,520,721.98,663.55,0.18
+21,Lifebuoy Pulses 1000ml x10 (Premium),5,Lifebuoy,1000,ml,10,Premium,0,411,735.11,656.19,0.0
+22,Sunfeast Pulses 500g x4 (Regular),5,Sunfeast,500,g,4,Regular,0,529,387.16,308.07,0.0
+23,ITC Gardening 500g x10 (Economy),56,ITC,500,g,10,Economy,0,574,1091.64,953.96,0.12
+24,Fortune Pulses 750ml x24 (Economy),5,Fortune,750,ml,24,Economy,0,624,591.25,523.0,0.0
+25,Harpic Category 94 200g x6 (Regular),94,Harpic,200,g,6,Regular,0,663,1238.95,1024.33,0.18
+26,Catch Baby Food 200ml x2 (Economy),19,Catch,200,ml,2,Economy,0,237,52.34,43.84,0.0
+27,"Bikaji Tea, Coffee 250ml x10 (Economy)",9,Bikaji,250,ml,10,Economy,0,101,124.92,102.55,0.0
+28,Ariel Gifting Combos 2000ml x5 (Economy),63,Ariel,2000,ml,5,Economy,0,312,306.06,265.73,0.12
+29,Saffola Hair Care 250ml x24 (Regular),30,Saffola,250,ml,24,Regular,0,441,648.97,590.29,0.0
+30,Patanjali Home Décor 50ml x5 (Regular),81,Patanjali,50,ml,5,Regular,0,707,2933.7,2645.94,0.12
+31,Amul Health 750ml x2 (Regular),36,Amul,750,ml,2,Regular,0,438,266.82,238.41,0.05
+32,Lifebuoy Fresh Produce 500ml x1 (Premium),1,Lifebuoy,500,ml,1,Premium,1,13,221.26,196.65,0.05
+33,Fortune Ready-to-Eat 500ml x1 (Premium),11,Fortune,500,ml,1,Premium,0,555,113.75,93.89,0.05
+34,Appy Spices 50ml x10 (Regular),7,Appy,50,ml,10,Regular,0,384,433.18,369.78,0.05
+35,Dove Snacks 1000g x2 (Regular),12,Dove,1000,g,2,Regular,0,312,70.07,55.72,0.0
+36,Red Bull Health Drinks 200ml x10 (Regular),18,Red Bull,200,ml,10,Regular,0,581,169.72,146.16,0.0
+37,Surf Excel Pulses 2000ml x1 (Economy),5,Surf Excel,2000,ml,1,Economy,0,125,368.94,301.06,0.05
+38,Pears Cosmetics 750ml x1 (Premium),77,Pears,750,ml,1,Premium,0,111,3425.87,3059.6,0.28
+39,Lifebuoy Home Furnishing 500g x1 (Regular),52,Lifebuoy,500,g,1,Regular,0,300,809.64,736.99,0.05
+40,Amul Bath 750ml x24 (Economy),32,Amul,750,ml,24,Economy,0,563,430.62,336.35,0.05
+41,Everest Sanitary 2000g x1 (Regular),80,Everest,2000,g,1,Regular,0,389,1367.64,1232.77,0.18
+42,Kellogg's Pet Care 200g x10 (Economy),46,Kellogg's,200,g,10,Economy,0,160,571.13,467.25,0.12
+43,Bikaji Bedding 1000ml x2 (Regular),53,Bikaji,1000,ml,2,Regular,0,179,267.82,212.74,0.05
+44,Red Bull Gardening 50g x1 (Premium),56,Red Bull,50,g,1,Premium,0,124,719.69,571.31,0.18
+45,Monster Skin Care 1000g x6 (Premium),31,Monster,1000,g,6,Premium,0,631,407.24,321.59,0.12
+46,Tata Breakfast Cereals 750g x5 (Economy),20,Tata,750,g,5,Economy,0,543,173.59,137.05,0.0
+47,Aashirvaad Shaving 1000ml x1 (Economy),79,Aashirvaad,1000,ml,1,Economy,0,556,2042.35,1656.88,0.18
+48,Lizol Soft Drinks 1000g x24 (Regular),26,Lizol,1000,g,24,Regular,0,323,179.41,164.72,0.0
+49,Tata Skin Care 50ml x4 (Premium),31,Tata,50,ml,4,Premium,0,557,253.49,226.38,0.12
+50,Lifebuoy Baby Food 1000g x1 (Regular),19,Lifebuoy,1000,g,1,Regular,0,616,61.55,49.38,0.0
+51,Aashirvaad Air Fresheners 100g x3 (Economy),41,Aashirvaad,100,g,3,Economy,0,168,612.69,496.36,0.12
+52,Red Bull Dishwash 200ml x1 (Regular),40,Red Bull,200,ml,1,Regular,0,140,116.06,95.83,0.12
+53,Bikaji Skin Care 1000ml x10 (Economy),31,Bikaji,1000,ml,10,Economy,0,260,325.28,267.13,0.05
+54,Saffola Baking Supplies 2000g x1 (Regular),25,Saffola,2000,g,1,Regular,0,460,192.08,162.33,0.0
+55,Red Bull Dishwash 500g x24 (Economy),40,Red Bull,500,g,24,Economy,0,422,240.97,215.99,0.12
+56,Lizol Water 500g x5 (Regular),27,Lizol,500,g,5,Regular,0,373,379.82,343.69,0.0
+57,DMart School Essentials 100ml x6 (Regular),64,DMart,100,ml,6,Regular,0,442,87.14,68.11,0.05
+58,Bikaji Packaged Foods 500g x2 (Economy),10,Bikaji,500,g,2,Economy,0,415,39.99,32.22,0.0
+59,Ariel Sports 1000ml x1 (Premium),57,Ariel,1000,ml,1,Premium,0,651,508.28,464.72,0.12
+60,Surf Excel Chocolates 2000ml x3 (Economy),14,Surf Excel,2000,ml,3,Economy,0,393,324.82,269.38,0.0
+61,Tropicana Diabetic Care 250g x3 (Regular),86,Tropicana,250,g,3,Regular,0,233,2079.61,1671.56,0.12
+62,Paper Boat Water 750g x3 (Economy),27,Paper Boat,750,g,3,Economy,0,429,402.74,355.22,0.05
+63,"Patanjali Sauces, Ketchup 200g x6 (Regular)",22,Patanjali,200,g,6,Regular,0,692,272.33,221.59,0.0
+64,Haldiram Home Décor 2000g x1 (Regular),81,Haldiram,2000,g,1,Regular,0,357,3612.11,3283.82,0.12
+65,Pepsi Bakery 2000ml x4 (Economy),3,Pepsi,2000,ml,4,Economy,1,3,667.07,587.24,0.0
+66,Coca-Cola Category 95 500g x2 (Regular),95,Coca-Cola,500,g,2,Regular,0,148,1858.18,1449.98,0.18
+67,Lizol First Aid 750ml x1 (Premium),85,Lizol,750,ml,1,Premium,0,369,435.17,358.65,0.12
+68,Amul Storage 2000ml x1 (Regular),51,Amul,2000,ml,1,Regular,0,133,109.65,96.84,0.18
+69,Everest Kitchen Essentials 100ml x1 (Economy),42,Everest,100,ml,1,Economy,0,269,45.99,40.83,0.12
+70,Maggi Home Care 500ml x5 (Economy),38,Maggi,500,ml,5,Economy,0,480,387.94,355.8,0.12
+71,ITC Edible Oils 100g x5 (Economy),6,ITC,100,g,5,Economy,0,711,341.3,288.11,0.0
+72,Surf Excel Edible Oils 500g x1 (Economy),6,Surf Excel,500,g,1,Economy,0,373,348.25,274.95,0.0
+73,Himalaya Bath Linen 1000ml x1 (Economy),54,Himalaya,1000,ml,1,Economy,0,630,938.15,776.32,0.05
+74,Nestlé Category 91 500g x1 (Economy),91,Nestlé,500,g,1,Economy,0,648,2846.26,2368.44,0.28
+75,Catch OTC Medicines 50g x4 (Regular),37,Catch,50,g,4,Regular,0,304,897.16,777.58,0.18
+76,Catch Fresh Produce 50g x1 (Regular),1,Catch,50,g,1,Regular,1,17,131.49,107.82,0.05
+77,Britannia Hardware 1000ml x1 (Economy),70,Britannia,1000,ml,1,Economy,0,397,827.39,675.08,0.12
+78,Red Bull Plastics 750ml x3 (Regular),71,Red Bull,750,ml,3,Regular,0,550,1250.74,1000.54,0.18
+79,DMart Pickles 50ml x2 (Economy),23,DMart,50,ml,2,Economy,0,224,211.88,165.79,0.0
+80,Ariel Bedding 750ml x10 (Economy),53,Ariel,750,ml,10,Economy,0,527,275.64,230.03,0.18
+81,Monster Packaged Foods 250g x4 (Regular),10,Monster,250,g,4,Regular,0,579,51.44,46.75,0.0
+82,Nivea Ready-to-Eat 50g x12 (Economy),11,Nivea,50,g,12,Economy,0,427,94.67,84.42,0.05
+83,Himalaya Gardening 1000g x10 (Premium),56,Himalaya,1000,g,10,Premium,0,521,1688.51,1485.33,0.12
+84,Pepsi OTC Medicines 750ml x6 (Economy),37,Pepsi,750,ml,6,Economy,0,398,1402.97,1095.53,0.12
+85,Nestlé Stationery 250g x1 (Regular),44,Nestlé,250,g,1,Regular,0,106,730.49,600.93,0.18
+86,Dabur Home Care 50ml x24 (Economy),38,Dabur,50,ml,24,Economy,0,714,294.7,246.49,0.05
+87,Dabur Pet Food Premium 250g x5 (Premium),88,Dabur,250,g,5,Premium,0,94,814.3,722.13,0.18
+88,Dettol Electronics Accessories 500ml x1 (Regular),65,Dettol,500,ml,1,Regular,0,542,579.26,495.28,0.12
+89,Lizol Sanitary 250g x4 (Regular),80,Lizol,250,g,4,Regular,0,488,1209.29,950.33,0.18
+90,Everest Breakfast Cereals 2000ml x5 (Economy),20,Everest,2000,ml,5,Economy,0,514,193.7,168.98,0.05
+91,Dove Category 96 200g x6 (Regular),96,Dove,200,g,6,Regular,0,102,1421.76,1235.85,0.12
+92,Sunfeast Automotive 250ml x12 (Economy),69,Sunfeast,250,ml,12,Economy,0,697,794.91,694.37,0.18
+93,Lifebuoy Spices 750ml x1 (Regular),7,Lifebuoy,750,ml,1,Regular,0,98,386.92,337.58,0.0
+94,Saffola Edible Oils 250ml x2 (Economy),6,Saffola,250,ml,2,Economy,0,294,341.62,312.7,0.0
+95,Paper Boat Biscuits 200ml x5 (Premium),13,Paper Boat,200,ml,5,Premium,0,300,441.08,357.65,0.05
+96,Fortune Pickles 250g x1 (Economy),23,Fortune,250,g,1,Economy,0,611,259.83,210.81,0.0
+97,Red Bull Ice Cream 1000g x2 (Economy),15,Red Bull,1000,g,2,Economy,1,17,466.46,367.09,0.05
+98,DMart Staples 250ml x3 (Regular),4,DMart,250,ml,3,Regular,0,350,276.16,252.9,0.05
+99,Parle Bath 2000g x1 (Economy),32,Parle,2000,g,1,Economy,0,458,339.57,297.91,0.05
+100,Haldiram Health Drinks 50ml x2 (Economy),18,Haldiram,50,ml,2,Economy,0,420,113.08,100.35,0.05
+101,Ariel Men's Grooming 50g x1 (Economy),33,Ariel,50,g,1,Economy,0,391,245.74,193.9,0.05
+102,Kissan Electronics Accessories 50ml x24 (Regular),65,Kissan,50,ml,24,Regular,0,686,687.1,590.13,0.05
+103,"Tropicana Sauces, Ketchup 50g x24 (Economy)",22,Tropicana,50,g,24,Economy,0,215,239.72,197.25,0.05
+104,DMart Bakery 200g x5 (Premium),3,DMart,200,g,5,Premium,1,10,546.07,496.7,0.0
+105,Kellogg's Plastics 750g x4 (Regular),71,Kellogg's,750,g,4,Regular,0,197,1650.39,1420.25,0.28
+106,Kissan Baby Care 750g x3 (Premium),35,Kissan,750,g,3,Premium,0,520,556.02,507.44,0.05
+107,Catch Meat 1000ml x10 (Economy),17,Catch,1000,ml,10,Economy,1,9,232.7,182.85,0.05
+108,Bikaji First Aid 750g x1 (Regular),85,Bikaji,750,g,1,Regular,0,172,374.45,328.0,0.18
+109,Himalaya Footwear 100g x1 (Regular),59,Himalaya,100,g,1,Regular,0,140,451.41,352.24,0.12
+110,DMart Hair Care 100g x1 (Economy),30,DMart,100,g,1,Economy,0,253,262.11,234.61,0.0
+111,Coca-Cola Dry Fruits 200g x2 (Premium),24,Coca-Cola,200,g,2,Premium,0,353,271.98,242.62,0.0
+112,Paper Boat Pulses 50g x4 (Premium),5,Paper Boat,50,g,4,Premium,0,149,288.26,235.07,0.05
+113,Colgate Breakfast Cereals 100g x1 (Regular),20,Colgate,100,g,1,Regular,0,460,77.65,69.42,0.0
+114,Red Bull Sports 50g x1 (Regular),57,Red Bull,50,g,1,Regular,0,485,268.01,229.51,0.12
+115,ITC Pulses 100g x5 (Regular),5,ITC,100,g,5,Regular,0,425,268.58,233.0,0.05
+116,ITC Soft Drinks 500g x1 (Regular),26,ITC,500,g,1,Regular,0,187,94.83,75.41,0.05
+117,Tropicana Stationery 200g x12 (Premium),44,Tropicana,200,g,12,Premium,0,690,1362.25,1068.51,0.12
+118,Dabur Footwear 100g x1 (Economy),59,Dabur,100,g,1,Economy,0,203,419.35,342.46,0.18
+119,DMart Apparel 50ml x3 (Economy),60,DMart,50,ml,3,Economy,0,337,512.27,420.79,0.12
+120,Parle Breakfast Cereals 50ml x4 (Regular),20,Parle,50,ml,4,Regular,0,701,119.57,106.01,0.0
+121,Catch Pickles 250g x3 (Economy),23,Catch,250,g,3,Economy,0,218,292.18,266.78,0.05
+122,Maggi Ready-to-Eat 500g x1 (Economy),11,Maggi,500,g,1,Economy,0,545,81.87,69.46,0.05
+123,Pepsi Travel 1000ml x5 (Regular),58,Pepsi,1000,ml,5,Regular,0,93,883.69,811.18,0.12
+124,MDH Health Drinks 2000g x1 (Economy),18,MDH,2000,g,1,Economy,0,600,191.93,161.02,0.0
+125,Sunfeast Baby Care 750g x12 (Regular),35,Sunfeast,750,g,12,Regular,0,644,658.27,561.85,0.12
+126,Maggi Home Décor 1000ml x12 (Regular),81,Maggi,1000,ml,12,Regular,0,672,4546.85,4038.06,0.28
+127,Lifebuoy Fresh Produce 200ml x1 (Regular),1,Lifebuoy,200,ml,1,Regular,1,14,148.0,123.71,0.05
+128,Haldiram International Foods 50g x3 (Premium),74,Haldiram,50,g,3,Premium,0,500,1662.26,1496.55,0.28
+129,Tata Footwear 200g x1 (Regular),59,Tata,200,g,1,Regular,0,119,488.06,424.74,0.18
+130,Monster Cookware 500ml x12 (Regular),50,Monster,500,ml,12,Regular,0,375,342.2,313.68,0.05
+131,Britannia Oral Care 2000g x1 (Regular),29,Britannia,2000,g,1,Regular,0,616,75.68,59.93,0.0
+132,DMart Electricals 1000ml x1 (Regular),47,DMart,1000,ml,1,Regular,0,400,246.94,201.24,0.12
+133,Paper Boat Value Packs 750ml x3 (Economy),89,Paper Boat,750,ml,3,Economy,0,426,4467.63,3676.99,0.12
+134,DMart Spices 250ml x2 (Premium),7,DMart,250,ml,2,Premium,0,702,560.28,466.14,0.0
+135,Pepsi Pulses 200g x1 (Economy),5,Pepsi,200,g,1,Economy,0,228,190.11,151.69,0.05
+136,Appy Dry Fruits 200g x24 (Premium),24,Appy,200,g,24,Premium,0,125,467.93,421.89,0.0
+137,Nivea Spices 200ml x1 (Economy),7,Nivea,200,ml,1,Economy,0,643,261.43,216.21,0.0
+138,Dove Masks 50ml x3 (Economy),84,Dove,50,ml,3,Economy,0,505,2477.08,2146.76,0.18
+139,Dettol Electronics Accessories 50ml x10 (Regular),65,Dettol,50,ml,10,Regular,0,578,580.93,468.29,0.18
+140,Britannia Ready-to-Eat 500g x3 (Premium),11,Britannia,500,g,3,Premium,0,143,142.28,117.45,0.0
+141,Surf Excel Soft Drinks 250ml x24 (Regular),26,Surf Excel,250,ml,24,Regular,0,185,143.15,125.75,0.0
+142,Kissan Oral Care 250ml x1 (Regular),29,Kissan,250,ml,1,Regular,0,125,46.36,38.39,0.05
+143,Dove Category 90 100ml x1 (Economy),90,Dove,100,ml,1,Economy,0,369,1704.33,1466.23,0.28
+144,Lifebuoy Pickles 1000ml x10 (Regular),23,Lifebuoy,1000,ml,10,Regular,0,244,522.97,476.22,0.05
+145,Patanjali Baby Care 100g x10 (Economy),35,Patanjali,100,g,10,Economy,0,129,360.46,324.38,0.05
+146,Parle Laundry Detergent 500g x1 (Regular),39,Parle,500,g,1,Regular,0,669,341.78,296.03,0.05
+147,Sunfeast School Essentials 50g x5 (Premium),64,Sunfeast,50,g,5,Premium,0,542,94.6,75.5,0.05
+148,Red Bull Protein 1000g x1 (Economy),76,Red Bull,1000,g,1,Economy,0,455,255.77,228.67,0.12
+149,Paper Boat Home Furnishing 100g x1 (Regular),52,Paper Boat,100,g,1,Regular,0,137,496.89,408.45,0.12
+150,Kissan Baking Supplies 750g x2 (Economy),25,Kissan,750,g,2,Economy,0,630,189.66,158.3,0.0
+151,Appy Ice Cream 200ml x12 (Regular),15,Appy,200,ml,12,Regular,1,29,442.79,357.69,0.0
+152,Coca-Cola Personal Care 500ml x24 (Regular),28,Coca-Cola,500,ml,24,Regular,0,258,520.4,436.3,0.05
+153,DMart Disposable 100ml x6 (Economy),43,DMart,100,ml,6,Economy,0,597,686.42,562.03,0.12
+154,Bikaji Gifting Combos 250ml x10 (Regular),63,Bikaji,250,ml,10,Regular,0,247,249.77,229.76,0.12
+155,Dove Category 91 250g x6 (Economy),91,Dove,250,g,6,Economy,0,137,3314.59,2789.52,0.18
+156,Monster Cosmetics 200ml x3 (Regular),77,Monster,200,ml,3,Regular,0,538,2073.14,1809.28,0.18
+157,Dove Electronics Accessories 500ml x6 (Economy),65,Dove,500,ml,6,Economy,0,260,752.55,610.56,0.05
+158,Pears Home Décor 200ml x4 (Regular),81,Pears,200,ml,4,Regular,0,491,2834.5,2356.08,0.18
+159,Everest Cleaning Tools 500g x1 (Regular),55,Everest,500,g,1,Regular,0,366,181.39,155.57,0.05
+160,Britannia Pet Food Premium 500g x1 (Economy),88,Britannia,500,g,1,Economy,0,475,447.54,386.23,0.12
+161,Paper Boat OTC Medicines 50ml x3 (Regular),37,Paper Boat,50,ml,3,Regular,0,318,939.25,755.33,0.05
+162,Haldiram Edible Oils 50g x2 (Economy),6,Haldiram,50,g,2,Economy,0,208,309.02,249.04,0.05
+163,Himalaya Travel 50ml x6 (Economy),58,Himalaya,50,ml,6,Economy,0,499,491.94,392.46,0.05
+164,Pepsi Value Packs 1000ml x1 (Economy),89,Pepsi,1000,ml,1,Economy,0,458,3371.04,2752.09,0.18
+165,Ariel Dairy 250g x6 (Regular),2,Ariel,250,g,6,Regular,1,25,216.98,187.17,0.05
+166,Pears Electricals 2000ml x2 (Regular),47,Pears,2000,ml,2,Regular,0,380,310.68,277.81,0.12
+167,Everest Noodles 50ml x24 (Regular),21,Everest,50,ml,24,Regular,0,434,211.07,173.39,0.05
+168,Monster Personal Care 750g x2 (Economy),28,Monster,750,g,2,Economy,0,570,395.82,349.93,0.0
+169,Catch Masks 50ml x1 (Regular),84,Catch,50,ml,1,Regular,0,614,2263.42,1803.2,0.18
+170,Lizol Pickles 200g x12 (Economy),23,Lizol,200,g,12,Economy,0,232,346.49,315.74,0.0
+171,Monster Home Appliances 2000ml x12 (Regular),48,Monster,2000,ml,12,Regular,0,252,2078.14,1781.36,0.18
+172,Kissan Hair Care 50ml x12 (Economy),30,Kissan,50,ml,12,Economy,0,191,378.57,346.12,0.0
+173,Britannia First Aid 200g x24 (Economy),85,Britannia,200,g,24,Economy,0,154,355.01,305.68,0.12
+174,Ariel Soft Drinks 1000g x5 (Regular),26,Ariel,1000,g,5,Regular,0,338,154.75,136.3,0.0
+175,Nestlé Spices 100ml x1 (Economy),7,Nestlé,100,ml,1,Economy,0,418,267.02,212.49,0.0
+176,Parle Hair Care 50g x2 (Economy),30,Parle,50,g,2,Economy,0,298,259.68,230.21,0.05
+177,Tata Oral Care 750ml x1 (Regular),29,Tata,750,ml,1,Regular,0,375,70.54,57.29,0.05
+178,Coca-Cola Fragrances 250g x2 (Economy),78,Coca-Cola,250,g,2,Economy,0,699,648.23,574.93,0.12
+179,Kissan Pickles 250ml x1 (Regular),23,Kissan,250,ml,1,Regular,0,235,233.79,194.66,0.05
+180,Tropicana Breakfast Cereals 750g x1 (Regular),20,Tropicana,750,g,1,Regular,0,345,138.73,115.03,0.0
+181,Amul Oral Care 2000g x1 (Regular),29,Amul,2000,g,1,Regular,0,523,94.22,86.08,0.05
+182,Kellogg's Bath Linen 200ml x24 (Regular),54,Kellogg's,200,ml,24,Regular,0,330,968.44,861.83,0.05
+183,Tata Hair Care 100ml x24 (Premium),30,Tata,100,ml,24,Premium,0,305,655.7,577.3,0.05
+184,Haldiram Home Care 2000g x1 (Economy),38,Haldiram,2000,g,1,Economy,0,582,352.09,319.3,0.12
+185,Maggi Gardening 100g x1 (Economy),56,Maggi,100,g,1,Economy,0,144,600.58,501.68,0.05
+186,Coca-Cola Dairy 50g x6 (Regular),2,Coca-Cola,50,g,6,Regular,1,28,170.3,146.68,0.05
+187,"Himalaya Tea, Coffee 2000ml x2 (Economy)",9,Himalaya,2000,ml,2,Economy,0,134,154.0,140.56,0.05
+188,Nestlé Travel 750g x4 (Economy),58,Nestlé,750,g,4,Economy,0,95,678.73,611.56,0.12
+189,Britannia Party Supplies 2000ml x1 (Regular),82,Britannia,2000,ml,1,Regular,0,241,613.39,553.6,0.18
+190,Paper Boat Protein 250ml x10 (Regular),76,Paper Boat,250,ml,10,Regular,0,194,352.68,321.04,0.12
+191,Nestlé Gardening 2000g x2 (Economy),56,Nestlé,2000,g,2,Economy,0,326,1075.91,974.27,0.05
+192,Coca-Cola Category 96 1000ml x1 (Regular),96,Coca-Cola,1000,ml,1,Regular,0,485,1654.55,1312.42,0.18
+193,Nivea International Foods 2000ml x1 (Regular),74,Nivea,2000,ml,1,Regular,0,677,2055.01,1700.77,0.18
+194,Dabur Bath Linen 500ml x12 (Economy),54,Dabur,500,ml,12,Economy,0,325,1068.84,946.66,0.12
+195,Haldiram Kitchen Appliances 50ml x1 (Regular),49,Haldiram,50,ml,1,Regular,0,100,270.78,229.92,0.18
+196,Fortune International Foods 100g x1 (Regular),74,Fortune,100,g,1,Regular,0,304,1278.95,1173.91,0.18
+197,Tropicana Fragrances 1000g x24 (Regular),78,Tropicana,1000,g,24,Regular,0,575,1891.22,1566.17,0.12
+198,Patanjali Baby Food 200ml x5 (Economy),19,Patanjali,200,ml,5,Economy,0,392,51.64,40.54,0.0
+199,Lizol International Foods 50g x3 (Regular),74,Lizol,50,g,3,Regular,0,434,1471.37,1269.12,0.18
+200,Harpic Stationery 100ml x24 (Economy),44,Harpic,100,ml,24,Economy,0,226,772.74,662.62,0.05
+201,Everest Fresh Produce 250ml x24 (Economy),1,Everest,250,ml,24,Economy,1,11,266.56,211.05,0.0
+202,Kissan Biscuits 750g x2 (Economy),13,Kissan,750,g,2,Economy,0,544,391.5,335.13,0.0
+203,Maggi School Essentials 250g x10 (Economy),64,Maggi,250,g,10,Economy,0,483,107.82,91.24,0.12
+204,MDH Dry Fruits 500g x3 (Economy),24,MDH,500,g,3,Economy,0,139,272.0,222.59,0.0
+205,Sunfeast Books 200ml x3 (Regular),72,Sunfeast,200,ml,3,Regular,0,185,845.74,684.06,0.18
+206,Saffola Toys 2000ml x1 (Regular),45,Saffola,2000,ml,1,Regular,0,152,676.05,563.78,0.18
+207,Parle Category 97 750ml x3 (Premium),97,Parle,750,ml,3,Premium,0,428,1146.63,1031.93,0.12
+208,Pears Festive Packs 100g x5 (Economy),62,Pears,100,g,5,Economy,0,671,583.61,504.24,0.05
+209,Harpic Edible Oils 100g x1 (Economy),6,Harpic,100,g,1,Economy,0,422,270.22,222.57,0.05
+210,Nivea Books 250ml x10 (Regular),72,Nivea,250,ml,10,Regular,0,582,1175.09,1074.25,0.28
+211,Dabur Storage 500ml x2 (Regular),51,Dabur,500,ml,2,Regular,0,476,72.33,60.94,0.05
+212,Everest Ice Cream 2000g x2 (Premium),15,Everest,2000,g,2,Premium,1,25,835.17,765.76,0.05
+213,Colgate Home Care 200ml x5 (Premium),38,Colgate,200,ml,5,Premium,0,200,379.57,300.98,0.05
+214,Himalaya Ready-to-Eat 50g x4 (Economy),11,Himalaya,50,g,4,Economy,0,198,81.16,73.09,0.05
+215,Fortune Soft Drinks 500g x12 (Regular),26,Fortune,500,g,12,Regular,0,283,147.97,116.47,0.0
+216,Colgate Apparel 750ml x3 (Regular),60,Colgate,750,ml,3,Regular,0,489,911.03,727.95,0.12
+217,Everest Bath 500ml x1 (Economy),32,Everest,500,ml,1,Economy,0,237,228.66,207.32,0.12
+218,Tropicana Storage 2000g x2 (Premium),51,Tropicana,2000,g,2,Premium,0,522,133.25,113.53,0.05
+219,Nestlé Home Décor 100ml x24 (Regular),81,Nestlé,100,ml,24,Regular,0,144,3936.11,3484.47,0.18
+220,Lifebuoy Cleaning Tools 1000g x4 (Premium),55,Lifebuoy,1000,g,4,Premium,0,660,432.94,339.16,0.05
+221,Himalaya Edible Oils 500g x5 (Regular),6,Himalaya,500,g,5,Regular,0,455,504.71,458.72,0.0
+222,Maggi Oral Care 750g x2 (Economy),29,Maggi,750,g,2,Economy,0,384,73.86,58.61,0.05
+223,"Kissan Sauces, Ketchup 100ml x1 (Economy)",22,Kissan,100,ml,1,Economy,0,717,134.77,120.18,0.0
+224,Surf Excel Women's Hygiene 250ml x24 (Regular),34,Surf Excel,250,ml,24,Regular,0,714,1154.31,994.55,0.12
+225,Dove Sanitary 250ml x4 (Regular),80,Dove,250,ml,4,Regular,0,184,1366.52,1215.31,0.18
+226,Tata Dry Fruits 250ml x5 (Economy),24,Tata,250,ml,5,Economy,0,146,261.96,221.59,0.0
+227,Haldiram Apparel 500g x24 (Economy),60,Haldiram,500,g,24,Economy,0,576,963.97,781.0,0.05
+228,Everest Women's Hygiene 200g x4 (Economy),34,Everest,200,g,4,Economy,0,348,951.06,868.29,0.12
+229,Dove Books 1000g x2 (Economy),72,Dove,1000,g,2,Economy,0,147,835.88,695.11,0.18
+230,ITC Frozen Foods 500g x2 (Economy),16,ITC,500,g,2,Economy,1,6,300.92,241.86,0.05
+231,DMart Home Care 1000g x1 (Economy),38,DMart,1000,g,1,Economy,0,417,277.64,219.52,0.18
+232,Monster Home Appliances 200g x1 (Regular),48,Monster,200,g,1,Regular,0,588,757.45,605.73,0.18
+233,Patanjali Soft Drinks 2000ml x2 (Premium),26,Patanjali,2000,ml,2,Premium,0,703,176.21,146.47,0.05
+234,Everest Kitchen Essentials 100g x1 (Economy),42,Everest,100,g,1,Economy,0,480,47.71,42.57,0.12
+235,Pepsi Breakfast Cereals 750g x1 (Regular),20,Pepsi,750,g,1,Regular,0,180,121.56,102.38,0.0
+236,Surf Excel Category 97 100ml x1 (Regular),97,Surf Excel,100,ml,1,Regular,0,676,497.55,399.74,0.28
+237,Himalaya Bath Linen 200ml x1 (Regular),54,Himalaya,200,ml,1,Regular,0,416,527.78,417.7,0.12
+238,Dabur Home Appliances 250g x2 (Economy),48,Dabur,250,g,2,Economy,0,424,646.19,532.78,0.12
+239,Colgate Diabetic Care 250ml x24 (Regular),86,Colgate,250,ml,24,Regular,0,278,3216.98,2838.41,0.18
+240,Dabur Skin Care 200ml x1 (Economy),31,Dabur,200,ml,1,Economy,0,420,147.27,122.59,0.05
+241,Amul Category 96 250g x3 (Economy),96,Amul,250,g,3,Economy,0,403,1396.25,1262.96,0.18
+242,Monster Edible Oils 50g x2 (Premium),6,Monster,50,g,2,Premium,0,226,388.43,340.28,0.05
+243,Nivea Category 98 250ml x2 (Economy),98,Nivea,250,ml,2,Economy,0,582,1915.88,1525.16,0.18
+244,Red Bull Sports 50ml x10 (Regular),57,Red Bull,50,ml,10,Regular,0,673,411.34,355.6,0.12
+245,Dabur Disposable 250ml x1 (Regular),43,Dabur,250,ml,1,Regular,0,698,505.74,424.21,0.05
+246,Paper Boat Baking Supplies 500g x1 (Regular),25,Paper Boat,500,g,1,Regular,0,337,137.85,123.65,0.0
+247,Red Bull Chocolates 1000g x5 (Economy),14,Red Bull,1000,g,5,Economy,0,429,338.68,273.76,0.0
+248,Amul Category 96 250g x3 (Regular),96,Amul,250,g,3,Regular,0,658,1389.63,1197.76,0.18
+249,Tata Frozen Foods 500ml x1 (Economy),16,Tata,500,ml,1,Economy,1,12,265.92,230.05,0.0
+250,Bikaji Fragrances 250g x1 (Regular),78,Bikaji,250,g,1,Regular,0,659,644.13,550.67,0.28
+251,ITC Staples 2000ml x10 (Economy),4,ITC,2000,ml,10,Economy,0,570,583.55,517.23,0.0
+252,Tata Batteries 250g x1 (Economy),67,Tata,250,g,1,Economy,0,271,529.48,452.37,0.05
+253,Lizol Protein 1000ml x1 (Economy),76,Lizol,1000,ml,1,Economy,0,325,290.66,239.09,0.28
+254,DMart Meat 100g x5 (Economy),17,DMart,100,g,5,Economy,1,26,133.83,106.39,0.0
+255,Lizol Category 95 500ml x1 (Economy),95,Lizol,500,ml,1,Economy,0,543,1555.21,1384.64,0.12
+256,Catch Soft Drinks 100ml x2 (Premium),26,Catch,100,ml,2,Premium,0,687,100.87,83.42,0.05
+257,Coca-Cola Ready-to-Eat 100g x1 (Regular),11,Coca-Cola,100,g,1,Regular,0,242,60.29,52.34,0.05
+258,Dettol Hair Care 750g x2 (Regular),30,Dettol,750,g,2,Regular,0,242,511.73,436.64,0.0
+259,Nestlé Category 94 250g x4 (Economy),94,Nestlé,250,g,4,Economy,0,358,1285.57,1034.03,0.18
+260,"Coca-Cola Sugar, Jaggery 2000g x10 (Premium)",8,Coca-Cola,2000,g,10,Premium,0,230,920.26,799.17,0.05
+261,Tropicana Bath Linen 100ml x1 (Regular),54,Tropicana,100,ml,1,Regular,0,174,485.01,389.07,0.12
+262,"Tata Tea, Coffee 2000g x1 (Economy)",9,Tata,2000,g,1,Economy,0,562,113.78,101.8,0.05
+263,Britannia Bath Linen 100ml x2 (Economy),54,Britannia,100,ml,2,Economy,0,585,581.41,526.47,0.12
+264,Lizol Packaged Foods 200g x24 (Regular),10,Lizol,200,g,24,Regular,0,293,69.36,63.12,0.05
+265,Colgate Pet Food Premium 1000ml x3 (Regular),88,Colgate,1000,ml,3,Regular,0,170,738.15,615.1,0.18
+266,Amul Pooja Items 2000g x4 (Economy),83,Amul,2000,g,4,Economy,0,592,2002.44,1814.97,0.12
+267,Catch Category 97 2000ml x1 (Regular),97,Catch,2000,ml,1,Regular,0,170,1138.75,975.13,0.28
+268,Nivea Cosmetics 250g x1 (Economy),77,Nivea,250,g,1,Economy,0,457,1834.78,1623.48,0.12
+269,DMart Water 750ml x5 (Economy),27,DMart,750,ml,5,Economy,0,545,464.78,404.68,0.05
+270,Lifebuoy Men's Grooming 200g x10 (Premium),33,Lifebuoy,200,g,10,Premium,0,628,655.41,596.18,0.12
+271,"Everest Sauces, Ketchup 50ml x10 (Premium)",22,Everest,50,ml,10,Premium,0,704,261.38,211.92,0.0
+272,ITC Health 250ml x1 (Economy),36,ITC,250,ml,1,Economy,0,580,159.43,127.48,0.05
+273,Lizol Frozen Foods 500ml x3 (Regular),16,Lizol,500,ml,3,Regular,1,13,304.17,253.26,0.05
+274,Fortune Category 91 1000ml x12 (Economy),91,Fortune,1000,ml,12,Economy,0,465,4697.77,3767.27,0.12
+275,Lizol Hair Care 1000ml x3 (Economy),30,Lizol,1000,ml,3,Economy,0,120,595.95,488.32,0.05
+276,Colgate Pickles 500g x4 (Regular),23,Colgate,500,g,4,Regular,0,716,444.1,363.22,0.05
+277,Bikaji Kids Snacks 100g x2 (Regular),87,Bikaji,100,g,2,Regular,0,461,1926.82,1536.15,0.18
+278,Catch Dry Fruits 50g x10 (Economy),24,Catch,50,g,10,Economy,0,673,228.39,205.57,0.05
+279,Surf Excel Hair Care 100ml x1 (Regular),30,Surf Excel,100,ml,1,Regular,0,113,253.43,218.23,0.0
+280,Surf Excel Home Appliances 1000ml x1 (Regular),48,Surf Excel,1000,ml,1,Regular,0,144,895.26,818.26,0.12
+281,Britannia Travel 2000g x2 (Premium),58,Britannia,2000,g,2,Premium,0,324,1111.38,886.27,0.12
+282,Ariel Hair Care 100ml x2 (Economy),30,Ariel,100,ml,2,Economy,0,133,278.79,227.61,0.05
+283,MDH Ice Cream 1000g x1 (Regular),15,MDH,1000,g,1,Regular,1,11,529.1,471.75,0.0
+284,Haldiram Electricals 100g x4 (Regular),47,Haldiram,100,g,4,Regular,0,249,155.27,125.64,0.05
+285,ITC Ready-to-Eat 1000g x1 (Economy),11,ITC,1000,g,1,Economy,0,459,99.2,84.33,0.0
+286,Everest Electricals 1000ml x1 (Economy),47,Everest,1000,ml,1,Economy,0,442,178.9,153.97,0.05
+287,Red Bull Kitchen Appliances 500ml x4 (Regular),49,Red Bull,500,ml,4,Regular,0,473,383.12,308.22,0.05
+288,Nivea Kitchen Appliances 500ml x3 (Premium),49,Nivea,500,ml,3,Premium,0,468,532.21,486.91,0.12
+289,Dove Dry Fruits 500ml x10 (Regular),24,Dove,500,ml,10,Regular,0,649,395.28,339.53,0.05
+290,Catch Personal Care 500g x2 (Regular),28,Catch,500,g,2,Regular,0,664,327.86,262.02,0.05
+291,Everest Health Drinks 2000g x1 (Regular),18,Everest,2000,g,1,Regular,0,172,210.93,170.77,0.0
+292,Ariel Electronics Accessories 750g x2 (Regular),65,Ariel,750,g,2,Regular,0,415,726.06,578.25,0.05
+293,ITC Sports 750g x1 (Regular),57,ITC,750,g,1,Regular,0,359,419.35,373.16,0.12
+294,Bikaji Bath Linen 750ml x3 (Premium),54,Bikaji,750,ml,3,Premium,0,510,1445.75,1206.63,0.12
+295,Lizol Category 94 250g x1 (Economy),94,Lizol,250,g,1,Economy,0,491,1024.6,921.91,0.28
+296,Lifebuoy Shaving 1000ml x1 (Economy),79,Lifebuoy,1000,ml,1,Economy,0,468,2241.56,1838.83,0.18
+297,Appy Hair Care 500ml x12 (Regular),30,Appy,500,ml,12,Regular,0,114,711.63,605.02,0.05
+298,Everest Festive Packs 100g x10 (Regular),62,Everest,100,g,10,Regular,0,241,695.73,608.86,0.18
+299,Nestlé Kitchen Appliances 2000g x1 (Premium),49,Nestlé,2000,g,1,Premium,0,632,574.24,487.46,0.05
+300,Himalaya Laundry Detergent 750ml x1 (Regular),39,Himalaya,750,ml,1,Regular,0,556,447.69,407.76,0.05
+301,"Britannia Tea, Coffee 750g x2 (Regular)",9,Britannia,750,g,2,Regular,0,279,117.77,94.15,0.05
+302,Lizol Health 500g x10 (Regular),36,Lizol,500,g,10,Regular,0,504,349.59,297.13,0.05
+303,Saffola Ice Cream 500g x3 (Economy),15,Saffola,500,g,3,Economy,1,27,391.19,305.86,0.05
+304,Parle Lighting 50g x3 (Regular),68,Parle,50,g,3,Regular,0,700,831.17,684.02,0.05
+305,Pepsi Footwear 100g x1 (Regular),59,Pepsi,100,g,1,Regular,0,615,361.11,330.31,0.18
+306,Dove Snacks 50g x3 (Economy),12,Dove,50,g,3,Economy,0,126,42.07,37.18,0.0
+307,Patanjali Edible Oils 50ml x2 (Regular),6,Patanjali,50,ml,2,Regular,0,294,303.95,272.43,0.0
+308,Colgate Spices 1000ml x2 (Premium),7,Colgate,1000,ml,2,Premium,0,430,742.64,592.79,0.0
+309,Britannia Electronics Accessories 50g x24 (Regular),65,Britannia,50,g,24,Regular,0,345,684.87,608.23,0.12
+310,ITC Pet Food Premium 100g x2 (Regular),88,ITC,100,g,2,Regular,0,476,448.68,357.11,0.18
+311,Saffola Breakfast Cereals 50g x6 (Regular),20,Saffola,50,g,6,Regular,0,561,115.02,91.3,0.0
+312,Pears Spices 100ml x1 (Economy),7,Pears,100,ml,1,Economy,0,286,263.6,233.35,0.0
+313,Tropicana Gardening 200ml x3 (Economy),56,Tropicana,200,ml,3,Economy,0,631,773.53,681.11,0.18
+314,Aashirvaad Home Care 200ml x1 (Economy),38,Aashirvaad,200,ml,1,Economy,0,666,226.18,203.02,0.12
+315,Nestlé Pet Care 250ml x1 (Premium),46,Nestlé,250,ml,1,Premium,0,376,603.1,533.38,0.12
+316,Fortune Health 250ml x1 (Economy),36,Fortune,250,ml,1,Economy,0,112,179.05,156.18,0.05
+317,Britannia Lighting 50g x10 (Economy),68,Britannia,50,g,10,Economy,0,114,1011.31,844.46,0.12
+318,Tata Stationery 100ml x1 (Economy),44,Tata,100,ml,1,Economy,0,432,516.01,408.69,0.05
+319,Lifebuoy Batteries 100g x1 (Economy),67,Lifebuoy,100,g,1,Economy,0,687,429.97,342.2,0.05
+320,Paper Boat Storage 250ml x1 (Regular),51,Paper Boat,250,ml,1,Regular,0,288,61.31,47.97,0.05
+321,Kellogg's Bath Linen 250g x3 (Economy),54,Kellogg's,250,g,3,Economy,0,192,794.46,680.9,0.12
+322,Bikaji Footwear 2000g x1 (Regular),59,Bikaji,2000,g,1,Regular,0,712,770.92,645.7,0.05
+323,Dabur Disposable 1000ml x12 (Regular),43,Dabur,1000,ml,12,Regular,0,636,1200.55,1091.34,0.05
+324,Patanjali Baking Supplies 250g x10 (Economy),25,Patanjali,250,g,10,Economy,0,147,175.26,149.32,0.05
+325,Appy Personal Care 750g x12 (Regular),28,Appy,750,g,12,Regular,0,435,568.38,477.49,0.0
+326,Tropicana Dairy 750ml x2 (Regular),2,Tropicana,750,ml,2,Regular,1,3,245.02,213.81,0.0
+327,Lizol Bakery 2000g x1 (Regular),3,Lizol,2000,g,1,Regular,1,19,606.1,503.12,0.05
+328,Parle Men's Grooming 2000g x1 (Regular),33,Parle,2000,g,1,Regular,0,527,513.73,447.88,0.18
+329,Catch Batteries 500g x4 (Economy),67,Catch,500,g,4,Economy,0,416,843.39,675.17,0.05
+330,Bikaji Gardening 2000ml x10 (Regular),56,Bikaji,2000,ml,10,Regular,0,414,1884.35,1723.81,0.18
+331,Pepsi Water 200g x1 (Regular),27,Pepsi,200,g,1,Regular,0,359,206.93,189.85,0.0
+332,Bikaji Baby Care 750ml x2 (Economy),35,Bikaji,750,ml,2,Economy,0,247,412.38,345.2,0.05
+333,Harpic Books 1000g x4 (Regular),72,Harpic,1000,g,4,Regular,0,492,1303.06,1080.63,0.12
+334,Pears Electronics Accessories 250g x24 (Economy),65,Pears,250,g,24,Economy,0,432,843.71,713.29,0.05
+335,Pepsi Pet Care 750g x2 (Regular),46,Pepsi,750,g,2,Regular,0,510,743.79,612.35,0.18
+336,Tata Organic 50ml x3 (Regular),73,Tata,50,ml,3,Regular,0,297,360.37,320.41,0.18
+337,Dettol Category 95 750g x10 (Regular),95,Dettol,750,g,10,Regular,0,637,2570.91,2265.22,0.18
+338,ITC Electricals 500g x2 (Economy),47,ITC,500,g,2,Economy,0,680,211.96,182.98,0.05
+339,Surf Excel Category 93 500g x24 (Economy),93,Surf Excel,500,g,24,Economy,0,432,1713.28,1487.27,0.12
+340,Everest Pulses 750g x4 (Premium),5,Everest,750,g,4,Premium,0,546,537.63,489.89,0.05
+341,Parle School Essentials 50g x1 (Economy),64,Parle,50,g,1,Economy,0,196,53.81,47.55,0.12
+342,Colgate Spices 1000g x3 (Regular),7,Colgate,1000,g,3,Regular,0,397,611.79,488.68,0.05
+343,MDH Ice Cream 100ml x2 (Regular),15,MDH,100,ml,2,Regular,1,21,279.88,232.71,0.05
+344,Lifebuoy Pickles 1000g x1 (Economy),23,Lifebuoy,1000,g,1,Economy,0,242,352.36,309.67,0.05
+345,"Monster Sugar, Jaggery 2000g x1 (Economy)",8,Monster,2000,g,1,Economy,0,303,532.82,431.87,0.0
+346,DMart Sports 50ml x2 (Regular),57,DMart,50,ml,2,Regular,0,242,306.34,263.81,0.12
+347,Haldiram Dry Fruits 100ml x1 (Economy),24,Haldiram,100,ml,1,Economy,0,337,128.9,116.62,0.05
+348,Sunfeast Ready-to-Eat 50ml x1 (Regular),11,Sunfeast,50,ml,1,Regular,0,566,57.65,51.94,0.0
+349,Ariel Ice Cream 250g x3 (Economy),15,Ariel,250,g,3,Economy,1,24,339.34,308.18,0.0
+350,Red Bull Dairy 500ml x6 (Premium),2,Red Bull,500,ml,6,Premium,1,12,283.85,255.08,0.0
+351,Dove Category 91 50g x2 (Regular),91,Dove,50,g,2,Regular,0,630,2470.02,2139.34,0.12
+352,Saffola Category 90 200g x3 (Economy),90,Saffola,200,g,3,Economy,0,285,1816.6,1633.23,0.18
+353,ITC Meat 500ml x1 (Regular),17,ITC,500,ml,1,Regular,1,20,162.71,140.8,0.05
+354,Catch Cleaning Tools 1000g x1 (Economy),55,Catch,1000,g,1,Economy,0,376,243.34,194.24,0.05
+355,Surf Excel Bakery 250g x2 (Premium),3,Surf Excel,250,g,2,Premium,1,27,439.09,345.67,0.05
+356,ITC Dry Fruits 100ml x6 (Economy),24,ITC,100,ml,6,Economy,0,500,220.36,186.47,0.0
+357,DMart Bedding 200g x4 (Economy),53,DMart,200,g,4,Economy,0,655,206.77,167.85,0.05
+358,Fortune Ice Cream 750ml x5 (Regular),15,Fortune,750,ml,5,Regular,1,19,665.8,555.22,0.0
+359,Nivea Pickles 250ml x10 (Economy),23,Nivea,250,ml,10,Economy,0,435,360.68,330.64,0.05
+360,"Dabur Tea, Coffee 2000ml x1 (Regular)",9,Dabur,2000,ml,1,Regular,0,560,153.31,130.18,0.0
+361,Pepsi Packaged Foods 100ml x1 (Premium),10,Pepsi,100,ml,1,Premium,0,676,42.17,35.79,0.0
+362,Fortune Fresh Produce 100g x24 (Regular),1,Fortune,100,g,24,Regular,1,7,240.54,190.07,0.05
+363,Haldiram Pickles 100g x3 (Regular),23,Haldiram,100,g,3,Regular,0,149,299.67,237.62,0.0
+364,Tata Hair Care 200ml x2 (Regular),30,Tata,200,ml,2,Regular,0,151,408.52,325.35,0.05
+365,Haldiram Hair Care 2000g x1 (Economy),30,Haldiram,2000,g,1,Economy,0,616,469.67,400.94,0.0
+366,Pears Baby Food 50g x2 (Regular),19,Pears,50,g,2,Regular,0,667,49.12,39.17,0.05
+367,Britannia Laundry Detergent 1000g x1 (Regular),39,Britannia,1000,g,1,Regular,0,498,450.19,381.41,0.18
+368,Ariel Dairy 2000ml x1 (Economy),2,Ariel,2000,ml,1,Economy,1,15,230.25,211.32,0.05
+369,Lifebuoy Oral Care 100g x5 (Economy),29,Lifebuoy,100,g,5,Economy,0,508,47.03,39.14,0.0
+370,Patanjali Pet Care 200g x1 (Premium),46,Patanjali,200,g,1,Premium,0,429,594.98,546.0,0.12
+371,Parle Festive Packs 50g x2 (Economy),62,Parle,50,g,2,Economy,0,173,452.89,368.98,0.05
+372,Harpic Category 99 750ml x3 (Economy),99,Harpic,750,ml,3,Economy,0,638,2899.65,2612.09,0.18
+373,Coca-Cola Skin Care 100ml x3 (Regular),31,Coca-Cola,100,ml,3,Regular,0,332,185.94,165.48,0.12
+374,Harpic Pet Food Premium 50ml x6 (Economy),88,Harpic,50,ml,6,Economy,0,474,462.3,361.62,0.18
+375,Dettol Pooja Items 50ml x3 (Premium),83,Dettol,50,ml,3,Premium,0,408,1530.72,1317.46,0.12
+376,"Fortune Tea, Coffee 250ml x4 (Economy)",9,Fortune,250,ml,4,Economy,0,445,112.76,101.65,0.0
+377,Monster Health 100ml x10 (Regular),36,Monster,100,ml,10,Regular,0,294,197.89,156.69,0.05
+378,Aashirvaad Ice Cream 250g x2 (Economy),15,Aashirvaad,250,g,2,Economy,1,5,383.62,318.16,0.05
+379,Catch Mobile Accessories 200g x5 (Regular),66,Catch,200,g,5,Regular,0,106,532.13,489.11,0.05
+380,Monster Footwear 100g x6 (Economy),59,Monster,100,g,6,Economy,0,270,546.08,500.07,0.12
+381,Pepsi Category 94 1000g x1 (Regular),94,Pepsi,1000,g,1,Regular,0,588,1265.54,1153.53,0.18
+382,Fortune Staples 500g x2 (Regular),4,Fortune,500,g,2,Regular,0,416,327.24,257.94,0.0
+383,Tropicana Skin Care 500g x10 (Regular),31,Tropicana,500,g,10,Regular,0,335,287.77,225.92,0.12
+384,Parle Baking Supplies 250g x3 (Regular),25,Parle,250,g,3,Regular,0,127,149.56,117.18,0.0
+385,Patanjali Storage 50g x5 (Regular),51,Patanjali,50,g,5,Regular,0,611,60.98,53.5,0.12
+386,Parle Laundry Detergent 50ml x12 (Economy),39,Parle,50,ml,12,Economy,0,217,336.41,294.42,0.12
+387,Aashirvaad Kitchen Essentials 2000g x1 (Premium),42,Aashirvaad,2000,g,1,Premium,0,418,109.53,87.67,0.12
+388,Coca-Cola Packaged Foods 750ml x24 (Regular),10,Coca-Cola,750,ml,24,Regular,0,243,85.65,70.12,0.0
+389,Colgate Pet Food Premium 750ml x12 (Premium),88,Colgate,750,ml,12,Premium,0,377,1394.48,1215.32,0.18
+390,"Everest Sauces, Ketchup 500ml x5 (Premium)",22,Everest,500,ml,5,Premium,0,438,337.36,303.54,0.05
+391,Saffola Personal Care 500ml x2 (Regular),28,Saffola,500,ml,2,Regular,0,413,404.76,316.16,0.05
+392,Patanjali Ice Cream 200g x4 (Regular),15,Patanjali,200,g,4,Regular,1,20,381.26,333.59,0.05
+393,Red Bull Noodles 500g x1 (Economy),21,Red Bull,500,g,1,Economy,0,711,149.76,124.41,0.05
+394,Nivea Soft Drinks 1000g x1 (Economy),26,Nivea,1000,g,1,Economy,0,155,101.84,87.06,0.05
+395,Surf Excel Health Drinks 750ml x6 (Premium),18,Surf Excel,750,ml,6,Premium,0,237,347.51,298.01,0.0
+396,Ariel Bath 100ml x5 (Economy),32,Ariel,100,ml,5,Economy,0,295,254.73,232.28,0.12
+397,Kissan Plastics 500g x3 (Regular),71,Kissan,500,g,3,Regular,0,126,1081.99,987.84,0.18
+398,Tropicana Books 500ml x2 (Regular),72,Tropicana,500,ml,2,Regular,0,311,954.99,749.98,0.12
+399,Saffola Pet Care 1000g x1 (Regular),46,Saffola,1000,g,1,Regular,0,571,712.83,560.78,0.12
+400,Himalaya Air Fresheners 200ml x1 (Economy),41,Himalaya,200,ml,1,Economy,0,569,564.59,484.82,0.05
+401,Everest Toys 750g x12 (Regular),45,Everest,750,g,12,Regular,0,290,1005.92,869.49,0.05
+402,Patanjali OTC Medicines 2000ml x1 (Economy),37,Patanjali,2000,ml,1,Economy,0,255,1293.15,1022.59,0.05
+403,Lizol Pulses 750g x1 (Regular),5,Lizol,750,g,1,Regular,0,374,338.1,310.92,0.05
+404,Catch Spices 750g x6 (Economy),7,Catch,750,g,6,Economy,0,93,504.96,413.22,0.0
+405,Colgate Women's Hygiene 750g x1 (Regular),34,Colgate,750,g,1,Regular,0,366,1070.91,892.16,0.05
+406,MDH Pulses 200g x1 (Premium),5,MDH,200,g,1,Premium,0,703,314.44,267.48,0.0
+407,"Paper Boat Tea, Coffee 750ml x1 (Economy)",9,Paper Boat,750,ml,1,Economy,0,636,92.67,73.64,0.05
+408,Colgate Home Appliances 200ml x2 (Economy),48,Colgate,200,ml,2,Economy,0,556,601.02,520.81,0.12
+409,Ariel Value Packs 100ml x1 (Economy),89,Ariel,100,ml,1,Economy,0,220,2296.12,1905.12,0.18
+410,Surf Excel Bakery 250ml x2 (Premium),3,Surf Excel,250,ml,2,Premium,1,29,402.93,332.06,0.0
+411,Aashirvaad Toys 1000g x24 (Regular),45,Aashirvaad,1000,g,24,Regular,0,144,1196.42,980.34,0.12
+412,Paper Boat Bath 100g x3 (Regular),32,Paper Boat,100,g,3,Regular,0,311,219.86,193.18,0.18
+413,Red Bull Bakery 250g x5 (Economy),3,Red Bull,250,g,5,Economy,1,5,350.43,284.61,0.05
+414,Sunfeast School Essentials 100g x1 (Economy),64,Sunfeast,100,g,1,Economy,0,204,48.72,41.64,0.12
+415,Monster Gardening 750ml x3 (Regular),56,Monster,750,ml,3,Regular,0,219,1211.69,1077.99,0.18
+416,Himalaya Diabetic Care 250g x4 (Premium),86,Himalaya,250,g,4,Premium,0,229,3063.95,2536.17,0.28
+417,Haldiram Storage 2000ml x1 (Premium),51,Haldiram,2000,ml,1,Premium,0,94,110.49,101.6,0.12
+418,Pepsi Sports 250g x4 (Economy),57,Pepsi,250,g,4,Economy,0,140,320.68,277.08,0.12
+419,Tropicana Baking Supplies 2000ml x2 (Economy),25,Tropicana,2000,ml,2,Economy,0,488,228.37,194.19,0.05
+420,Surf Excel Disposable 1000g x1 (Economy),43,Surf Excel,1000,g,1,Economy,0,621,845.06,759.61,0.05
+421,Dabur Electricals 2000g x12 (Regular),47,Dabur,2000,g,12,Regular,0,246,427.09,377.34,0.12
+422,"Everest Sugar, Jaggery 500g x12 (Regular)",8,Everest,500,g,12,Regular,0,104,578.15,477.59,0.05
+423,ITC Biscuits 500ml x4 (Regular),13,ITC,500,ml,4,Regular,0,510,436.95,392.6,0.05
+424,Ariel Frozen Foods 100ml x1 (Economy),16,Ariel,100,ml,1,Economy,1,19,166.83,147.17,0.0
+425,Everest Pet Care 50ml x5 (Regular),46,Everest,50,ml,5,Regular,0,463,625.37,548.58,0.18
+426,Kissan Dishwash 1000ml x1 (Regular),40,Kissan,1000,ml,1,Regular,0,712,154.22,128.1,0.18
+427,"MDH Sauces, Ketchup 50ml x4 (Economy)",22,MDH,50,ml,4,Economy,0,210,165.34,133.59,0.0
+428,Parle Electronics Accessories 2000ml x4 (Economy),65,Parle,2000,ml,4,Economy,0,642,918.94,828.29,0.12
+429,Sunfeast Bath Linen 2000ml x1 (Economy),54,Sunfeast,2000,ml,1,Economy,0,601,920.46,776.67,0.05
+430,"Paper Boat Tea, Coffee 200ml x1 (Premium)",9,Paper Boat,200,ml,1,Premium,0,368,95.62,76.27,0.0
+431,Kellogg's Electronics Accessories 500g x5 (Regular),65,Kellogg's,500,g,5,Regular,0,360,768.73,682.04,0.05
+432,Red Bull Noodles 1000g x24 (Economy),21,Red Bull,1000,g,24,Economy,0,93,322.84,282.28,0.05
+433,Monster Men's Grooming 500g x12 (Economy),33,Monster,500,g,12,Economy,0,444,596.94,480.53,0.05
+434,MDH Snacks 750ml x1 (Regular),12,MDH,750,ml,1,Regular,0,303,62.18,49.48,0.0
+435,Pears Personal Care 750ml x2 (Economy),28,Pears,750,ml,2,Economy,0,251,325.89,278.31,0.0
+436,Britannia Frozen Foods 250ml x1 (Regular),16,Britannia,250,ml,1,Regular,1,5,229.77,200.55,0.05
+437,DMart Footwear 250g x4 (Premium),59,DMart,250,g,4,Premium,0,527,863.11,776.14,0.12
+438,Tropicana Stationery 500ml x1 (Premium),44,Tropicana,500,ml,1,Premium,0,528,875.18,778.22,0.05
+439,Monster Fragrances 500ml x3 (Regular),78,Monster,500,ml,3,Regular,0,166,1021.21,937.06,0.18
+440,Ariel Ready-to-Eat 200g x3 (Economy),11,Ariel,200,g,3,Economy,0,202,84.04,74.38,0.0
+441,Saffola Disposable 1000ml x3 (Economy),43,Saffola,1000,ml,3,Economy,0,424,817.21,673.33,0.12
+442,Surf Excel Women's Hygiene 2000ml x10 (Regular),34,Surf Excel,2000,ml,10,Regular,0,541,2028.95,1743.14,0.12
+443,Nestlé Women's Hygiene 750ml x3 (Economy),34,Nestlé,750,ml,3,Economy,0,296,1267.61,1075.02,0.05
+444,Patanjali Seasonal Specials 2000ml x24 (Economy),61,Patanjali,2000,ml,24,Economy,0,467,1004.98,863.35,0.12
+445,Himalaya Oral Care 100g x4 (Regular),29,Himalaya,100,g,4,Regular,0,612,59.79,48.95,0.05
+446,Dove Cleaning Tools 100g x10 (Economy),55,Dove,100,g,10,Economy,0,339,213.76,177.5,0.12
+447,Colgate Baby Food 750g x2 (Regular),19,Colgate,750,g,2,Regular,0,240,77.39,66.95,0.0
+448,"Aashirvaad Tea, Coffee 100ml x1 (Regular)",9,Aashirvaad,100,ml,1,Regular,0,521,62.38,52.01,0.05
+449,Amul Mobile Accessories 1000ml x3 (Economy),66,Amul,1000,ml,3,Economy,0,350,712.9,604.0,0.18
+450,Dove Home Care 100ml x5 (Premium),38,Dove,100,ml,5,Premium,0,313,376.18,306.13,0.18
+451,Paper Boat Meat 250g x1 (Economy),17,Paper Boat,250,g,1,Economy,1,14,145.5,133.23,0.0
+452,Patanjali Bath 200ml x1 (Regular),32,Patanjali,200,ml,1,Regular,0,143,218.48,200.27,0.18
+453,Saffola Home Appliances 250g x5 (Economy),48,Saffola,250,g,5,Economy,0,545,751.56,683.59,0.12
+454,Britannia Meat 2000ml x3 (Economy),17,Britannia,2000,ml,3,Economy,1,25,263.83,224.06,0.05
+455,Colgate Snacks 250ml x2 (Regular),12,Colgate,250,ml,2,Regular,0,274,50.81,43.16,0.0
+456,Dettol Category 98 2000ml x1 (Regular),98,Dettol,2000,ml,1,Regular,0,255,2944.41,2690.21,0.18
+457,Lizol Snacks 100g x12 (Economy),12,Lizol,100,g,12,Economy,0,714,57.13,50.62,0.0
+458,Parle Pickles 200g x24 (Regular),23,Parle,200,g,24,Regular,0,343,445.34,409.08,0.0
+459,Amul Personal Care 500ml x1 (Regular),28,Amul,500,ml,1,Regular,0,483,338.82,269.15,0.0
+460,Haldiram Energy Drinks 1000g x1 (Economy),75,Haldiram,1000,g,1,Economy,0,352,3784.31,2955.92,0.12
+461,Dabur Baby Food 2000g x10 (Regular),19,Dabur,2000,g,10,Regular,0,435,144.91,133.25,0.05
+462,Appy Ice Cream 50g x1 (Economy),15,Appy,50,g,1,Economy,1,11,222.36,195.05,0.0
+463,"Appy Tea, Coffee 250ml x3 (Premium)",9,Appy,250,ml,3,Premium,0,324,125.1,107.66,0.05
+464,Dettol Festive Packs 50ml x1 (Regular),62,Dettol,50,ml,1,Regular,0,116,484.36,381.04,0.12
+465,DMart Kitchen Essentials 500g x1 (Regular),42,DMart,500,g,1,Regular,0,524,64.71,55.84,0.05
+466,Britannia Edible Oils 2000ml x1 (Economy),6,Britannia,2000,ml,1,Economy,0,414,510.17,431.35,0.0
+467,Nivea Bath 100g x3 (Economy),32,Nivea,100,g,3,Economy,0,200,207.53,183.28,0.12
+468,Dettol Category 98 50ml x1 (Regular),98,Dettol,50,ml,1,Regular,0,627,1328.25,1084.1,0.18
+469,Ariel Masks 500g x1 (Regular),84,Ariel,500,g,1,Regular,0,333,2874.67,2300.51,0.18
+470,Tata Kitchen Essentials 100ml x1 (Economy),42,Tata,100,ml,1,Economy,0,562,46.39,38.46,0.05
+471,Haldiram Frozen Foods 50ml x2 (Economy),16,Haldiram,50,ml,2,Economy,1,8,229.55,187.75,0.05
+472,Lifebuoy Stationery 250ml x4 (Economy),44,Lifebuoy,250,ml,4,Economy,0,359,731.82,624.99,0.05
+473,Monster OTC Medicines 500g x1 (Regular),37,Monster,500,g,1,Regular,0,552,888.09,754.72,0.12
+474,Everest Category 93 2000ml x1 (Economy),93,Everest,2000,ml,1,Economy,0,692,1146.16,943.79,0.12
+475,Kellogg's Fresh Produce 100g x1 (Economy),1,Kellogg's,100,g,1,Economy,1,16,128.39,111.51,0.0
+476,Colgate Noodles 2000g x4 (Economy),21,Colgate,2000,g,4,Economy,0,583,282.4,255.49,0.05
+477,Nestlé Personal Care 50ml x4 (Regular),28,Nestlé,50,ml,4,Regular,0,284,251.31,209.76,0.0
+478,Appy Travel 500g x2 (Regular),58,Appy,500,g,2,Regular,0,592,687.74,614.01,0.05
+479,Surf Excel Seasonal Specials 250g x3 (Economy),61,Surf Excel,250,g,3,Economy,0,322,410.67,369.25,0.12
+480,Appy Footwear 1000ml x1 (Premium),59,Appy,1000,ml,1,Premium,0,494,758.86,634.02,0.18
+481,Catch Kitchen Essentials 2000ml x1 (Economy),42,Catch,2000,ml,1,Economy,0,122,80.77,71.15,0.12
+482,Ariel Air Fresheners 50g x2 (Premium),41,Ariel,50,g,2,Premium,0,520,897.59,764.0,0.05
+483,Fortune Breakfast Cereals 250ml x1 (Regular),20,Fortune,250,ml,1,Regular,0,337,96.5,77.25,0.0
+484,Saffola Protein 750g x2 (Regular),76,Saffola,750,g,2,Regular,0,309,336.63,278.68,0.18
+485,Dove Hair Care 50ml x2 (Regular),30,Dove,50,ml,2,Regular,0,166,353.03,276.17,0.05
+486,Colgate Baking Supplies 100ml x1 (Regular),25,Colgate,100,ml,1,Regular,0,660,110.67,98.84,0.0
+487,MDH Mobile Accessories 50ml x24 (Premium),66,MDH,50,ml,24,Premium,0,324,770.7,699.57,0.12
+488,Kissan Travel 100ml x1 (Premium),58,Kissan,100,ml,1,Premium,0,670,598.49,485.62,0.12
+489,"Parle Sauces, Ketchup 1000ml x10 (Regular)",22,Parle,1000,ml,10,Regular,0,535,418.16,343.95,0.0
+490,Colgate Dairy 50g x3 (Regular),2,Colgate,50,g,3,Regular,1,18,147.48,133.89,0.05
+491,Ariel Fresh Produce 1000g x2 (Regular),1,Ariel,1000,g,2,Regular,1,29,259.08,220.65,0.05
+492,Pears Organic 100ml x5 (Economy),73,Pears,100,ml,5,Economy,0,135,271.32,212.46,0.18
+493,Monster Packaged Foods 1000g x2 (Economy),10,Monster,1000,g,2,Economy,0,364,56.92,50.83,0.0
+494,Ariel Toys 50ml x1 (Economy),45,Ariel,50,ml,1,Economy,0,324,365.33,323.15,0.12
+495,Maggi Stationery 50ml x10 (Economy),44,Maggi,50,ml,10,Economy,0,291,693.18,629.92,0.05
+496,Pears Ice Cream 250g x1 (Premium),15,Pears,250,g,1,Premium,1,21,467.86,427.21,0.05
+497,Amul Bath 2000g x1 (Economy),32,Amul,2000,g,1,Economy,0,477,315.1,260.72,0.12
+498,Surf Excel Hair Care 250g x4 (Economy),30,Surf Excel,250,g,4,Economy,0,628,425.96,390.92,0.0
+499,Aashirvaad Health 100ml x6 (Economy),36,Aashirvaad,100,ml,6,Economy,0,636,202.41,161.43,0.05
+500,Saffola International Foods 2000ml x5 (Regular),74,Saffola,2000,ml,5,Regular,0,639,2863.07,2326.93,0.18
+501,Dettol Pooja Items 500ml x1 (Regular),83,Dettol,500,ml,1,Regular,0,343,1278.91,997.7,0.18
+502,Kissan Edible Oils 1000g x2 (Premium),6,Kissan,1000,g,2,Premium,0,123,572.79,457.4,0.0
+503,Appy Hair Care 50g x3 (Regular),30,Appy,50,g,3,Regular,0,420,310.38,279.14,0.05
+504,Pears Breakfast Cereals 100ml x2 (Premium),20,Pears,100,ml,2,Premium,0,565,121.17,101.28,0.0
+505,Red Bull Electronics Accessories 50g x5 (Premium),65,Red Bull,50,g,5,Premium,0,643,654.65,541.69,0.12
+506,Lizol Dry Fruits 250g x1 (Regular),24,Lizol,250,g,1,Regular,0,512,216.32,190.88,0.0
+507,Kellogg's Baby Care 1000ml x1 (Regular),35,Kellogg's,1000,ml,1,Regular,0,523,429.91,355.73,0.12
+508,Paper Boat Gardening 750g x24 (Economy),56,Paper Boat,750,g,24,Economy,0,667,1676.13,1452.53,0.12
+509,Coca-Cola Kitchen Appliances 100g x1 (Regular),49,Coca-Cola,100,g,1,Regular,0,377,207.14,172.93,0.05
+510,Kissan Apparel 2000ml x2 (Regular),60,Kissan,2000,ml,2,Regular,0,188,1007.26,824.0,0.18
+511,Nestlé Skin Care 750g x1 (Regular),31,Nestlé,750,g,1,Regular,0,475,252.06,211.65,0.05
+512,Red Bull Dishwash 250g x5 (Economy),40,Red Bull,250,g,5,Economy,0,624,130.17,115.24,0.18
+513,Appy Baby Food 50ml x6 (Economy),19,Appy,50,ml,6,Economy,0,397,59.27,47.44,0.0
+514,Nivea School Essentials 100ml x1 (Regular),64,Nivea,100,ml,1,Regular,0,308,55.51,49.57,0.05
+515,Kellogg's Energy Drinks 50g x5 (Economy),75,Kellogg's,50,g,5,Economy,0,390,2778.75,2374.52,0.18
+516,Catch Noodles 2000g x1 (Regular),21,Catch,2000,g,1,Regular,0,534,216.08,192.59,0.0
+517,Pepsi Health 500g x1 (Regular),36,Pepsi,500,g,1,Regular,0,299,228.93,193.71,0.12
+518,Himalaya Spices 750ml x1 (Economy),7,Himalaya,750,ml,1,Economy,0,223,404.15,350.07,0.0
+519,"Coca-Cola Sugar, Jaggery 1000ml x2 (Regular)",8,Coca-Cola,1000,ml,2,Regular,0,204,519.06,428.46,0.0
+520,Everest Packaged Foods 100ml x4 (Economy),10,Everest,100,ml,4,Economy,0,359,40.36,32.46,0.05
+521,Red Bull Home Appliances 2000ml x2 (Economy),48,Red Bull,2000,ml,2,Economy,0,299,1367.47,1206.01,0.05
+522,Dove Electronics Accessories 500ml x1 (Economy),65,Dove,500,ml,1,Economy,0,499,499.53,442.3,0.12
+523,"Surf Excel Tea, Coffee 2000g x1 (Regular)",9,Surf Excel,2000,g,1,Regular,0,594,143.63,119.91,0.0
+524,Colgate Category 100 250g x5 (Regular),100,Colgate,250,g,5,Regular,0,139,251.66,210.02,0.18
+525,Nivea Baking Supplies 50g x2 (Economy),25,Nivea,50,g,2,Economy,0,195,127.25,109.23,0.0
+526,Catch Sanitary 100g x2 (Regular),80,Catch,100,g,2,Regular,0,198,836.65,684.02,0.18
+527,Harpic Category 100 2000g x1 (Economy),100,Harpic,2000,g,1,Economy,0,709,229.97,184.72,0.12
+528,Nestlé Books 750g x4 (Regular),72,Nestlé,750,g,4,Regular,0,205,1129.32,893.7,0.18
+529,Kellogg's Water 2000ml x1 (Premium),27,Kellogg's,2000,ml,1,Premium,0,569,514.95,437.66,0.05
+530,Colgate Dairy 200g x3 (Regular),2,Colgate,200,g,3,Regular,1,21,207.27,163.39,0.05
+531,Harpic OTC Medicines 2000ml x5 (Economy),37,Harpic,2000,ml,5,Economy,0,252,1551.87,1356.4,0.12
+532,Red Bull Baby Care 200ml x1 (Premium),35,Red Bull,200,ml,1,Premium,0,594,438.95,402.42,0.12
+533,Nestlé Fresh Produce 1000g x3 (Regular),1,Nestlé,1000,g,3,Regular,1,29,268.82,215.36,0.0
+534,Nestlé Protein 1000g x4 (Regular),76,Nestlé,1000,g,4,Regular,0,250,361.95,300.16,0.18
+535,Ariel Packaged Foods 750g x10 (Regular),10,Ariel,750,g,10,Regular,0,130,77.93,65.2,0.0
+536,Aashirvaad Home Appliances 750g x12 (Economy),48,Aashirvaad,750,g,12,Economy,0,258,1193.17,935.6,0.12
+537,Fortune Health Drinks 100g x3 (Regular),18,Fortune,100,g,3,Regular,0,661,158.22,142.47,0.0
+538,Amul Oral Care 1000ml x3 (Regular),29,Amul,1000,ml,3,Regular,0,499,94.06,78.79,0.05
+539,Britannia Women's Hygiene 750g x6 (Regular),34,Britannia,750,g,6,Regular,0,653,1260.83,1158.75,0.18
+540,Pepsi Stationery 50g x1 (Regular),44,Pepsi,50,g,1,Regular,0,246,555.58,439.11,0.05
+541,Sunfeast Home Care 500g x2 (Economy),38,Sunfeast,500,g,2,Economy,0,338,323.39,288.4,0.18
+542,Nestlé Baking Supplies 200ml x1 (Premium),25,Nestlé,200,ml,1,Premium,0,221,144.82,120.41,0.0
+543,Dettol Bakery 2000ml x1 (Regular),3,Dettol,2000,ml,1,Regular,1,4,488.98,438.93,0.05
+544,"Harpic Tea, Coffee 750ml x5 (Premium)",9,Harpic,750,ml,5,Premium,0,387,200.39,177.46,0.0
+545,Maggi Electricals 1000g x1 (Premium),47,Maggi,1000,g,1,Premium,0,581,250.15,212.96,0.18
+546,Bikaji Pet Care 750ml x2 (Regular),46,Bikaji,750,ml,2,Regular,0,678,665.83,567.06,0.12
+547,Britannia Home Furnishing 1000ml x3 (Premium),52,Britannia,1000,ml,3,Premium,0,245,1630.99,1438.12,0.12
+548,Dove Edible Oils 100ml x4 (Economy),6,Dove,100,ml,4,Economy,0,249,321.76,270.07,0.05
+549,Dettol Meat 200ml x10 (Premium),17,Dettol,200,ml,10,Premium,1,25,245.56,219.63,0.0
+550,Bikaji Frozen Foods 1000ml x6 (Regular),16,Bikaji,1000,ml,6,Regular,1,23,530.35,455.61,0.05
+551,Appy Lighting 100ml x1 (Regular),68,Appy,100,ml,1,Regular,0,252,765.85,648.68,0.18
+552,Dabur Festive Packs 500g x1 (Regular),62,Dabur,500,g,1,Regular,0,374,648.48,571.3,0.12
+553,Aashirvaad Seasonal Specials 750ml x6 (Regular),61,Aashirvaad,750,ml,6,Regular,0,502,538.04,419.68,0.18
+554,Nivea Category 94 2000ml x24 (Economy),94,Nivea,2000,ml,24,Economy,0,564,2399.16,1950.16,0.18
+555,ITC Pooja Items 1000g x1 (Premium),83,ITC,1000,g,1,Premium,0,473,1959.46,1569.38,0.18
+556,Dettol Kitchen Appliances 100ml x24 (Regular),49,Dettol,100,ml,24,Regular,0,466,435.64,379.23,0.05
+557,Himalaya OTC Medicines 2000g x1 (Regular),37,Himalaya,2000,g,1,Regular,0,183,1509.76,1232.96,0.12
+558,Monster Automotive 50g x3 (Economy),69,Monster,50,g,3,Economy,0,95,445.73,365.58,0.05
+559,Saffola Air Fresheners 2000g x1 (Regular),41,Saffola,2000,g,1,Regular,0,401,1192.0,1000.27,0.12
+560,Colgate Gifting Combos 2000g x6 (Economy),63,Colgate,2000,g,6,Economy,0,401,312.2,257.89,0.18
+561,ITC Snacks 100ml x1 (Regular),12,ITC,100,ml,1,Regular,0,248,32.1,26.51,0.0
+562,Parle OTC Medicines 1000g x2 (Regular),37,Parle,1000,g,2,Regular,0,680,1429.84,1146.42,0.05
+563,MDH Baby Care 200ml x1 (Regular),35,MDH,200,ml,1,Regular,0,612,283.11,251.1,0.12
+564,Colgate Baby Care 100g x1 (Regular),35,Colgate,100,g,1,Regular,0,165,269.4,224.68,0.05
+565,Britannia Home Care 100ml x1 (Economy),38,Britannia,100,ml,1,Economy,0,148,180.53,159.31,0.05
+566,Ariel Pet Care 500g x1 (Regular),46,Ariel,500,g,1,Regular,0,560,597.02,521.37,0.05
+567,Paper Boat Pet Care 200g x24 (Economy),46,Paper Boat,200,g,24,Economy,0,332,695.63,569.53,0.18
+568,Coca-Cola Category 90 2000g x10 (Regular),90,Coca-Cola,2000,g,10,Regular,0,623,4370.4,3776.98,0.28
+569,Haldiram Ice Cream 200g x4 (Economy),15,Haldiram,200,g,4,Economy,1,13,368.31,327.73,0.05
+570,Dettol Packaged Foods 100ml x3 (Premium),10,Dettol,100,ml,3,Premium,0,275,55.03,49.15,0.05
+571,Tata Travel 750ml x1 (Economy),58,Tata,750,ml,1,Economy,0,511,604.28,478.11,0.12
+572,Coca-Cola Meat 750g x1 (Economy),17,Coca-Cola,750,g,1,Economy,1,22,175.49,161.08,0.05
+573,Patanjali Baby Food 50g x10 (Regular),19,Patanjali,50,g,10,Regular,0,671,68.69,54.73,0.0
+574,Lifebuoy Snacks 200ml x10 (Economy),12,Lifebuoy,200,ml,10,Economy,0,148,63.35,57.32,0.0
+575,Sunfeast Women's Hygiene 50g x1 (Economy),34,Sunfeast,50,g,1,Economy,0,544,564.4,486.1,0.18
+576,Ariel Oral Care 200g x1 (Economy),29,Ariel,200,g,1,Economy,0,102,45.98,41.45,0.05
+577,Nivea Category 95 200ml x1 (Economy),95,Nivea,200,ml,1,Economy,0,700,1174.38,1073.43,0.12
+578,Pears Bedding 50ml x1 (Premium),53,Pears,50,ml,1,Premium,0,177,162.38,131.26,0.12
+579,Kellogg's Stationery 2000g x3 (Regular),44,Kellogg's,2000,g,3,Regular,0,121,1365.08,1180.94,0.05
+580,Nestlé Disposable 2000g x1 (Economy),43,Nestlé,2000,g,1,Economy,0,544,923.86,756.16,0.18
+581,Surf Excel Baby Food 200ml x1 (Regular),19,Surf Excel,200,ml,1,Regular,0,379,45.13,38.16,0.0
+582,Tropicana Shaving 250g x4 (Regular),79,Tropicana,250,g,4,Regular,0,559,1898.65,1532.46,0.12
+583,"Parle Sugar, Jaggery 500g x10 (Economy)",8,Parle,500,g,10,Economy,0,225,450.45,395.29,0.05
+584,Lifebuoy Footwear 100g x1 (Regular),59,Lifebuoy,100,g,1,Regular,0,697,380.49,347.91,0.05
+585,"Haldiram Sugar, Jaggery 1000ml x2 (Regular)",8,Haldiram,1000,ml,2,Regular,0,587,542.8,480.92,0.0
+586,Dettol Health 250ml x5 (Regular),36,Dettol,250,ml,5,Regular,0,309,210.95,193.33,0.12
+587,Surf Excel Ice Cream 250ml x1 (Regular),15,Surf Excel,250,ml,1,Regular,1,5,353.94,323.27,0.05
+588,Britannia Air Fresheners 50ml x1 (Premium),41,Britannia,50,ml,1,Premium,0,617,882.34,730.41,0.18
+589,DMart Biscuits 750ml x1 (Economy),13,DMart,750,ml,1,Economy,0,410,337.35,307.96,0.0
+590,Britannia Health 200ml x3 (Regular),36,Britannia,200,ml,3,Regular,0,654,192.29,173.21,0.05
+591,Catch Dairy 1000g x24 (Regular),2,Catch,1000,g,24,Regular,1,9,435.69,378.37,0.0
+592,Fortune Meat 50ml x2 (Economy),17,Fortune,50,ml,2,Economy,1,8,136.74,114.31,0.0
+593,Maggi Footwear 500ml x5 (Regular),59,Maggi,500,ml,5,Regular,0,111,818.29,704.63,0.12
+594,Lifebuoy Home Care 750g x6 (Regular),38,Lifebuoy,750,g,6,Regular,0,609,518.7,448.08,0.18
+595,MDH Health 100g x1 (Economy),36,MDH,100,g,1,Economy,0,714,134.22,119.78,0.05
+596,Parle Kitchen Appliances 100ml x2 (Regular),49,Parle,100,ml,2,Regular,0,169,298.62,237.88,0.12
+597,Nestlé Home Care 2000ml x1 (Premium),38,Nestlé,2000,ml,1,Premium,0,484,565.54,444.92,0.12
+598,Kissan Health Drinks 250ml x1 (Regular),18,Kissan,250,ml,1,Regular,0,661,150.44,121.57,0.0
+599,Patanjali Shaving 250ml x12 (Economy),79,Patanjali,250,ml,12,Economy,0,154,2274.41,2013.2,0.12
+600,"Tata Sauces, Ketchup 250ml x1 (Regular)",22,Tata,250,ml,1,Regular,0,487,198.84,161.45,0.0
+601,Himalaya Dairy 250ml x10 (Economy),2,Himalaya,250,ml,10,Economy,1,20,212.91,171.69,0.0
+602,Colgate Biscuits 250g x1 (Economy),13,Colgate,250,g,1,Economy,0,659,246.25,192.82,0.05
+603,Nivea Oral Care 250g x2 (Economy),29,Nivea,250,g,2,Economy,0,140,48.33,38.43,0.0
+604,Britannia Fresh Produce 250g x3 (Economy),1,Britannia,250,g,3,Economy,1,18,151.06,132.39,0.0
+605,Dettol Dishwash 100ml x1 (Economy),40,Dettol,100,ml,1,Economy,0,345,92.27,72.17,0.12
+606,Sunfeast Category 90 100ml x12 (Regular),90,Sunfeast,100,ml,12,Regular,0,641,2473.37,2089.88,0.28
+607,Dabur Air Fresheners 200ml x4 (Economy),41,Dabur,200,ml,4,Economy,0,279,890.63,750.32,0.05
+608,Bikaji Chocolates 1000g x3 (Premium),14,Bikaji,1000,g,3,Premium,0,133,363.21,297.9,0.0
+609,Catch Pulses 750g x4 (Regular),5,Catch,750,g,4,Regular,0,287,371.37,294.06,0.05
+610,Lizol Dishwash 200ml x1 (Regular),40,Lizol,200,ml,1,Regular,0,469,100.01,90.37,0.12
+611,Nestlé Bath Linen 750g x4 (Economy),54,Nestlé,750,g,4,Economy,0,162,959.44,776.55,0.12
+612,Nivea Kitchen Appliances 250ml x4 (Regular),49,Nivea,250,ml,4,Regular,0,689,341.62,295.71,0.12
+613,Kissan Kitchen Essentials 50ml x6 (Premium),42,Kissan,50,ml,6,Premium,0,658,83.52,69.11,0.05
+614,Coca-Cola Soft Drinks 100g x6 (Economy),26,Coca-Cola,100,g,6,Economy,0,145,70.18,54.75,0.05
+615,Surf Excel Water 50ml x4 (Regular),27,Surf Excel,50,ml,4,Regular,0,630,281.47,239.97,0.05
+616,Aashirvaad Energy Drinks 2000g x2 (Regular),75,Aashirvaad,2000,g,2,Regular,0,103,5235.97,4201.16,0.12
+617,Paper Boat Staples 50ml x1 (Premium),4,Paper Boat,50,ml,1,Premium,0,243,295.74,235.58,0.05
+618,Pepsi Breakfast Cereals 500ml x3 (Regular),20,Pepsi,500,ml,3,Regular,0,233,166.81,147.72,0.0
+619,Coca-Cola Breakfast Cereals 100g x1 (Regular),20,Coca-Cola,100,g,1,Regular,0,664,76.19,69.53,0.0
+620,Saffola Category 96 500g x12 (Regular),96,Saffola,500,g,12,Regular,0,248,2485.07,2251.37,0.18
+621,Parle Health 500ml x3 (Regular),36,Parle,500,ml,3,Regular,0,298,285.47,228.06,0.18
+622,Nestlé Snacks 200g x1 (Regular),12,Nestlé,200,g,1,Regular,0,435,37.8,30.02,0.05
+623,Nestlé Organic 750g x5 (Premium),73,Nestlé,750,g,5,Premium,0,205,621.43,507.52,0.18
+624,Sunfeast Soft Drinks 500g x2 (Regular),26,Sunfeast,500,g,2,Regular,0,253,111.04,98.79,0.0
+625,Catch Water 100g x3 (Economy),27,Catch,100,g,3,Economy,0,188,246.83,194.72,0.05
+626,Parle Pickles 250g x1 (Regular),23,Parle,250,g,1,Regular,0,199,266.92,208.59,0.05
+627,Ariel Packaged Foods 2000ml x10 (Premium),10,Ariel,2000,ml,10,Premium,0,100,117.02,101.34,0.0
+628,ITC Bath 2000g x2 (Regular),32,ITC,2000,g,2,Regular,0,416,401.32,337.63,0.12
+629,Appy Air Fresheners 50g x1 (Economy),41,Appy,50,g,1,Economy,0,510,512.74,423.17,0.05
+630,Fortune Bath 50g x1 (Regular),32,Fortune,50,g,1,Regular,0,515,175.49,140.68,0.05
+631,Ariel Water 1000ml x10 (Regular),27,Ariel,1000,ml,10,Regular,0,367,486.36,383.08,0.05
+632,Appy Frozen Foods 1000ml x10 (Regular),16,Appy,1000,ml,10,Regular,1,18,528.18,473.35,0.0
+633,Britannia International Foods 1000g x2 (Economy),74,Britannia,1000,g,2,Economy,0,523,1891.15,1482.56,0.18
+634,Pepsi Energy Drinks 100g x2 (Economy),75,Pepsi,100,g,2,Economy,0,628,1943.64,1692.98,0.28
+635,Monster Kitchen Essentials 250g x5 (Premium),42,Monster,250,g,5,Premium,0,113,88.59,69.61,0.18
+636,Catch Gardening 750g x2 (Regular),56,Catch,750,g,2,Regular,0,635,1160.82,1002.54,0.05
+637,Nestlé Party Supplies 1000g x2 (Economy),82,Nestlé,1000,g,2,Economy,0,549,582.88,502.15,0.18
+638,Pears Ready-to-Eat 2000g x2 (Economy),11,Pears,2000,g,2,Economy,0,373,119.02,99.08,0.05
+639,"Sunfeast Tea, Coffee 1000g x3 (Economy)",9,Sunfeast,1000,g,3,Economy,0,550,150.4,125.61,0.0
+640,MDH Biscuits 200ml x2 (Regular),13,MDH,200,ml,2,Regular,0,275,347.12,319.11,0.0
+641,Maggi Stationery 2000ml x1 (Economy),44,Maggi,2000,ml,1,Economy,0,266,950.78,870.34,0.12
+642,ITC Pulses 250ml x2 (Regular),5,ITC,250,ml,2,Regular,0,249,243.38,202.19,0.05
+643,Nivea Footwear 500ml x10 (Premium),59,Nivea,500,ml,10,Premium,0,308,1221.45,1001.29,0.05
+644,Saffola Staples 1000ml x10 (Regular),4,Saffola,1000,ml,10,Regular,0,264,456.79,407.33,0.05
+645,Maggi Dairy 200ml x1 (Economy),2,Maggi,200,ml,1,Economy,1,7,142.97,114.78,0.0
+646,Fortune Category 93 50g x5 (Regular),93,Fortune,50,g,5,Regular,0,628,985.67,818.52,0.12
+647,Pears Baking Supplies 50ml x1 (Regular),25,Pears,50,ml,1,Regular,0,342,114.87,97.84,0.0
+648,Patanjali Air Fresheners 250ml x2 (Economy),41,Patanjali,250,ml,2,Economy,0,620,800.48,655.77,0.05
+649,Kellogg's Baby Care 2000ml x5 (Economy),35,Kellogg's,2000,ml,5,Economy,0,330,711.77,579.42,0.18
+650,Nestlé Cookware 100g x1 (Economy),50,Nestlé,100,g,1,Economy,0,273,142.72,116.77,0.18
+651,Haldiram Pet Food Premium 100ml x5 (Regular),88,Haldiram,100,ml,5,Regular,0,175,571.2,473.82,0.18
+652,Tropicana Air Fresheners 500ml x10 (Regular),41,Tropicana,500,ml,10,Regular,0,254,1217.78,954.8,0.12
+653,"ITC Sauces, Ketchup 1000ml x2 (Premium)",22,ITC,1000,ml,2,Premium,0,233,444.54,373.12,0.05
+654,Sunfeast Bakery 2000ml x1 (Regular),3,Sunfeast,2000,ml,1,Regular,1,17,525.96,479.3,0.05
+655,Everest Kitchen Appliances 500g x10 (Economy),49,Everest,500,g,10,Economy,0,301,399.06,347.4,0.12
+656,MDH Hair Care 750ml x1 (Economy),30,MDH,750,ml,1,Economy,0,589,427.41,388.26,0.0
+657,Kellogg's Category 90 2000g x4 (Regular),90,Kellogg's,2000,g,4,Regular,0,170,4388.33,3660.31,0.18
+658,Dove Stationery 2000ml x6 (Regular),44,Dove,2000,ml,6,Regular,0,444,1474.43,1288.31,0.12
+659,Everest Home Appliances 250g x6 (Regular),48,Everest,250,g,6,Regular,0,688,847.62,760.9,0.05
+660,Dove Kitchen Appliances 500g x6 (Regular),49,Dove,500,g,6,Regular,0,638,474.87,415.65,0.18
+661,Bikaji Dishwash 250ml x1 (Economy),40,Bikaji,250,ml,1,Economy,0,659,96.1,75.59,0.18
+662,Haldiram Water 1000g x1 (Regular),27,Haldiram,1000,g,1,Regular,0,196,380.79,328.8,0.0
+663,Colgate Men's Grooming 100ml x1 (Regular),33,Colgate,100,ml,1,Regular,0,576,333.33,295.37,0.12
+664,Maggi Bedding 2000ml x4 (Economy),53,Maggi,2000,ml,4,Economy,0,396,378.08,347.56,0.12
+665,Dove Frozen Foods 100g x12 (Premium),16,Dove,100,g,12,Premium,1,17,340.69,311.49,0.05
+666,Dettol Snacks 2000ml x1 (Regular),12,Dettol,2000,ml,1,Regular,0,174,86.14,77.3,0.05
+667,Britannia Home Décor 2000ml x10 (Economy),81,Britannia,2000,ml,10,Economy,0,502,5869.92,5355.66,0.12
+668,Maggi Bedding 200ml x2 (Economy),53,Maggi,200,ml,2,Economy,0,297,149.52,122.62,0.12
+669,Saffola Protein 500ml x4 (Economy),76,Saffola,500,ml,4,Economy,0,674,272.08,237.11,0.18
+670,Surf Excel Soft Drinks 1000g x2 (Regular),26,Surf Excel,1000,g,2,Regular,0,423,115.27,100.9,0.05
+671,MDH Disposable 50g x1 (Premium),43,MDH,50,g,1,Premium,0,175,671.86,553.11,0.05
+672,DMart Pet Care 1000g x2 (Premium),46,DMart,1000,g,2,Premium,0,712,979.02,883.01,0.05
+673,Saffola Sanitary 500g x1 (Economy),80,Saffola,500,g,1,Economy,0,462,959.2,763.11,0.18
+674,Maggi Cosmetics 200ml x10 (Regular),77,Maggi,200,ml,10,Regular,0,292,2879.76,2638.43,0.18
+675,Colgate Health Drinks 2000ml x2 (Regular),18,Colgate,2000,ml,2,Regular,0,181,238.75,196.94,0.05
+676,Harpic Category 93 1000ml x24 (Premium),93,Harpic,1000,ml,24,Premium,0,528,2163.34,1753.61,0.18
+677,Coca-Cola Soft Drinks 750g x1 (Economy),26,Coca-Cola,750,g,1,Economy,0,567,92.08,77.36,0.0
+678,Nestlé Pet Care 200ml x1 (Economy),46,Nestlé,200,ml,1,Economy,0,478,492.63,399.98,0.05
+679,Nivea Category 99 250ml x4 (Economy),99,Nivea,250,ml,4,Economy,0,434,2445.73,2200.44,0.28
+680,ITC Oral Care 750g x3 (Regular),29,ITC,750,g,3,Regular,0,452,84.72,68.07,0.0
+681,Dettol Kitchen Appliances 500ml x3 (Economy),49,Dettol,500,ml,3,Economy,0,132,390.21,317.81,0.18
+682,Colgate Category 98 1000ml x24 (Premium),98,Colgate,1000,ml,24,Premium,0,272,5713.2,5046.29,0.18
+683,Lizol Home Appliances 2000ml x10 (Economy),48,Lizol,2000,ml,10,Economy,0,544,1792.56,1436.14,0.05
+684,Haldiram Storage 100g x2 (Economy),51,Haldiram,100,g,2,Economy,0,386,54.11,45.17,0.05
+685,Harpic Electronics Accessories 200g x24 (Economy),65,Harpic,200,g,24,Economy,0,293,705.18,621.48,0.12
+686,Patanjali Electronics Accessories 750ml x1 (Regular),65,Patanjali,750,ml,1,Regular,0,247,756.32,660.1,0.18
+687,Nivea Value Packs 200g x24 (Regular),89,Nivea,200,g,24,Regular,0,485,5133.76,4131.56,0.12
+688,Nestlé Cookware 500ml x4 (Economy),50,Nestlé,500,ml,4,Economy,0,702,226.51,197.77,0.12
+689,Harpic Meat 750g x12 (Economy),17,Harpic,750,g,12,Economy,1,15,235.04,197.5,0.05
+690,ITC Staples 750g x1 (Economy),4,ITC,750,g,1,Economy,0,429,308.64,265.45,0.05
+691,Fortune Edible Oils 100g x1 (Economy),6,Fortune,100,g,1,Economy,0,281,244.01,194.75,0.0
+692,Britannia Category 92 250g x12 (Economy),92,Britannia,250,g,12,Economy,0,161,837.4,741.66,0.12
+693,Kellogg's Hardware 200ml x2 (Regular),70,Kellogg's,200,ml,2,Regular,0,640,773.63,663.4,0.05
+694,Dettol Toys 750ml x4 (Regular),45,Dettol,750,ml,4,Regular,0,137,738.08,641.29,0.12
+695,Monster Home Décor 500g x6 (Regular),81,Monster,500,g,6,Regular,0,279,4399.98,3776.46,0.18
+696,Red Bull Protein 200ml x1 (Economy),76,Red Bull,200,ml,1,Economy,0,367,182.48,143.18,0.18
+697,Kissan Baking Supplies 100g x2 (Economy),25,Kissan,100,g,2,Economy,0,450,97.33,77.05,0.0
+698,Nestlé Lighting 200g x1 (Economy),68,Nestlé,200,g,1,Economy,0,320,656.66,586.94,0.18
+699,Pepsi Biscuits 100ml x1 (Regular),13,Pepsi,100,ml,1,Regular,0,289,306.15,242.87,0.0
+700,Saffola Category 97 100ml x5 (Economy),97,Saffola,100,ml,5,Economy,0,565,577.15,450.79,0.12
+701,"DMart Sauces, Ketchup 250g x3 (Economy)",22,DMart,250,g,3,Economy,0,541,191.85,156.95,0.0
+702,Bikaji Baby Food 250g x12 (Economy),19,Bikaji,250,g,12,Economy,0,411,74.92,65.99,0.0
+703,Haldiram Snacks 50ml x4 (Economy),12,Haldiram,50,ml,4,Economy,0,701,48.28,38.85,0.05
+704,Bikaji Air Fresheners 250ml x3 (Regular),41,Bikaji,250,ml,3,Regular,0,558,817.11,686.09,0.18
+705,Aashirvaad Home Décor 2000ml x1 (Regular),81,Aashirvaad,2000,ml,1,Regular,0,672,4056.11,3221.47,0.18
+706,Fortune Air Fresheners 250g x5 (Regular),41,Fortune,250,g,5,Regular,0,219,1014.51,835.15,0.05
+707,Dove Bakery 1000g x10 (Regular),3,Dove,1000,g,10,Regular,1,9,642.99,577.97,0.0
+708,Monster Staples 2000g x1 (Regular),4,Monster,2000,g,1,Regular,0,233,415.98,352.02,0.05
+709,MDH Home Care 200g x1 (Regular),38,MDH,200,g,1,Regular,0,110,225.36,182.61,0.12
+710,Fortune Shaving 750g x4 (Regular),79,Fortune,750,g,4,Regular,0,671,3023.47,2591.51,0.12
+711,Saffola Stationery 250g x1 (Economy),44,Saffola,250,g,1,Economy,0,690,647.57,546.23,0.05
+712,Colgate Apparel 50g x2 (Economy),60,Colgate,50,g,2,Economy,0,423,460.94,372.65,0.05
+713,DMart Plastics 200g x12 (Premium),71,DMart,200,g,12,Premium,0,433,1497.51,1257.56,0.18
+714,"Catch Tea, Coffee 100ml x1 (Regular)",9,Catch,100,ml,1,Regular,0,692,64.27,56.81,0.05
+715,Maggi Hair Care 100ml x1 (Regular),30,Maggi,100,ml,1,Regular,0,158,298.35,239.28,0.0
+716,Paper Boat Fresh Produce 2000g x1 (Economy),1,Paper Boat,2000,g,1,Economy,1,16,207.18,174.94,0.05
+717,DMart Hair Care 100g x1 (Regular),30,DMart,100,g,1,Regular,0,619,267.08,242.98,0.05
+718,Bikaji International Foods 1000g x4 (Regular),74,Bikaji,1000,g,4,Regular,0,259,2596.17,2146.8,0.12
+719,Haldiram Electronics Accessories 100g x2 (Economy),65,Haldiram,100,g,2,Economy,0,541,493.48,408.58,0.12
+720,Tropicana Pickles 750ml x2 (Regular),23,Tropicana,750,ml,2,Regular,0,479,433.98,358.46,0.0
+721,Haldiram Sports 50g x2 (Regular),57,Haldiram,50,g,2,Regular,0,96,308.47,262.58,0.12
+722,Everest Gardening 500g x1 (Regular),56,Everest,500,g,1,Regular,0,110,921.18,798.75,0.05
+723,Lifebuoy Health 500ml x1 (Regular),36,Lifebuoy,500,ml,1,Regular,0,431,222.88,176.34,0.18
+724,Bikaji Spices 2000ml x2 (Economy),7,Bikaji,2000,ml,2,Economy,0,712,600.49,518.99,0.0
+725,Kellogg's First Aid 100g x1 (Economy),85,Kellogg's,100,g,1,Economy,0,151,178.79,147.31,0.18
+726,Sunfeast Disposable 2000g x5 (Regular),43,Sunfeast,2000,g,5,Regular,0,703,1216.26,1015.39,0.12
+727,Lifebuoy Snacks 100ml x1 (Economy),12,Lifebuoy,100,ml,1,Economy,0,568,33.74,29.27,0.05
+728,Monster Home Furnishing 500g x2 (Regular),52,Monster,500,g,2,Regular,0,365,800.41,708.16,0.12
+729,Sunfeast Gifting Combos 1000ml x4 (Economy),63,Sunfeast,1000,ml,4,Economy,0,288,239.12,197.26,0.12
+730,"Amul Sugar, Jaggery 100ml x12 (Regular)",8,Amul,100,ml,12,Regular,0,510,412.42,344.76,0.05
+731,Everest Hair Care 100ml x1 (Economy),30,Everest,100,ml,1,Economy,0,626,290.94,264.2,0.05
+732,Dettol Value Packs 250g x5 (Regular),89,Dettol,250,g,5,Regular,0,161,4020.02,3684.36,0.18
+733,Saffola Stationery 100ml x12 (Economy),44,Saffola,100,ml,12,Economy,0,424,885.53,761.5,0.12
+734,Appy Electronics Accessories 750ml x4 (Regular),65,Appy,750,ml,4,Regular,0,658,895.55,802.29,0.18
+735,Kissan Packaged Foods 200ml x3 (Regular),10,Kissan,200,ml,3,Regular,0,608,39.42,32.13,0.05
+736,Fortune Health Drinks 250g x4 (Premium),18,Fortune,250,g,4,Premium,0,600,239.57,203.93,0.05
+737,Tata Category 92 2000g x3 (Regular),92,Tata,2000,g,3,Regular,0,546,1230.69,1130.11,0.18
+738,Everest Edible Oils 2000g x5 (Regular),6,Everest,2000,g,5,Regular,0,264,787.36,622.01,0.05
+739,Harpic Sanitary 50ml x3 (Regular),80,Harpic,50,ml,3,Regular,0,498,1085.31,855.62,0.18
+740,Paper Boat Staples 750ml x1 (Economy),4,Paper Boat,750,ml,1,Economy,0,405,259.32,221.84,0.05
+741,Colgate Toys 50ml x2 (Economy),45,Colgate,50,ml,2,Economy,0,610,354.71,281.91,0.18
+742,Coca-Cola Fresh Produce 100ml x1 (Economy),1,Coca-Cola,100,ml,1,Economy,1,14,123.04,104.16,0.05
+743,Bikaji Home Décor 1000g x10 (Economy),81,Bikaji,1000,g,10,Economy,0,253,4429.89,3485.05,0.18
+744,Dettol Laundry Detergent 50ml x1 (Regular),39,Dettol,50,ml,1,Regular,0,251,251.26,213.91,0.12
+745,Tata Laundry Detergent 1000ml x4 (Economy),39,Tata,1000,ml,4,Economy,0,277,479.78,406.34,0.18
+746,Parle Water 1000g x3 (Economy),27,Parle,1000,g,3,Economy,0,303,452.67,371.57,0.0
+747,ITC Cleaning Tools 200ml x4 (Regular),55,ITC,200,ml,4,Regular,0,120,229.01,201.87,0.18
+748,Haldiram Home Furnishing 1000g x5 (Premium),52,Haldiram,1000,g,5,Premium,0,708,1505.05,1337.46,0.05
+749,Tata Toys 50g x1 (Regular),45,Tata,50,g,1,Regular,0,530,388.81,336.19,0.12
+750,Britannia Men's Grooming 200g x10 (Regular),33,Britannia,200,g,10,Regular,0,452,487.91,408.56,0.12
+751,Surf Excel Biscuits 200ml x3 (Regular),13,Surf Excel,200,ml,3,Regular,0,331,414.28,348.67,0.0
+752,Lifebuoy Disposable 2000g x1 (Regular),43,Lifebuoy,2000,g,1,Regular,0,217,905.5,778.7,0.18
+753,Paper Boat Kids Snacks 1000g x5 (Economy),87,Paper Boat,1000,g,5,Economy,0,498,3489.28,2859.98,0.18
+754,Kissan Breakfast Cereals 2000ml x6 (Economy),20,Kissan,2000,ml,6,Economy,0,427,240.03,215.67,0.05
+755,Tropicana Men's Grooming 500ml x12 (Economy),33,Tropicana,500,ml,12,Economy,0,480,603.98,507.61,0.05
+756,Ariel Staples 500g x6 (Premium),4,Ariel,500,g,6,Premium,0,244,436.24,388.84,0.05
+757,ITC Edible Oils 250g x2 (Regular),6,ITC,250,g,2,Regular,0,189,406.71,318.46,0.05
+758,Patanjali Biscuits 250ml x2 (Premium),13,Patanjali,250,ml,2,Premium,0,486,483.55,407.28,0.0
+759,Aashirvaad Home Appliances 2000g x1 (Economy),48,Aashirvaad,2000,g,1,Economy,0,348,1173.51,966.41,0.18
+760,Saffola Baby Food 100ml x1 (Regular),19,Saffola,100,ml,1,Regular,0,564,37.13,29.65,0.0
+761,Himalaya Value Packs 500ml x24 (Regular),89,Himalaya,500,ml,24,Regular,0,237,6527.62,5122.02,0.12
+762,Patanjali Oral Care 1000g x1 (Economy),29,Patanjali,1000,g,1,Economy,0,242,65.75,53.58,0.0
+763,Bikaji Electricals 250g x2 (Regular),47,Bikaji,250,g,2,Regular,0,236,178.78,149.44,0.18
+764,Colgate Kitchen Essentials 100g x1 (Economy),42,Colgate,100,g,1,Economy,0,535,47.44,37.15,0.12
+765,Parle Health 1000ml x3 (Economy),36,Parle,1000,ml,3,Economy,0,583,251.53,207.02,0.12
+766,MDH Personal Care 500ml x1 (Premium),28,MDH,500,ml,1,Premium,0,702,407.1,333.91,0.0
+767,Everest Bath 50g x4 (Regular),32,Everest,50,g,4,Regular,0,639,252.2,206.79,0.18
+768,Surf Excel Category 99 200ml x4 (Economy),99,Surf Excel,200,ml,4,Economy,0,407,1967.09,1570.68,0.18
+769,Sunfeast Edible Oils 100g x10 (Premium),6,Sunfeast,100,g,10,Premium,0,448,492.66,395.37,0.0
+770,Britannia Category 93 1000g x5 (Economy),93,Britannia,1000,g,5,Economy,0,343,1565.55,1289.5,0.18
+771,Lizol Meat 250ml x1 (Economy),17,Lizol,250,ml,1,Economy,1,7,112.34,99.01,0.0
+772,Colgate Mobile Accessories 200g x24 (Premium),66,Colgate,200,g,24,Premium,0,389,1009.91,857.24,0.05
+773,Himalaya Frozen Foods 200g x24 (Economy),16,Himalaya,200,g,24,Economy,1,28,305.02,265.89,0.05
+774,Monster Water 200ml x5 (Economy),27,Monster,200,ml,5,Economy,0,199,283.69,240.47,0.05
+775,Colgate Gardening 500g x10 (Premium),56,Colgate,500,g,10,Premium,0,501,1623.66,1298.86,0.12
+776,Monster First Aid 100g x1 (Economy),85,Monster,100,g,1,Economy,0,557,185.09,159.33,0.28
+777,Fortune Skin Care 2000ml x1 (Economy),31,Fortune,2000,ml,1,Economy,0,557,270.92,239.72,0.18
+778,Bikaji Pet Care 200g x12 (Economy),46,Bikaji,200,g,12,Economy,0,211,744.38,660.13,0.12
+779,Appy Dry Fruits 250ml x1 (Regular),24,Appy,250,ml,1,Regular,0,317,204.5,175.68,0.0
+780,Lifebuoy Chocolates 750ml x10 (Regular),14,Lifebuoy,750,ml,10,Regular,0,680,339.96,278.36,0.05
+781,Pears Pet Food Premium 50ml x2 (Regular),88,Pears,50,ml,2,Regular,0,411,410.53,320.72,0.18
+782,Everest Kids Snacks 200ml x2 (Economy),87,Everest,200,ml,2,Economy,0,224,1949.49,1772.47,0.12
+783,Lifebuoy Category 95 500ml x2 (Economy),95,Lifebuoy,500,ml,2,Economy,0,203,1560.45,1433.74,0.12
+784,MDH Category 95 200ml x1 (Regular),95,MDH,200,ml,1,Regular,0,203,1540.86,1284.77,0.18
+785,Dettol Home Décor 100ml x24 (Economy),81,Dettol,100,ml,24,Economy,0,500,2965.72,2703.63,0.12
+786,Lizol Kitchen Essentials 500ml x24 (Regular),42,Lizol,500,ml,24,Regular,0,186,116.94,102.89,0.12
+787,Bikaji Noodles 2000ml x3 (Regular),21,Bikaji,2000,ml,3,Regular,0,168,296.77,259.45,0.0
+788,Red Bull Water 100ml x2 (Regular),27,Red Bull,100,ml,2,Regular,0,556,259.84,212.93,0.05
+789,Amul Breakfast Cereals 500g x10 (Economy),20,Amul,500,g,10,Economy,0,523,168.43,154.29,0.0
+790,"Dove Sauces, Ketchup 250g x3 (Premium)",22,Dove,250,g,3,Premium,0,411,292.58,228.83,0.05
+791,Red Bull Gifting Combos 750g x5 (Economy),63,Red Bull,750,g,5,Economy,0,486,237.59,210.0,0.05
+792,Colgate Kids Snacks 1000g x5 (Economy),87,Colgate,1000,g,5,Economy,0,337,3197.03,2615.74,0.12
+793,Coca-Cola Kitchen Essentials 500g x1 (Economy),42,Coca-Cola,500,g,1,Economy,0,625,62.17,52.46,0.18
+794,Lifebuoy Sports 50g x10 (Regular),57,Lifebuoy,50,g,10,Regular,0,101,431.68,393.14,0.05
+795,ITC Baby Food 1000ml x3 (Premium),19,ITC,1000,ml,3,Premium,0,553,101.61,88.3,0.05
+796,Dove Sanitary 750g x10 (Regular),80,Dove,750,g,10,Regular,0,382,1696.07,1523.04,0.28
+797,MDH Laundry Detergent 100g x12 (Regular),39,MDH,100,g,12,Regular,0,711,375.16,298.42,0.05
+798,Pepsi Storage 750ml x2 (Regular),51,Pepsi,750,ml,2,Regular,0,687,95.94,84.4,0.12
+799,Colgate Energy Drinks 250g x12 (Regular),75,Colgate,250,g,12,Regular,0,370,3767.63,3103.93,0.12
+800,"Kellogg's Sauces, Ketchup 100g x2 (Regular)",22,Kellogg's,100,g,2,Regular,0,201,158.48,137.67,0.0
+801,Fortune Biscuits 250g x1 (Regular),13,Fortune,250,g,1,Regular,0,514,319.03,286.15,0.0
+802,Lifebuoy Air Fresheners 2000ml x1 (Regular),41,Lifebuoy,2000,ml,1,Regular,0,135,1122.41,948.09,0.05
+803,MDH Automotive 200ml x5 (Regular),69,MDH,200,ml,5,Regular,0,165,620.22,535.01,0.05
+804,Saffola International Foods 200ml x5 (Regular),74,Saffola,200,ml,5,Regular,0,706,1756.98,1467.51,0.18
+805,Fortune Staples 50g x1 (Regular),4,Fortune,50,g,1,Regular,0,561,195.07,171.59,0.05
+806,Patanjali Mobile Accessories 500ml x24 (Regular),66,Patanjali,500,ml,24,Regular,0,278,998.43,790.56,0.05
+807,Coca-Cola Baby Food 200ml x1 (Economy),19,Coca-Cola,200,ml,1,Economy,0,710,44.33,35.97,0.05
+808,Nivea Spices 50ml x6 (Regular),7,Nivea,50,ml,6,Regular,0,716,374.02,333.95,0.0
+809,Paper Boat Breakfast Cereals 500ml x5 (Regular),20,Paper Boat,500,ml,5,Regular,0,699,168.87,145.71,0.0
+810,"Nestlé Sugar, Jaggery 500g x1 (Regular)",8,Nestlé,500,g,1,Regular,0,707,323.27,285.59,0.05
+811,Parle Soft Drinks 250ml x1 (Regular),26,Parle,250,ml,1,Regular,0,683,74.49,59.57,0.05
+812,Amul Baby Care 200g x6 (Premium),35,Amul,200,g,6,Premium,0,158,543.23,456.19,0.12
+813,Monster Masks 1000g x3 (Regular),84,Monster,1000,g,3,Regular,0,452,4535.74,3810.08,0.18
+814,Aashirvaad Cosmetics 200ml x2 (Regular),77,Aashirvaad,200,ml,2,Regular,0,438,2072.48,1654.13,0.28
+815,Himalaya Seasonal Specials 750ml x1 (Regular),61,Himalaya,750,ml,1,Regular,0,588,429.23,346.88,0.05
+816,Paper Boat Spices 750g x3 (Economy),7,Paper Boat,750,g,3,Economy,0,90,549.69,481.78,0.05
+817,Harpic Bath 2000g x5 (Regular),32,Harpic,2000,g,5,Regular,0,276,451.77,413.57,0.12
+818,Haldiram Pickles 200ml x3 (Regular),23,Haldiram,200,ml,3,Regular,0,709,306.91,244.9,0.05
+819,Red Bull Category 95 500g x5 (Economy),95,Red Bull,500,g,5,Economy,0,441,1798.36,1443.64,0.18
+820,Lizol Pooja Items 1000g x12 (Regular),83,Lizol,1000,g,12,Regular,0,347,2433.51,2233.77,0.18
+821,Nivea Pooja Items 1000ml x2 (Premium),83,Nivea,1000,ml,2,Premium,0,377,2127.06,1903.61,0.18
+822,Tata Books 200ml x1 (Economy),72,Tata,200,ml,1,Economy,0,417,661.6,574.2,0.18
+823,Appy Seasonal Specials 100ml x6 (Regular),61,Appy,100,ml,6,Regular,0,500,391.01,310.93,0.18
+824,Nestlé Gardening 250ml x1 (Regular),56,Nestlé,250,ml,1,Regular,0,164,757.54,655.54,0.05
+825,Tata Laundry Detergent 50g x24 (Regular),39,Tata,50,g,24,Regular,0,654,437.72,373.97,0.05
+826,Harpic Stationery 100g x3 (Premium),44,Harpic,100,g,3,Premium,0,698,862.68,781.35,0.05
+827,Kissan Baby Care 100g x10 (Regular),35,Kissan,100,g,10,Regular,0,563,364.72,317.0,0.18
+828,Dettol OTC Medicines 200ml x2 (Economy),37,Dettol,200,ml,2,Economy,0,447,854.34,738.4,0.18
+829,Dabur Ready-to-Eat 200g x1 (Premium),11,Dabur,200,g,1,Premium,0,501,79.2,62.55,0.05
+830,Colgate Frozen Foods 50ml x12 (Regular),16,Colgate,50,ml,12,Regular,1,17,308.58,256.7,0.05
+831,Britannia Frozen Foods 50g x5 (Regular),16,Britannia,50,g,5,Regular,1,20,286.22,260.63,0.05
+832,Coca-Cola Dry Fruits 200g x1 (Regular),24,Coca-Cola,200,g,1,Regular,0,526,182.06,154.38,0.05
+833,MDH Men's Grooming 1000ml x5 (Regular),33,MDH,1000,ml,5,Regular,0,433,624.77,565.44,0.12
+834,Pears Bath 100ml x24 (Regular),32,Pears,100,ml,24,Regular,0,288,352.13,283.56,0.18
+835,Patanjali Pooja Items 100g x1 (Economy),83,Patanjali,100,g,1,Economy,0,123,833.44,672.74,0.12
+836,Lifebuoy Ready-to-Eat 500g x1 (Economy),11,Lifebuoy,500,g,1,Economy,0,697,81.26,65.55,0.05
+837,Harpic Skin Care 2000ml x24 (Regular),31,Harpic,2000,ml,24,Regular,0,505,597.48,527.28,0.18
+838,Surf Excel Meat 500ml x2 (Regular),17,Surf Excel,500,ml,2,Regular,1,20,168.42,151.47,0.05
+839,Saffola Category 93 250g x1 (Premium),93,Saffola,250,g,1,Premium,0,251,891.0,812.66,0.28
+840,Amul OTC Medicines 1000ml x5 (Economy),37,Amul,1000,ml,5,Economy,0,701,1578.44,1302.13,0.12
+841,Dettol Toys 2000g x4 (Regular),45,Dettol,2000,g,4,Regular,0,508,1152.02,915.76,0.05
+842,Lifebuoy Category 92 250g x1 (Regular),92,Lifebuoy,250,g,1,Regular,0,136,751.83,671.37,0.28
+843,Everest Bath Linen 200ml x24 (Economy),54,Everest,200,ml,24,Economy,0,474,1004.74,883.78,0.18
+844,Parle OTC Medicines 50g x1 (Economy),37,Parle,50,g,1,Economy,0,238,533.13,476.34,0.05
+845,Amul Baking Supplies 500ml x10 (Regular),25,Amul,500,ml,10,Regular,0,584,210.94,178.86,0.05
+846,Monster Gifting Combos 50g x1 (Regular),63,Monster,50,g,1,Regular,0,377,137.81,112.97,0.12
+847,Ariel Oral Care 500ml x1 (Regular),29,Ariel,500,ml,1,Regular,0,355,59.86,52.52,0.05
+848,Tata Seasonal Specials 100g x3 (Economy),61,Tata,100,g,3,Economy,0,231,294.12,237.88,0.18
+849,Surf Excel Chocolates 250ml x6 (Regular),14,Surf Excel,250,ml,6,Regular,0,244,302.4,275.48,0.05
+850,ITC Dairy 750g x1 (Economy),2,ITC,750,g,1,Economy,1,12,202.32,163.67,0.0
+851,"Coca-Cola Sauces, Ketchup 500ml x24 (Regular)",22,Coca-Cola,500,ml,24,Regular,0,648,368.65,332.06,0.05
+852,Tropicana Sports 200ml x10 (Regular),57,Tropicana,200,ml,10,Regular,0,514,475.09,407.96,0.05
+853,Dettol Category 99 250ml x4 (Regular),99,Dettol,250,ml,4,Regular,0,471,2165.02,1764.9,0.12
+854,Tata Chocolates 200g x24 (Regular),14,Tata,200,g,24,Regular,0,649,308.85,260.92,0.05
+855,Sunfeast Lighting 100g x2 (Economy),68,Sunfeast,100,g,2,Economy,0,505,655.07,516.88,0.12
+856,Dettol Toys 100ml x10 (Regular),45,Dettol,100,ml,10,Regular,0,523,549.5,496.1,0.18
+857,Tropicana Women's Hygiene 2000ml x3 (Regular),34,Tropicana,2000,ml,3,Regular,0,148,1527.12,1230.92,0.18
+858,Tata Pooja Items 250ml x10 (Regular),83,Tata,250,ml,10,Regular,0,106,1759.28,1546.29,0.12
+859,Himalaya Air Fresheners 50ml x5 (Economy),41,Himalaya,50,ml,5,Economy,0,514,853.08,707.0,0.05
+860,Bikaji Air Fresheners 250g x1 (Regular),41,Bikaji,250,g,1,Regular,0,284,683.16,610.74,0.05
+861,Pears Bakery 200g x2 (Premium),3,Pears,200,g,2,Premium,1,9,441.86,393.78,0.05
+862,Nivea Electricals 2000g x5 (Economy),47,Nivea,2000,g,5,Economy,0,529,362.03,325.63,0.12
+863,Saffola School Essentials 50g x1 (Regular),64,Saffola,50,g,1,Regular,0,656,67.17,53.49,0.12
+864,Maggi Stationery 250g x3 (Economy),44,Maggi,250,g,3,Economy,0,593,762.23,661.62,0.05
+865,Amul Batteries 750g x1 (Economy),67,Amul,750,g,1,Economy,0,586,733.89,662.64,0.05
+866,DMart Stationery 50g x3 (Premium),44,DMart,50,g,3,Premium,0,397,790.09,642.01,0.12
+867,Nestlé Cleaning Tools 500g x1 (Regular),55,Nestlé,500,g,1,Regular,0,416,219.87,184.63,0.12
+868,Nestlé Baby Food 100g x1 (Regular),19,Nestlé,100,g,1,Regular,0,297,40.69,32.43,0.0
+869,Paper Boat Packaged Foods 750ml x1 (Regular),10,Paper Boat,750,ml,1,Regular,0,416,57.42,51.36,0.0
+870,Haldiram Kitchen Essentials 500ml x4 (Economy),42,Haldiram,500,ml,4,Economy,0,488,74.72,67.47,0.18
+871,Sunfeast Footwear 2000ml x1 (Premium),59,Sunfeast,2000,ml,1,Premium,0,679,1179.96,1046.45,0.12
+872,Aashirvaad Dishwash 1000g x24 (Regular),40,Aashirvaad,1000,g,24,Regular,0,473,271.8,215.64,0.18
+873,Aashirvaad Snacks 200g x2 (Regular),12,Aashirvaad,200,g,2,Regular,0,362,51.94,46.77,0.05
+874,Bikaji Batteries 100ml x3 (Economy),67,Bikaji,100,ml,3,Economy,0,491,557.63,502.43,0.05
+875,Kissan Snacks 250g x1 (Regular),12,Kissan,250,g,1,Regular,0,318,48.39,37.77,0.0
+876,Catch Oral Care 50g x24 (Premium),29,Catch,50,g,24,Premium,0,376,97.85,87.49,0.05
+877,Britannia Energy Drinks 750g x1 (Regular),75,Britannia,750,g,1,Regular,0,362,3120.42,2526.52,0.18
+878,Sunfeast Chocolates 750ml x6 (Regular),14,Sunfeast,750,ml,6,Regular,0,542,384.07,304.42,0.05
+879,Everest Noodles 250ml x1 (Economy),21,Everest,250,ml,1,Economy,0,245,104.82,86.67,0.0
+880,Paper Boat Category 91 2000g x3 (Regular),91,Paper Boat,2000,g,3,Regular,0,650,4578.57,3997.57,0.28
+881,Kellogg's Health 50g x1 (Economy),36,Kellogg's,50,g,1,Economy,0,585,121.35,107.18,0.18
+882,Red Bull Health Drinks 50ml x2 (Regular),18,Red Bull,50,ml,2,Regular,0,481,134.15,109.47,0.0
+883,Aashirvaad Fresh Produce 2000ml x6 (Regular),1,Aashirvaad,2000,ml,6,Regular,1,23,384.27,323.5,0.0
+884,Tata OTC Medicines 1000g x2 (Economy),37,Tata,1000,g,2,Economy,0,368,1332.37,1148.89,0.05
+885,Haldiram Protein 750g x1 (Economy),76,Haldiram,750,g,1,Economy,0,649,261.65,230.64,0.18
+886,Pears Meat 1000ml x12 (Economy),17,Pears,1000,ml,12,Economy,1,20,268.37,216.29,0.05
+887,Pepsi Pet Care 200g x1 (Premium),46,Pepsi,200,g,1,Premium,0,386,554.14,448.99,0.18
+888,Nivea Bakery 200ml x3 (Regular),3,Nivea,200,ml,3,Regular,1,28,395.83,339.97,0.05
+889,Dettol Fresh Produce 2000ml x5 (Regular),1,Dettol,2000,ml,5,Regular,1,17,364.61,308.12,0.0
+890,Surf Excel Air Fresheners 500g x2 (Economy),41,Surf Excel,500,g,2,Economy,0,180,943.94,855.54,0.12
+891,"Maggi Sugar, Jaggery 1000ml x3 (Economy)",8,Maggi,1000,ml,3,Economy,0,205,414.14,358.76,0.0
+892,Harpic Category 95 200g x10 (Regular),95,Harpic,200,g,10,Regular,0,392,2282.88,2077.05,0.18
+893,Dettol Kitchen Appliances 100g x3 (Regular),49,Dettol,100,g,3,Regular,0,618,253.01,202.26,0.18
+894,Dove Health 200ml x2 (Regular),36,Dove,200,ml,2,Regular,0,691,178.67,143.16,0.18
+895,ITC Skin Care 750g x4 (Economy),31,ITC,750,g,4,Economy,0,653,284.2,256.05,0.18
+896,Red Bull Spices 250g x2 (Regular),7,Red Bull,250,g,2,Regular,0,529,402.21,355.0,0.05
+897,Nestlé Sports 750g x4 (Regular),57,Nestlé,750,g,4,Regular,0,310,560.18,499.26,0.05
+898,Catch Category 93 2000ml x1 (Premium),93,Catch,2000,ml,1,Premium,0,127,1450.46,1253.91,0.18
+899,Paper Boat Air Fresheners 200ml x4 (Regular),41,Paper Boat,200,ml,4,Regular,0,404,806.49,668.4,0.05
+900,Lizol Kitchen Essentials 1000g x5 (Regular),42,Lizol,1000,g,5,Regular,0,468,94.99,78.03,0.12
+901,Bikaji Biscuits 250g x10 (Regular),13,Bikaji,250,g,10,Regular,0,401,505.71,446.29,0.0
+902,Dettol Chocolates 750g x2 (Economy),14,Dettol,750,g,2,Economy,0,209,247.56,218.1,0.0
+903,Paper Boat Dairy 50g x1 (Regular),2,Paper Boat,50,g,1,Regular,1,23,140.58,116.29,0.0
+904,Everest Gardening 50g x3 (Premium),56,Everest,50,g,3,Premium,0,124,984.77,830.05,0.12
+905,Aashirvaad Electronics Accessories 2000ml x1 (Economy),65,Aashirvaad,2000,ml,1,Economy,0,678,868.39,680.46,0.12
+906,Dove Pet Care 250g x1 (Economy),46,Dove,250,g,1,Economy,0,567,457.52,375.21,0.18
+907,Fortune Edible Oils 750g x3 (Economy),6,Fortune,750,g,3,Economy,0,614,405.55,360.47,0.0
+908,Kellogg's Edible Oils 200ml x1 (Regular),6,Kellogg's,200,ml,1,Regular,0,680,351.74,309.59,0.05
+909,Patanjali Pickles 250g x2 (Economy),23,Patanjali,250,g,2,Economy,0,703,249.69,206.66,0.05
+910,Dove Home Furnishing 50g x2 (Economy),52,Dove,50,g,2,Economy,0,353,554.79,456.68,0.18
+911,Tropicana Lighting 750ml x1 (Regular),68,Tropicana,750,ml,1,Regular,0,611,1250.01,1045.18,0.12
+912,Nivea Cookware 2000g x3 (Regular),50,Nivea,2000,g,3,Regular,0,706,303.03,273.93,0.05
+913,Maggi Edible Oils 1000g x10 (Economy),6,Maggi,1000,g,10,Economy,0,365,618.26,525.42,0.0
+914,Tropicana Oral Care 2000g x1 (Premium),29,Tropicana,2000,g,1,Premium,0,407,88.73,70.77,0.05
+915,"Harpic Sugar, Jaggery 2000g x24 (Premium)",8,Harpic,2000,g,24,Premium,0,283,988.1,781.97,0.05
+916,Dove Water 200ml x2 (Economy),27,Dove,200,ml,2,Economy,0,444,247.83,205.98,0.0
+917,Appy Sanitary 2000g x12 (Regular),80,Appy,2000,g,12,Regular,0,522,2399.46,2081.33,0.18
+918,Pepsi Hardware 250ml x1 (Regular),70,Pepsi,250,ml,1,Regular,0,643,623.33,514.75,0.05
+919,Tata Home Appliances 500g x24 (Regular),48,Tata,500,g,24,Regular,0,540,1504.65,1215.64,0.05
+920,Amul Chocolates 500ml x3 (Regular),14,Amul,500,ml,3,Regular,0,597,302.53,241.84,0.05
+921,Pepsi Spices 50ml x1 (Premium),7,Pepsi,50,ml,1,Premium,0,275,327.81,277.34,0.0
+922,Aashirvaad Organic 100ml x1 (Economy),73,Aashirvaad,100,ml,1,Economy,0,507,263.01,237.23,0.18
+923,Kellogg's Health 750ml x3 (Regular),36,Kellogg's,750,ml,3,Regular,0,381,314.15,250.8,0.12
+924,Pepsi Edible Oils 1000g x5 (Premium),6,Pepsi,1000,g,5,Premium,0,226,852.77,687.37,0.05
+925,DMart Cosmetics 100ml x3 (Economy),77,DMart,100,ml,3,Economy,0,191,1913.81,1554.04,0.18
+926,ITC Dishwash 500g x2 (Regular),40,ITC,500,g,2,Regular,0,586,166.97,134.35,0.18
+927,Aashirvaad Kids Snacks 500g x3 (Economy),87,Aashirvaad,500,g,3,Economy,0,638,2771.44,2509.57,0.18
+928,Dettol Bakery 200ml x2 (Economy),3,Dettol,200,ml,2,Economy,1,12,327.83,257.33,0.05
+929,Kissan Frozen Foods 50g x10 (Regular),16,Kissan,50,g,10,Regular,1,20,294.6,245.53,0.05
+930,Haldiram Pickles 750g x12 (Economy),23,Haldiram,750,g,12,Economy,0,221,440.06,346.79,0.0
+931,"Sunfeast Sugar, Jaggery 500g x6 (Regular)",8,Sunfeast,500,g,6,Regular,0,600,470.66,376.16,0.05
+932,Colgate Snacks 100ml x2 (Economy),12,Colgate,100,ml,2,Economy,0,697,38.26,34.01,0.0
+933,Pears Air Fresheners 200ml x3 (Regular),41,Pears,200,ml,3,Regular,0,675,850.86,758.25,0.18
+934,"Maggi Sauces, Ketchup 250ml x3 (Premium)",22,Maggi,250,ml,3,Premium,0,630,269.84,243.77,0.0
+935,Pepsi Men's Grooming 50g x2 (Regular),33,Pepsi,50,g,2,Regular,0,101,333.65,268.45,0.05
+936,"Catch Sugar, Jaggery 250g x2 (Regular)",8,Catch,250,g,2,Regular,0,444,367.66,332.5,0.0
+937,Lifebuoy Category 93 750ml x2 (Regular),93,Lifebuoy,750,ml,2,Regular,0,507,1179.77,932.91,0.12
+938,Fortune Home Care 1000ml x24 (Regular),38,Fortune,1000,ml,24,Regular,0,105,716.88,621.26,0.18
+939,Dabur Pickles 250ml x1 (Economy),23,Dabur,250,ml,1,Economy,0,227,214.95,191.82,0.05
+940,Nestlé OTC Medicines 50ml x3 (Regular),37,Nestlé,50,ml,3,Regular,0,223,947.61,748.66,0.05
+941,Pepsi Bedding 250ml x12 (Regular),53,Pepsi,250,ml,12,Regular,0,409,259.3,214.44,0.18
+942,Kellogg's Skin Care 1000ml x1 (Economy),31,Kellogg's,1000,ml,1,Economy,0,462,246.12,204.23,0.18
+943,Saffola Laundry Detergent 2000g x2 (Regular),39,Saffola,2000,g,2,Regular,0,369,645.88,529.01,0.05
+944,Surf Excel OTC Medicines 1000g x12 (Regular),37,Surf Excel,1000,g,12,Regular,0,291,1925.38,1645.09,0.12
+945,Dettol Storage 100ml x24 (Premium),51,Dettol,100,ml,24,Premium,0,616,104.94,90.71,0.18
+946,Saffola Baby Food 250g x2 (Economy),19,Saffola,250,g,2,Economy,0,579,55.61,47.85,0.0
+947,ITC Gifting Combos 2000ml x10 (Regular),63,ITC,2000,ml,10,Regular,0,319,381.28,323.51,0.12
+948,Sunfeast Skin Care 750g x1 (Premium),31,Sunfeast,750,g,1,Premium,0,361,282.94,235.71,0.05
+949,Maggi International Foods 250g x3 (Premium),74,Maggi,250,g,3,Premium,0,541,1744.99,1507.31,0.12
+950,Kellogg's Baking Supplies 100g x3 (Economy),25,Kellogg's,100,g,3,Economy,0,698,131.32,116.03,0.05
+951,Everest Biscuits 500ml x5 (Regular),13,Everest,500,ml,5,Regular,0,704,549.43,439.42,0.0
+952,Himalaya Baby Food 500ml x1 (Regular),19,Himalaya,500,ml,1,Regular,0,186,64.35,55.59,0.05
+953,MDH Edible Oils 100ml x6 (Economy),6,MDH,100,ml,6,Economy,0,539,357.18,288.46,0.0
+954,Coca-Cola Cookware 2000ml x3 (Regular),50,Coca-Cola,2000,ml,3,Regular,0,375,379.31,301.55,0.05
+955,Nivea Frozen Foods 750g x3 (Economy),16,Nivea,750,g,3,Economy,1,8,361.91,304.62,0.05
+956,Nestlé Personal Care 1000ml x1 (Regular),28,Nestlé,1000,ml,1,Regular,0,509,333.52,279.26,0.0
+957,Himalaya Breakfast Cereals 250g x1 (Economy),20,Himalaya,250,g,1,Economy,0,718,86.79,74.27,0.0
+958,Bikaji Health Drinks 250ml x1 (Regular),18,Bikaji,250,ml,1,Regular,0,303,150.59,123.8,0.0
+959,Catch Masks 1000ml x12 (Economy),84,Catch,1000,ml,12,Economy,0,186,5489.48,5018.77,0.12
+960,MDH Category 95 100g x24 (Economy),95,MDH,100,g,24,Economy,0,655,1732.59,1549.61,0.18
+961,Parle Festive Packs 250g x2 (Regular),62,Parle,250,g,2,Regular,0,238,628.87,550.44,0.05
+962,Britannia Pooja Items 750ml x2 (Economy),83,Britannia,750,ml,2,Economy,0,436,1332.0,1045.84,0.18
+963,Kissan Ice Cream 200g x4 (Economy),15,Kissan,200,g,4,Economy,1,10,391.35,336.36,0.0
+964,Kellogg's Fresh Produce 200ml x3 (Regular),1,Kellogg's,200,ml,3,Regular,1,22,176.57,146.63,0.05
+965,Bikaji Pickles 500g x1 (Economy),23,Bikaji,500,g,1,Economy,0,188,288.13,226.88,0.05
+966,Aashirvaad Snacks 200ml x1 (Economy),12,Aashirvaad,200,ml,1,Economy,0,417,34.03,27.06,0.05
+967,Colgate Ready-to-Eat 2000g x12 (Premium),11,Colgate,2000,g,12,Premium,0,177,244.97,204.69,0.05
+968,Nivea Category 97 750g x1 (Regular),97,Nivea,750,g,1,Regular,0,333,761.95,687.18,0.18
+969,Fortune Snacks 2000g x5 (Regular),12,Fortune,2000,g,5,Regular,0,253,94.78,77.98,0.0
+970,Aashirvaad Baking Supplies 200ml x1 (Regular),25,Aashirvaad,200,ml,1,Regular,0,126,111.48,91.2,0.05
+971,DMart Bakery 500g x4 (Regular),3,DMart,500,g,4,Regular,1,11,485.21,439.36,0.05
+972,Pepsi Cleaning Tools 250g x1 (Premium),55,Pepsi,250,g,1,Premium,0,349,201.76,170.23,0.05
+973,Bikaji Baby Care 200ml x1 (Regular),35,Bikaji,200,ml,1,Regular,0,180,271.19,227.44,0.12
+974,"Pears Tea, Coffee 200g x1 (Regular)",9,Pears,200,g,1,Regular,0,224,82.12,65.13,0.05
+975,Dabur Health Drinks 2000ml x24 (Regular),18,Dabur,2000,ml,24,Regular,0,135,368.54,325.6,0.05
+976,Pepsi Staples 200g x12 (Regular),4,Pepsi,200,g,12,Regular,0,401,416.96,333.68,0.0
+977,Bikaji Category 95 250ml x4 (Regular),95,Bikaji,250,ml,4,Regular,0,512,1811.47,1533.38,0.28
+978,ITC Noodles 250ml x3 (Economy),21,ITC,250,ml,3,Economy,0,581,152.47,120.11,0.05
+979,Amul Staples 750g x12 (Premium),4,Amul,750,g,12,Premium,0,548,702.09,572.51,0.0
+980,Haldiram Protein 200g x4 (Regular),76,Haldiram,200,g,4,Regular,0,615,263.25,219.76,0.18
+981,Kissan Dishwash 1000g x2 (Economy),40,Kissan,1000,g,2,Economy,0,451,188.45,169.83,0.05
+982,Britannia Kitchen Essentials 500g x4 (Regular),42,Britannia,500,g,4,Regular,0,710,75.02,66.7,0.05
+983,Paper Boat Water 50g x12 (Regular),27,Paper Boat,50,g,12,Regular,0,651,341.77,293.09,0.0
+984,Britannia Storage 500ml x6 (Economy),51,Britannia,500,ml,6,Economy,0,309,87.39,71.39,0.05
+985,Himalaya Noodles 250ml x2 (Economy),21,Himalaya,250,ml,2,Economy,0,367,154.92,128.91,0.05
+986,Himalaya Stationery 500ml x2 (Economy),44,Himalaya,500,ml,2,Economy,0,135,705.08,596.82,0.12
+987,Dettol Meat 200ml x2 (Economy),17,Dettol,200,ml,2,Economy,1,28,117.99,103.45,0.0
+988,Nivea Hair Care 1000g x2 (Economy),30,Nivea,1000,g,2,Economy,0,679,549.8,493.98,0.0
+989,DMart Frozen Foods 50ml x1 (Economy),16,DMart,50,ml,1,Economy,1,27,182.6,152.51,0.05
+990,Parle Masks 500ml x1 (Regular),84,Parle,500,ml,1,Regular,0,259,2837.1,2454.88,0.12
+991,Colgate Baby Care 50g x24 (Regular),35,Colgate,50,g,24,Regular,0,176,459.22,375.45,0.05
+992,Fortune Toys 200ml x1 (Regular),45,Fortune,200,ml,1,Regular,0,377,382.65,300.38,0.05
+993,Lifebuoy Toys 200ml x1 (Regular),45,Lifebuoy,200,ml,1,Regular,0,178,467.57,369.43,0.18
+994,Himalaya Fragrances 2000ml x6 (Regular),78,Himalaya,2000,ml,6,Regular,0,328,1749.16,1523.11,0.18
+995,Nestlé Health 250g x1 (Economy),36,Nestlé,250,g,1,Economy,0,568,169.45,141.95,0.18
+996,Bikaji Category 90 100ml x1 (Economy),90,Bikaji,100,ml,1,Economy,0,658,1499.56,1266.37,0.12
+997,Paper Boat Batteries 50ml x3 (Regular),67,Paper Boat,50,ml,3,Regular,0,168,538.17,464.17,0.18
+998,Bikaji Shaving 100g x1 (Premium),79,Bikaji,100,g,1,Premium,0,204,1671.63,1319.11,0.18
+999,Lifebuoy Stationery 2000ml x1 (Regular),44,Lifebuoy,2000,ml,1,Regular,0,305,1220.53,1077.52,0.12
+1000,Tropicana Breakfast Cereals 2000ml x3 (Regular),20,Tropicana,2000,ml,3,Regular,0,120,192.41,166.69,0.05
+1001,Parle Ready-to-Eat 500ml x2 (Regular),11,Parle,500,ml,2,Regular,0,180,115.35,103.18,0.05
+1002,ITC Bedding 50g x1 (Regular),53,ITC,50,g,1,Regular,0,381,124.62,100.47,0.05
+1003,Pepsi Bakery 500g x2 (Regular),3,Pepsi,500,g,2,Regular,1,12,395.62,341.39,0.05
+1004,Pepsi Disposable 1000g x12 (Regular),43,Pepsi,1000,g,12,Regular,0,674,1202.86,1057.18,0.18
+1005,Aashirvaad Skin Care 500g x10 (Regular),31,Aashirvaad,500,g,10,Regular,0,204,305.11,246.5,0.12
+1006,Himalaya Biscuits 750g x2 (Regular),13,Himalaya,750,g,2,Regular,0,407,433.2,356.52,0.0
+1007,Saffola Cosmetics 100g x24 (Economy),77,Saffola,100,g,24,Economy,0,581,2924.57,2663.39,0.28
+1008,Paper Boat Baby Food 100g x24 (Regular),19,Paper Boat,100,g,24,Regular,0,391,79.79,71.6,0.05
+1009,"Tropicana Sugar, Jaggery 500ml x10 (Regular)",8,Tropicana,500,ml,10,Regular,0,426,474.21,410.27,0.05
+1010,Kissan Baby Food 1000g x6 (Regular),19,Kissan,1000,g,6,Regular,0,202,111.0,95.7,0.0
+1011,Kellogg's Bath 1000ml x4 (Economy),32,Kellogg's,1000,ml,4,Economy,0,615,409.12,328.68,0.12
+1012,Pears Kitchen Essentials 50ml x24 (Regular),42,Pears,50,ml,24,Regular,0,533,94.75,75.7,0.05
+1013,Lizol Value Packs 750g x1 (Economy),89,Lizol,750,g,1,Economy,0,625,2967.51,2490.59,0.18
+1014,Surf Excel Baking Supplies 1000ml x2 (Economy),25,Surf Excel,1000,ml,2,Economy,0,428,160.02,139.38,0.0
+1015,Nivea Automotive 50ml x1 (Regular),69,Nivea,50,ml,1,Regular,0,107,380.22,322.87,0.18
+1016,Red Bull School Essentials 250g x10 (Regular),64,Red Bull,250,g,10,Regular,0,564,109.55,93.17,0.12
+1017,"Himalaya Sauces, Ketchup 1000g x6 (Regular)",22,Himalaya,1000,g,6,Regular,0,392,390.45,344.99,0.0
+1018,Monster Storage 500g x1 (Regular),51,Monster,500,g,1,Regular,0,211,68.04,62.43,0.18
+1019,Catch Bedding 500ml x10 (Economy),53,Catch,500,ml,10,Economy,0,604,270.56,238.64,0.18
+1020,Colgate Biscuits 2000g x2 (Economy),13,Colgate,2000,g,2,Economy,0,479,512.95,406.03,0.0
+1021,Pepsi Diabetic Care 250g x1 (Premium),86,Pepsi,250,g,1,Premium,0,490,2448.13,2240.27,0.12
+1022,Parle Staples 100ml x2 (Regular),4,Parle,100,ml,2,Regular,0,422,236.21,198.7,0.05
+1023,Britannia Staples 500g x1 (Regular),4,Britannia,500,g,1,Regular,0,626,300.39,256.01,0.05
+1024,Colgate Air Fresheners 1000g x6 (Economy),41,Colgate,1000,g,6,Economy,0,576,1473.38,1259.59,0.12
+1025,"Saffola Sauces, Ketchup 50ml x1 (Economy)",22,Saffola,50,ml,1,Economy,0,600,130.19,116.27,0.0
+1026,Colgate Air Fresheners 200ml x3 (Regular),41,Colgate,200,ml,3,Regular,0,241,955.99,817.31,0.05
+1027,Surf Excel Breakfast Cereals 50g x5 (Economy),20,Surf Excel,50,g,5,Economy,0,139,112.53,102.95,0.0
+1028,Ariel Shaving 500ml x4 (Regular),79,Ariel,500,ml,4,Regular,0,274,2608.1,2367.37,0.18
+1029,Nivea Bath 100g x1 (Economy),32,Nivea,100,g,1,Economy,0,409,154.67,140.51,0.12
+1030,"Sunfeast Sugar, Jaggery 2000g x1 (Economy)",8,Sunfeast,2000,g,1,Economy,0,290,412.37,329.45,0.0
+1031,Patanjali Baby Food 500ml x24 (Regular),19,Patanjali,500,ml,24,Regular,0,114,90.35,70.5,0.0
+1032,Tropicana Ready-to-Eat 250ml x1 (Economy),11,Tropicana,250,ml,1,Economy,0,486,72.62,64.01,0.05
+1033,Kellogg's Category 98 2000ml x12 (Regular),98,Kellogg's,2000,ml,12,Regular,0,647,4326.33,3897.81,0.12
+1034,Ariel Festive Packs 750g x1 (Regular),62,Ariel,750,g,1,Regular,0,93,595.31,525.89,0.05
+1035,Kissan Frozen Foods 500g x5 (Economy),16,Kissan,500,g,5,Economy,1,18,343.34,293.38,0.0
+1036,Nestlé Chocolates 2000ml x10 (Economy),14,Nestlé,2000,ml,10,Economy,0,399,471.92,415.13,0.0
+1037,Paper Boat Gardening 250ml x2 (Premium),56,Paper Boat,250,ml,2,Premium,0,345,1021.63,881.05,0.18
+1038,Haldiram Electronics Accessories 1000g x4 (Regular),65,Haldiram,1000,g,4,Regular,0,479,1001.71,877.32,0.12
+1039,Dove Health 50g x10 (Economy),36,Dove,50,g,10,Economy,0,232,171.08,151.25,0.12
+1040,Maggi Masks 100ml x12 (Economy),84,Maggi,100,ml,12,Economy,0,569,2911.91,2446.59,0.28
+1041,Pears Skin Care 750g x10 (Economy),31,Pears,750,g,10,Economy,0,706,357.09,286.64,0.12
+1042,Dove Toys 50g x2 (Premium),45,Dove,50,g,2,Premium,0,476,574.61,480.0,0.12
+1043,Kellogg's Staples 1000g x12 (Regular),4,Kellogg's,1000,g,12,Regular,0,281,586.07,502.19,0.0
+1044,Dettol Dishwash 250ml x1 (Economy),40,Dettol,250,ml,1,Economy,0,461,115.47,99.05,0.05
+1045,Paper Boat Ice Cream 100g x1 (Regular),15,Paper Boat,100,g,1,Regular,1,15,282.72,255.4,0.0
+1046,"Himalaya Sugar, Jaggery 100g x2 (Economy)",8,Himalaya,100,g,2,Economy,0,147,284.29,228.52,0.0
+1047,Himalaya Baking Supplies 750ml x12 (Regular),25,Himalaya,750,ml,12,Regular,0,152,257.15,232.07,0.0
+1048,Dettol Toys 500g x3 (Regular),45,Dettol,500,g,3,Regular,0,528,607.62,525.03,0.12
+1049,Sunfeast Organic 750ml x1 (Regular),73,Sunfeast,750,ml,1,Regular,0,202,363.78,289.1,0.18
+1050,Kissan Pickles 500ml x2 (Regular),23,Kissan,500,ml,2,Regular,0,440,315.46,281.08,0.05
+1051,Monster Home Care 2000g x1 (Regular),38,Monster,2000,g,1,Regular,0,95,401.35,357.93,0.12
+1052,Sunfeast Home Furnishing 500g x5 (Regular),52,Sunfeast,500,g,5,Regular,0,650,1160.99,933.67,0.05
+1053,Monster Fresh Produce 50g x3 (Economy),1,Monster,50,g,3,Economy,1,18,138.41,112.3,0.0
+1054,DMart Kitchen Essentials 1000ml x1 (Regular),42,DMart,1000,ml,1,Regular,0,428,81.61,65.52,0.05
+1055,Tata Toys 250ml x3 (Economy),45,Tata,250,ml,3,Economy,0,371,519.12,415.14,0.05
+1056,"Colgate Sugar, Jaggery 100g x1 (Regular)",8,Colgate,100,g,1,Regular,0,589,295.23,256.43,0.0
+1057,Kellogg's Bath 500g x24 (Regular),32,Kellogg's,500,g,24,Regular,0,100,472.85,380.36,0.05
+1058,Dove Skin Care 100g x3 (Regular),31,Dove,100,g,3,Regular,0,471,183.39,157.44,0.12
+1059,Dettol Apparel 500ml x3 (Regular),60,Dettol,500,ml,3,Regular,0,181,819.96,668.05,0.12
+1060,"Dove Sauces, Ketchup 200ml x1 (Regular)",22,Dove,200,ml,1,Regular,0,494,186.87,167.96,0.05
+1061,Surf Excel Baking Supplies 200g x3 (Regular),25,Surf Excel,200,g,3,Regular,0,269,164.06,142.3,0.05
+1062,Lizol Staples 250ml x12 (Regular),4,Lizol,250,ml,12,Regular,0,187,428.65,363.32,0.05
+1063,Monster Meat 2000g x2 (Regular),17,Monster,2000,g,2,Regular,1,26,298.96,234.83,0.05
+1064,Saffola Cookware 200ml x2 (Regular),50,Saffola,200,ml,2,Regular,0,598,159.97,143.67,0.12
+1065,"Colgate Sauces, Ketchup 1000ml x1 (Regular)",22,Colgate,1000,ml,1,Regular,0,681,256.08,208.82,0.0
+1066,Saffola Toys 500g x1 (Regular),45,Saffola,500,g,1,Regular,0,680,556.91,466.47,0.05
+1067,Patanjali Baking Supplies 100g x10 (Economy),25,Patanjali,100,g,10,Economy,0,346,133.96,107.15,0.05
+1068,Fortune Stationery 250g x12 (Economy),44,Fortune,250,g,12,Economy,0,606,865.68,715.7,0.12
+1069,Himalaya Cookware 500g x4 (Economy),50,Himalaya,500,g,4,Economy,0,300,211.56,182.04,0.05
+1070,Tata Oral Care 50ml x6 (Economy),29,Tata,50,ml,6,Economy,0,398,54.83,50.42,0.05
+1071,Catch Fragrances 250ml x4 (Regular),78,Catch,250,ml,4,Regular,0,342,869.33,681.41,0.18
+1072,Bikaji Fresh Produce 250ml x6 (Regular),1,Bikaji,250,ml,6,Regular,1,15,243.26,190.08,0.0
+1073,"Coca-Cola Tea, Coffee 500g x1 (Regular)",9,Coca-Cola,500,g,1,Regular,0,125,88.07,73.05,0.05
+1074,Pepsi Air Fresheners 50g x1 (Premium),41,Pepsi,50,g,1,Premium,0,409,789.34,684.05,0.05
+1075,Tropicana Ready-to-Eat 500ml x4 (Economy),11,Tropicana,500,ml,4,Economy,0,129,90.25,79.65,0.0
+1076,Ariel Breakfast Cereals 500ml x5 (Regular),20,Ariel,500,ml,5,Regular,0,163,161.97,139.9,0.05
+1077,Tata Frozen Foods 1000ml x12 (Regular),16,Tata,1000,ml,12,Regular,1,28,489.31,410.79,0.05
+1078,Dove Lighting 2000ml x2 (Regular),68,Dove,2000,ml,2,Regular,0,131,1828.21,1493.38,0.18
+1079,Nestlé Meat 2000ml x10 (Premium),17,Nestlé,2000,ml,10,Premium,1,7,444.71,383.56,0.0
+1080,Amul Men's Grooming 50ml x1 (Regular),33,Amul,50,ml,1,Regular,0,436,327.69,298.11,0.12
+1081,Paper Boat Protein 500g x1 (Regular),76,Paper Boat,500,g,1,Regular,0,261,237.34,194.91,0.18
+1082,Amul Women's Hygiene 200g x10 (Economy),34,Amul,200,g,10,Economy,0,457,953.99,751.97,0.18
+1083,Tata Cosmetics 500ml x3 (Regular),77,Tata,500,ml,3,Regular,0,467,2808.51,2474.59,0.18
+1084,Dettol Pet Care 2000g x1 (Premium),46,Dettol,2000,g,1,Premium,0,559,1081.85,982.32,0.05
+1085,Dabur Batteries 200g x1 (Economy),67,Dabur,200,g,1,Economy,0,182,414.29,367.02,0.12
+1086,Himalaya Water 100ml x2 (Regular),27,Himalaya,100,ml,2,Regular,0,210,221.7,201.24,0.0
+1087,Tropicana Air Fresheners 1000ml x1 (Economy),41,Tropicana,1000,ml,1,Economy,0,298,1046.4,927.28,0.12
+1088,Tata Dairy 200ml x1 (Economy),2,Tata,200,ml,1,Economy,1,17,133.44,122.53,0.05
+1089,Tata Bedding 2000g x5 (Regular),53,Tata,2000,g,5,Regular,0,244,434.65,359.6,0.12
+1090,Sunfeast Dairy 2000ml x1 (Economy),2,Sunfeast,2000,ml,1,Economy,1,19,213.34,176.64,0.0
+1091,Everest Apparel 200g x1 (Regular),60,Everest,200,g,1,Regular,0,558,454.22,405.52,0.18
+1092,Maggi Category 99 500g x1 (Economy),99,Maggi,500,g,1,Economy,0,655,2165.62,1937.59,0.18
+1093,Amul Category 91 200g x2 (Regular),91,Amul,200,g,2,Regular,0,577,2886.37,2435.51,0.12
+1094,Kellogg's Home Appliances 2000ml x1 (Regular),48,Kellogg's,2000,ml,1,Regular,0,127,1298.22,1182.32,0.12
+1095,Amul Electronics Accessories 200ml x1 (Regular),65,Amul,200,ml,1,Regular,0,447,530.39,462.14,0.12
+1096,Kellogg's Frozen Foods 200ml x2 (Premium),16,Kellogg's,200,ml,2,Premium,1,21,309.27,268.7,0.0
+1097,Paper Boat Men's Grooming 2000ml x3 (Regular),33,Paper Boat,2000,ml,3,Regular,0,428,626.01,560.07,0.18
+1098,Bikaji Apparel 100g x2 (Regular),60,Bikaji,100,g,2,Regular,0,123,506.82,464.24,0.12
+1099,"DMart Tea, Coffee 50g x2 (Regular)",9,DMart,50,g,2,Regular,0,264,72.91,65.46,0.05
+1100,Maggi Breakfast Cereals 500ml x2 (Economy),20,Maggi,500,ml,2,Economy,0,98,122.55,102.47,0.0
+1101,Fortune Snacks 750ml x5 (Economy),12,Fortune,750,ml,5,Economy,0,537,61.35,54.11,0.0
+1102,Lizol Health Drinks 50g x4 (Premium),18,Lizol,50,g,4,Premium,0,547,178.6,163.18,0.05
+1103,"Catch Sugar, Jaggery 500g x2 (Regular)",8,Catch,500,g,2,Regular,0,529,354.94,291.54,0.0
+1104,Haldiram Chocolates 2000g x1 (Premium),14,Haldiram,2000,g,1,Premium,0,204,409.88,331.53,0.05
+1105,Surf Excel Electricals 750ml x4 (Regular),47,Surf Excel,750,ml,4,Regular,0,384,248.46,202.64,0.12
+1106,Colgate Category 91 200g x24 (Regular),91,Colgate,200,g,24,Regular,0,364,3847.37,3217.08,0.18
+1107,Appy Dishwash 750ml x4 (Regular),40,Appy,750,ml,4,Regular,0,200,181.34,153.18,0.12
+1108,Harpic First Aid 100g x3 (Regular),85,Harpic,100,g,3,Regular,0,667,278.74,242.2,0.18
+1109,Everest Baking Supplies 1000ml x2 (Economy),25,Everest,1000,ml,2,Economy,0,308,193.39,160.95,0.0
+1110,Fortune Gardening 1000g x1 (Regular),56,Fortune,1000,g,1,Regular,0,493,848.24,735.09,0.12
+1111,Saffola Dry Fruits 750g x10 (Economy),24,Saffola,750,g,10,Economy,0,712,339.25,307.81,0.0
+1112,Fortune OTC Medicines 50g x3 (Regular),37,Fortune,50,g,3,Regular,0,276,749.65,629.4,0.05
+1113,Kellogg's Packaged Foods 100g x24 (Regular),10,Kellogg's,100,g,24,Regular,0,402,59.08,48.17,0.0
+1114,Ariel Gifting Combos 250ml x3 (Premium),63,Ariel,250,ml,3,Premium,0,611,226.47,205.0,0.05
+1115,Britannia Health Drinks 1000g x2 (Premium),18,Britannia,1000,g,2,Premium,0,638,265.22,232.83,0.0
+1116,ITC Women's Hygiene 250g x6 (Regular),34,ITC,250,g,6,Regular,0,95,1065.03,908.93,0.12
+1117,Kissan Category 94 500ml x5 (Regular),94,Kissan,500,ml,5,Regular,0,393,1583.33,1405.41,0.18
+1118,Pears Women's Hygiene 100g x2 (Premium),34,Pears,100,g,2,Premium,0,444,996.64,916.47,0.05
+1119,Paper Boat Party Supplies 2000g x1 (Regular),82,Paper Boat,2000,g,1,Regular,0,604,562.11,444.6,0.12
+1120,Appy Books 500ml x5 (Economy),72,Appy,500,ml,5,Economy,0,648,1111.06,1004.88,0.18
+1121,Tropicana Health 100ml x10 (Regular),36,Tropicana,100,ml,10,Regular,0,241,212.61,167.64,0.05
+1122,"Pepsi Tea, Coffee 100ml x5 (Regular)",9,Pepsi,100,ml,5,Regular,0,678,103.34,91.83,0.0
+1123,Dove Snacks 200g x24 (Regular),12,Dove,200,g,24,Regular,0,415,63.82,56.28,0.0
+1124,Bikaji Hair Care 1000g x2 (Regular),30,Bikaji,1000,g,2,Regular,0,366,608.79,544.54,0.05
+1125,Kissan Skin Care 100g x5 (Economy),31,Kissan,100,g,5,Economy,0,478,192.81,172.61,0.05
+1126,Red Bull Gifting Combos 2000ml x5 (Economy),63,Red Bull,2000,ml,5,Economy,0,111,297.44,273.04,0.05
+1127,Pepsi Apparel 750g x1 (Economy),60,Pepsi,750,g,1,Economy,0,364,678.69,556.05,0.12
+1128,ITC Edible Oils 750g x6 (Economy),6,ITC,750,g,6,Economy,0,243,499.91,427.56,0.0
+1129,Haldiram Soft Drinks 2000ml x1 (Regular),26,Haldiram,2000,ml,1,Regular,0,270,148.22,124.34,0.0
+1130,Bikaji Bakery 1000g x1 (Economy),3,Bikaji,1000,g,1,Economy,1,6,360.11,318.68,0.0
+1131,Monster Ice Cream 50g x1 (Regular),15,Monster,50,g,1,Regular,1,6,298.49,236.77,0.05
+1132,Appy Category 91 250ml x5 (Economy),91,Appy,250,ml,5,Economy,0,108,3047.53,2682.53,0.12
+1133,Surf Excel Health Drinks 250g x2 (Economy),18,Surf Excel,250,g,2,Economy,0,327,145.33,121.97,0.0
+1134,Amul Spices 200g x3 (Premium),7,Amul,200,g,3,Premium,0,136,450.68,399.42,0.0
+1135,Patanjali Bath Linen 1000ml x3 (Economy),54,Patanjali,1000,ml,3,Economy,0,170,1078.55,974.05,0.18
+1136,Lifebuoy Spices 500g x2 (Economy),7,Lifebuoy,500,g,2,Economy,0,533,437.49,394.65,0.0
+1137,Colgate Pooja Items 100ml x3 (Economy),83,Colgate,100,ml,3,Economy,0,442,1072.5,868.45,0.12
+1138,Dettol Home Appliances 250ml x3 (Economy),48,Dettol,250,ml,3,Economy,0,268,878.43,800.96,0.05
+1139,Kissan Bath Linen 100g x2 (Premium),54,Kissan,100,g,2,Premium,0,650,815.37,725.32,0.05
+1140,Nivea Air Fresheners 250g x2 (Economy),41,Nivea,250,g,2,Economy,0,304,711.36,649.93,0.12
+1141,Lizol Baking Supplies 100ml x2 (Economy),25,Lizol,100,ml,2,Economy,0,683,113.71,97.33,0.0
+1142,Surf Excel Dairy 500g x5 (Regular),2,Surf Excel,500,g,5,Regular,1,25,267.3,225.09,0.05
+1143,Dabur Breakfast Cereals 100ml x3 (Regular),20,Dabur,100,ml,3,Regular,0,446,90.09,81.28,0.0
+1144,Everest Staples 750g x1 (Regular),4,Everest,750,g,1,Regular,0,421,341.66,268.54,0.05
+1145,Dove Gifting Combos 50g x3 (Regular),63,Dove,50,g,3,Regular,0,98,153.61,123.65,0.18
+1146,Lifebuoy Hair Care 200ml x5 (Economy),30,Lifebuoy,200,ml,5,Economy,0,313,376.4,300.74,0.0
+1147,Pepsi Bedding 1000g x1 (Economy),53,Pepsi,1000,g,1,Economy,0,248,246.61,205.03,0.12
+1148,Britannia Plastics 250ml x1 (Regular),71,Britannia,250,ml,1,Regular,0,324,909.6,834.95,0.18
+1149,Bikaji Breakfast Cereals 200g x2 (Regular),20,Bikaji,200,g,2,Regular,0,158,119.3,94.72,0.05
+1150,Aashirvaad Cosmetics 50g x3 (Premium),77,Aashirvaad,50,g,3,Premium,0,460,2356.4,2088.82,0.28
+1151,"Tata Sugar, Jaggery 250ml x5 (Regular)",8,Tata,250,ml,5,Regular,0,421,359.68,291.26,0.05
+1152,DMart Laundry Detergent 500ml x6 (Regular),39,DMart,500,ml,6,Regular,0,437,478.65,411.55,0.05
+1153,Kissan School Essentials 750g x1 (Regular),64,Kissan,750,g,1,Regular,0,603,103.91,84.32,0.12
+1154,Lifebuoy Footwear 100g x1 (Regular),59,Lifebuoy,100,g,1,Regular,0,265,402.59,368.57,0.05
+1155,Haldiram Storage 500g x1 (Regular),51,Haldiram,500,g,1,Regular,0,405,60.56,50.6,0.18
+1156,Nivea Kitchen Essentials 200g x1 (Regular),42,Nivea,200,g,1,Regular,0,424,60.1,53.87,0.05
+1157,Himalaya Ice Cream 1000ml x1 (Economy),15,Himalaya,1000,ml,1,Economy,1,15,482.14,385.2,0.05
+1158,Sunfeast Frozen Foods 50ml x2 (Regular),16,Sunfeast,50,ml,2,Regular,1,8,199.41,156.0,0.0
+1159,Dettol Fresh Produce 50ml x10 (Regular),1,Dettol,50,ml,10,Regular,1,28,208.63,178.61,0.0
+1160,Pepsi Bath 2000ml x1 (Regular),32,Pepsi,2000,ml,1,Regular,0,201,391.06,313.05,0.05
+1161,Saffola Health Drinks 200g x1 (Economy),18,Saffola,200,g,1,Economy,0,297,105.25,87.93,0.0
+1162,Red Bull Frozen Foods 200ml x10 (Economy),16,Red Bull,200,ml,10,Economy,1,11,265.89,232.41,0.0
+1163,Harpic Kitchen Appliances 100g x1 (Premium),49,Harpic,100,g,1,Premium,0,478,259.05,225.57,0.18
+1164,Pepsi Ready-to-Eat 250ml x2 (Premium),11,Pepsi,250,ml,2,Premium,0,459,105.62,93.39,0.0
+1165,Red Bull Frozen Foods 50ml x1 (Regular),16,Red Bull,50,ml,1,Regular,1,25,193.41,174.89,0.0
+1166,Kellogg's Apparel 250g x5 (Regular),60,Kellogg's,250,g,5,Regular,0,104,609.84,543.95,0.12
+1167,Paper Boat Personal Care 500ml x4 (Economy),28,Paper Boat,500,ml,4,Economy,0,634,314.27,276.56,0.05
+1168,Aashirvaad Gifting Combos 50ml x1 (Economy),63,Aashirvaad,50,ml,1,Economy,0,362,134.51,113.39,0.05
+1169,Tata Snacks 50g x1 (Economy),12,Tata,50,g,1,Economy,0,298,33.87,28.33,0.05
+1170,Fortune Water 1000g x4 (Economy),27,Fortune,1000,g,4,Economy,0,226,417.2,373.29,0.05
+1171,Sunfeast Electricals 2000g x2 (Economy),47,Sunfeast,2000,g,2,Economy,0,264,278.44,240.01,0.05
+1172,Coca-Cola Disposable 50ml x3 (Regular),43,Coca-Cola,50,ml,3,Regular,0,136,514.83,423.27,0.05
+1173,Saffola Breakfast Cereals 500ml x10 (Economy),20,Saffola,500,ml,10,Economy,0,429,176.53,138.85,0.0
+1174,Monster Category 99 2000g x5 (Economy),99,Monster,2000,g,5,Economy,0,288,4243.96,3703.9,0.18
+1175,Saffola Water 100g x1 (Premium),27,Saffola,100,g,1,Premium,0,474,293.04,248.05,0.05
+1176,Lifebuoy Kitchen Appliances 1000ml x1 (Economy),49,Lifebuoy,1000,ml,1,Economy,0,549,366.21,295.19,0.18
+1177,Pepsi Ready-to-Eat 750g x2 (Economy),11,Pepsi,750,g,2,Economy,0,370,97.42,82.44,0.0
+1178,Kissan Snacks 250ml x1 (Regular),12,Kissan,250,ml,1,Regular,0,396,47.98,40.99,0.0
+1179,Nestlé Fresh Produce 750g x1 (Regular),1,Nestlé,750,g,1,Regular,1,26,200.15,177.67,0.05
+1180,Pears Frozen Foods 250ml x24 (Regular),16,Pears,250,ml,24,Regular,1,17,417.22,332.85,0.05
+1181,Fortune Biscuits 250ml x12 (Premium),13,Fortune,250,ml,12,Premium,0,500,585.09,485.71,0.0
+1182,Ariel Mobile Accessories 750g x1 (Regular),66,Ariel,750,g,1,Regular,0,551,619.93,552.38,0.12
+1183,Coca-Cola Snacks 750ml x1 (Regular),12,Coca-Cola,750,ml,1,Regular,0,161,56.35,47.22,0.0
+1184,Himalaya Soft Drinks 250g x10 (Economy),26,Himalaya,250,g,10,Economy,0,283,112.41,100.76,0.0
+1185,Everest First Aid 250ml x3 (Economy),85,Everest,250,ml,3,Economy,0,526,274.76,233.41,0.18
+1186,Pears Water 200ml x1 (Premium),27,Pears,200,ml,1,Premium,0,269,327.78,301.09,0.0
+1187,Catch Ready-to-Eat 500g x24 (Economy),11,Catch,500,g,24,Economy,0,347,154.08,120.18,0.05
+1188,Lifebuoy Shaving 50ml x3 (Economy),79,Lifebuoy,50,ml,3,Economy,0,537,1669.83,1319.99,0.12
+1189,Britannia Ready-to-Eat 1000ml x1 (Regular),11,Britannia,1000,ml,1,Regular,0,289,99.3,90.13,0.0
+1190,Sunfeast Pet Food Premium 1000ml x1 (Regular),88,Sunfeast,1000,ml,1,Regular,0,337,583.93,500.23,0.18
+1191,MDH Value Packs 250g x1 (Regular),89,MDH,250,g,1,Regular,0,378,2496.96,2125.37,0.28
+1192,Tata Chocolates 100g x1 (Premium),14,Tata,100,g,1,Premium,0,405,232.39,212.96,0.0
+1193,Nivea Meat 200g x3 (Premium),17,Nivea,200,g,3,Premium,1,29,218.37,179.13,0.0
+1194,Maggi Bedding 1000g x24 (Economy),53,Maggi,1000,g,24,Economy,0,262,353.68,297.12,0.05
+1195,Dabur Dry Fruits 500ml x2 (Regular),24,Dabur,500,ml,2,Regular,0,116,294.11,233.3,0.05
+1196,"Monster Tea, Coffee 250g x2 (Premium)",9,Monster,250,g,2,Premium,0,121,120.47,110.59,0.05
+1197,Parle Health 2000ml x10 (Regular),36,Parle,2000,ml,10,Regular,0,240,465.39,388.99,0.05
+1198,Fortune Fresh Produce 50g x1 (Regular),1,Fortune,50,g,1,Regular,1,25,141.02,126.23,0.0
+1199,Monster Meat 250ml x2 (Regular),17,Monster,250,ml,2,Regular,1,3,164.47,136.44,0.05
+1200,Patanjali Electricals 200g x10 (Regular),47,Patanjali,200,g,10,Regular,0,699,236.27,199.01,0.05
+1201,Nestlé Category 95 200ml x2 (Regular),95,Nestlé,200,ml,2,Regular,0,652,1748.43,1568.49,0.12
+1202,DMart Staples 2000ml x4 (Premium),4,DMart,2000,ml,4,Premium,0,531,658.54,528.72,0.0
+1203,Patanjali Edible Oils 50ml x6 (Regular),6,Patanjali,50,ml,6,Regular,0,244,371.85,325.61,0.0
+1204,Kellogg's Men's Grooming 2000g x2 (Regular),33,Kellogg's,2000,g,2,Regular,0,405,613.11,489.02,0.12
+1205,Kissan Automotive 50g x10 (Economy),69,Kissan,50,g,10,Economy,0,718,548.26,439.23,0.12
+1206,Kellogg's Snacks 500ml x10 (Regular),12,Kellogg's,500,ml,10,Regular,0,697,76.99,64.88,0.0
+1207,Parle Disposable 750ml x1 (Economy),43,Parle,750,ml,1,Economy,0,206,710.04,614.17,0.12
+1208,Tropicana Pickles 2000ml x1 (Economy),23,Tropicana,2000,ml,1,Economy,0,452,362.28,285.13,0.05
+1209,Lizol Women's Hygiene 1000ml x1 (Regular),34,Lizol,1000,ml,1,Regular,0,519,1114.87,917.39,0.18
+1210,Coca-Cola Packaged Foods 250g x4 (Regular),10,Coca-Cola,250,g,4,Regular,0,353,55.51,44.55,0.05
+1211,Dettol Organic 500ml x2 (Economy),73,Dettol,500,ml,2,Economy,0,316,428.82,354.24,0.18
+1212,Patanjali Hair Care 50g x3 (Economy),30,Patanjali,50,g,3,Economy,0,548,296.62,232.48,0.0
+1213,Kissan Dairy 750g x3 (Economy),2,Kissan,750,g,3,Economy,1,27,224.46,179.29,0.0
+1214,Paper Boat Pet Care 50g x3 (Regular),46,Paper Boat,50,g,3,Regular,0,293,467.7,427.32,0.12
+1215,Himalaya Health Drinks 250g x1 (Economy),18,Himalaya,250,g,1,Economy,0,596,112.95,94.36,0.0
+1216,Tropicana Festive Packs 200ml x1 (Economy),62,Tropicana,200,ml,1,Economy,0,425,432.63,379.65,0.12
+1217,Kellogg's Fresh Produce 1000g x1 (Regular),1,Kellogg's,1000,g,1,Regular,1,3,222.66,187.93,0.05
+1218,Monster Oral Care 50ml x2 (Regular),29,Monster,50,ml,2,Regular,0,443,47.51,38.56,0.05
+1219,Harpic Kitchen Appliances 500ml x1 (Regular),49,Harpic,500,ml,1,Regular,0,106,364.96,303.66,0.05
+1220,"Monster Sauces, Ketchup 200g x2 (Economy)",22,Monster,200,g,2,Economy,0,471,169.12,132.14,0.05
+1221,Surf Excel Soft Drinks 50g x4 (Economy),26,Surf Excel,50,g,4,Economy,0,464,73.15,61.64,0.0
+1222,Bikaji Water 750g x10 (Premium),27,Bikaji,750,g,10,Premium,0,279,680.72,621.27,0.0
+1223,Pears Bedding 100g x4 (Regular),53,Pears,100,g,4,Regular,0,584,165.26,129.6,0.18
+1224,Paper Boat Diabetic Care 250ml x2 (Economy),86,Paper Boat,250,ml,2,Economy,0,514,2134.28,1695.32,0.18
+1225,Coca-Cola First Aid 50ml x2 (Regular),85,Coca-Cola,50,ml,2,Regular,0,527,216.75,170.1,0.28
+1226,Himalaya Ice Cream 100ml x4 (Premium),15,Himalaya,100,ml,4,Premium,1,6,444.02,398.86,0.05
+1227,Colgate Dishwash 50ml x4 (Regular),40,Colgate,50,ml,4,Regular,0,494,141.69,128.94,0.18
+1228,Pears Bath 500g x1 (Regular),32,Pears,500,g,1,Regular,0,460,250.84,209.94,0.12
+1229,Monster Ice Cream 200ml x24 (Economy),15,Monster,200,ml,24,Economy,1,6,467.46,380.33,0.0
+1230,Maggi Home Furnishing 200ml x1 (Premium),52,Maggi,200,ml,1,Premium,0,151,718.09,572.06,0.12
+1231,Ariel Organic 200ml x4 (Premium),73,Ariel,200,ml,4,Premium,0,114,407.47,357.52,0.18
+1232,Pears Bath Linen 250ml x24 (Economy),54,Pears,250,ml,24,Economy,0,550,953.12,754.27,0.05
+1233,Kellogg's Frozen Foods 50ml x5 (Economy),16,Kellogg's,50,ml,5,Economy,1,23,210.99,168.47,0.05
+1234,Dove Energy Drinks 100ml x4 (Economy),75,Dove,100,ml,4,Economy,0,514,2646.9,2070.29,0.18
+1235,Himalaya Footwear 200ml x1 (Regular),59,Himalaya,200,ml,1,Regular,0,701,536.04,429.8,0.12
+1236,Pepsi Water 250g x24 (Premium),27,Pepsi,250,g,24,Premium,0,396,546.81,443.23,0.0
+1237,Harpic Pet Care 200ml x3 (Premium),46,Harpic,200,ml,3,Premium,0,432,751.94,598.4,0.12
+1238,Red Bull Travel 750g x10 (Economy),58,Red Bull,750,g,10,Economy,0,524,871.89,712.37,0.12
+1239,Saffola Travel 750ml x4 (Regular),58,Saffola,750,ml,4,Regular,0,466,969.61,797.47,0.12
+1240,Haldiram Water 200ml x24 (Regular),27,Haldiram,200,ml,24,Regular,0,178,391.97,345.6,0.05
+1241,"Haldiram Sugar, Jaggery 50g x4 (Economy)",8,Haldiram,50,g,4,Economy,0,486,298.95,241.23,0.0
+1242,Britannia Storage 100ml x2 (Economy),51,Britannia,100,ml,2,Economy,0,234,47.76,39.99,0.05
+1243,Surf Excel Air Fresheners 200g x5 (Regular),41,Surf Excel,200,g,5,Regular,0,311,876.95,786.24,0.12
+1244,Lifebuoy Disposable 750ml x1 (Regular),43,Lifebuoy,750,ml,1,Regular,0,664,671.42,581.69,0.12
+1245,Maggi Hardware 2000ml x1 (Regular),70,Maggi,2000,ml,1,Regular,0,627,1213.35,967.49,0.05
+1246,Surf Excel Energy Drinks 500g x1 (Regular),75,Surf Excel,500,g,1,Regular,0,532,2827.85,2432.17,0.18
+1247,Haldiram Pet Care 200g x3 (Regular),46,Haldiram,200,g,3,Regular,0,514,516.7,460.63,0.05
+1248,Nestlé Apparel 500g x1 (Premium),60,Nestlé,500,g,1,Premium,0,537,658.88,516.64,0.05
+1249,Kissan Bedding 2000ml x3 (Economy),53,Kissan,2000,ml,3,Economy,0,566,303.97,278.55,0.18
+1250,Nestlé OTC Medicines 1000ml x2 (Economy),37,Nestlé,1000,ml,2,Economy,0,185,1101.91,918.72,0.12
+1251,Lifebuoy Stationery 200g x5 (Economy),44,Lifebuoy,200,g,5,Economy,0,133,801.68,705.58,0.05
+1252,Britannia Dishwash 250g x24 (Premium),40,Britannia,250,g,24,Premium,0,712,243.15,195.48,0.12
+1253,Surf Excel OTC Medicines 500g x10 (Regular),37,Surf Excel,500,g,10,Regular,0,675,1656.77,1293.88,0.12
+1254,Aashirvaad Soft Drinks 50ml x24 (Regular),26,Aashirvaad,50,ml,24,Regular,0,694,125.81,112.12,0.0
+1255,Kellogg's Gardening 200ml x10 (Regular),56,Kellogg's,200,ml,10,Regular,0,286,946.69,866.49,0.05
+1256,Haldiram Edible Oils 250ml x3 (Premium),6,Haldiram,250,ml,3,Premium,0,542,485.29,382.94,0.05
+1257,Aashirvaad Men's Grooming 1000g x1 (Regular),33,Aashirvaad,1000,g,1,Regular,0,140,552.1,483.53,0.12
+1258,Kellogg's Dishwash 250ml x4 (Premium),40,Kellogg's,250,ml,4,Premium,0,188,167.91,138.56,0.12
+1259,Haldiram Books 750g x12 (Regular),72,Haldiram,750,g,12,Regular,0,689,1447.31,1151.65,0.28
+1260,Fortune Oral Care 500g x4 (Economy),29,Fortune,500,g,4,Economy,0,218,72.33,58.32,0.05
+1261,Dabur Bath 1000g x3 (Economy),32,Dabur,1000,g,3,Economy,0,191,381.19,348.71,0.12
+1262,Paper Boat Health 200g x1 (Premium),36,Paper Boat,200,g,1,Premium,0,497,184.77,168.35,0.12
+1263,Colgate Fragrances 50g x4 (Economy),78,Colgate,50,g,4,Economy,0,390,667.42,564.7,0.18
+1264,Ariel Cleaning Tools 200g x1 (Premium),55,Ariel,200,g,1,Premium,0,130,186.25,166.06,0.12
+1265,Fortune Health 100g x24 (Regular),36,Fortune,100,g,24,Regular,0,239,267.54,244.72,0.05
+1266,DMart Health Drinks 500ml x5 (Regular),18,DMart,500,ml,5,Regular,0,198,213.38,192.12,0.0
+1267,ITC Category 96 250ml x1 (Economy),96,ITC,250,ml,1,Economy,0,665,1019.86,801.46,0.18
+1268,Haldiram Soft Drinks 2000ml x6 (Regular),26,Haldiram,2000,ml,6,Regular,0,204,171.58,156.33,0.0
+1269,ITC Baking Supplies 750g x4 (Economy),25,ITC,750,g,4,Economy,0,98,188.78,149.02,0.05
+1270,Catch Baking Supplies 1000ml x1 (Regular),25,Catch,1000,ml,1,Regular,0,297,168.03,136.9,0.0
+1271,Ariel Ready-to-Eat 500ml x1 (Premium),11,Ariel,500,ml,1,Premium,0,277,124.64,108.9,0.0
+1272,Saffola OTC Medicines 200ml x1 (Economy),37,Saffola,200,ml,1,Economy,0,546,748.52,602.72,0.12
+1273,Nivea Ready-to-Eat 2000ml x1 (Economy),11,Nivea,2000,ml,1,Economy,0,151,101.33,91.41,0.05
+1274,Patanjali Health Drinks 750ml x24 (Regular),18,Patanjali,750,ml,24,Regular,0,190,273.91,240.07,0.0
+1275,DMart Seasonal Specials 1000g x5 (Premium),61,DMart,1000,g,5,Premium,0,671,676.86,581.94,0.12
+1276,Monster Packaged Foods 100ml x10 (Economy),10,Monster,100,ml,10,Economy,0,159,43.6,34.74,0.0
+1277,Pepsi Staples 200g x1 (Regular),4,Pepsi,200,g,1,Regular,0,590,229.79,192.62,0.05
+1278,Aashirvaad Sanitary 750g x3 (Regular),80,Aashirvaad,750,g,3,Regular,0,647,1366.19,1155.38,0.18
+1279,Aashirvaad Ready-to-Eat 750ml x10 (Regular),11,Aashirvaad,750,ml,10,Regular,0,587,132.16,118.5,0.0
+1280,Pears Spices 250ml x10 (Economy),7,Pears,250,ml,10,Economy,0,282,501.55,394.76,0.05
+1281,Monster Disposable 1000g x2 (Economy),43,Monster,1000,g,2,Economy,0,267,737.26,613.19,0.12
+1282,Harpic Health 200g x1 (Economy),36,Harpic,200,g,1,Economy,0,595,167.53,151.36,0.12
+1283,Dove Health Drinks 2000g x12 (Regular),18,Dove,2000,g,12,Regular,0,681,372.4,308.86,0.0
+1284,ITC Pulses 750g x3 (Regular),5,ITC,750,g,3,Regular,0,545,411.96,369.62,0.0
+1285,Lifebuoy Batteries 2000g x10 (Premium),67,Lifebuoy,2000,g,10,Premium,0,216,1899.1,1624.97,0.05
+1286,Haldiram Kitchen Appliances 50ml x24 (Regular),49,Haldiram,50,ml,24,Regular,0,150,429.05,352.11,0.12
+1287,ITC Packaged Foods 100g x1 (Regular),10,ITC,100,g,1,Regular,0,350,31.03,28.34,0.05
+1288,Fortune Breakfast Cereals 50ml x1 (Economy),20,Fortune,50,ml,1,Economy,0,215,69.88,57.42,0.0
+1289,Dettol Hardware 500g x10 (Economy),70,Dettol,500,g,10,Economy,0,527,963.54,777.34,0.12
+1290,Amul Party Supplies 2000g x3 (Premium),82,Amul,2000,g,3,Premium,0,322,1096.33,895.86,0.12
+1291,Lifebuoy Laundry Detergent 750ml x12 (Economy),39,Lifebuoy,750,ml,12,Economy,0,193,687.38,542.16,0.12
+1292,Pepsi Biscuits 250g x3 (Economy),13,Pepsi,250,g,3,Economy,0,110,295.58,231.36,0.05
+1293,Paper Boat Fresh Produce 200ml x10 (Regular),1,Paper Boat,200,ml,10,Regular,1,23,257.86,215.36,0.05
+1294,"Bikaji Sugar, Jaggery 50ml x1 (Economy)",8,Bikaji,50,ml,1,Economy,0,633,209.44,189.63,0.0
+1295,Pears International Foods 1000ml x1 (Economy),74,Pears,1000,ml,1,Economy,0,701,1624.02,1319.57,0.18
+1296,Britannia Footwear 100ml x12 (Economy),59,Britannia,100,ml,12,Economy,0,614,571.06,505.27,0.12
+1297,ITC Meat 2000ml x1 (Economy),17,ITC,2000,ml,1,Economy,1,13,184.3,161.64,0.05
+1298,Coca-Cola Health 2000g x1 (Economy),36,Coca-Cola,2000,g,1,Economy,0,383,242.9,200.5,0.05
+1299,Kellogg's Packaged Foods 750g x3 (Regular),10,Kellogg's,750,g,3,Regular,0,646,63.51,52.28,0.0
+1300,"Kellogg's Sugar, Jaggery 200ml x1 (Economy)",8,Kellogg's,200,ml,1,Economy,0,698,252.62,201.39,0.0
+1301,Tropicana Dairy 2000ml x4 (Regular),2,Tropicana,2000,ml,4,Regular,1,13,345.28,275.51,0.0
+1302,Appy OTC Medicines 100ml x1 (Regular),37,Appy,100,ml,1,Regular,0,493,604.71,517.21,0.12
+1303,Dettol Gardening 1000ml x3 (Regular),56,Dettol,1000,ml,3,Regular,0,585,1349.21,1193.68,0.05
+1304,Bikaji Staples 1000ml x10 (Economy),4,Bikaji,1000,ml,10,Economy,0,447,542.89,485.47,0.0
+1305,Catch Oral Care 100g x1 (Regular),29,Catch,100,g,1,Regular,0,286,37.69,30.38,0.05
+1306,Lifebuoy Disposable 750g x5 (Regular),43,Lifebuoy,750,g,5,Regular,0,646,951.69,846.34,0.12
+1307,Colgate Hair Care 200ml x6 (Economy),30,Colgate,200,ml,6,Economy,0,174,374.55,315.94,0.05
+1308,Harpic Bakery 2000g x1 (Economy),3,Harpic,2000,g,1,Economy,1,6,501.47,455.63,0.05
+1309,Dettol Baking Supplies 250ml x24 (Premium),25,Dettol,250,ml,24,Premium,0,432,282.48,256.62,0.0
+1310,Aashirvaad Pet Care 750g x1 (Economy),46,Aashirvaad,750,g,1,Economy,0,384,637.9,579.22,0.12
+1311,DMart Chocolates 100g x3 (Regular),14,DMart,100,g,3,Regular,0,340,210.21,172.72,0.0
+1312,Fortune Kitchen Appliances 50ml x24 (Economy),49,Fortune,50,ml,24,Economy,0,588,349.72,274.37,0.05
+1313,Paper Boat Women's Hygiene 750g x24 (Regular),34,Paper Boat,750,g,24,Regular,0,354,1679.56,1493.25,0.05
+1314,Britannia Home Furnishing 200ml x2 (Regular),52,Britannia,200,ml,2,Regular,0,524,713.58,633.31,0.05
+1315,Colgate Home Care 2000ml x5 (Regular),38,Colgate,2000,ml,5,Regular,0,687,600.92,472.32,0.18
+1316,Tata Dairy 100g x24 (Regular),2,Tata,100,g,24,Regular,1,29,206.73,177.29,0.0
+1317,Fortune Category 98 50ml x1 (Economy),98,Fortune,50,ml,1,Economy,0,285,1359.59,1151.77,0.12
+1318,Pepsi Storage 50g x1 (Premium),51,Pepsi,50,g,1,Premium,0,158,61.46,51.57,0.12
+1319,Aashirvaad Dairy 2000g x12 (Regular),2,Aashirvaad,2000,g,12,Regular,1,4,380.14,301.96,0.0
+1320,Pepsi Pickles 200ml x1 (Economy),23,Pepsi,200,ml,1,Economy,0,688,241.91,213.95,0.05
+1321,Colgate Chocolates 200ml x10 (Regular),14,Colgate,200,ml,10,Regular,0,545,261.59,217.88,0.0
+1322,Harpic Home Care 250g x12 (Economy),38,Harpic,250,g,12,Economy,0,630,314.58,280.99,0.05
+1323,Everest Home Care 250ml x1 (Regular),38,Everest,250,ml,1,Regular,0,440,248.3,224.01,0.12
+1324,Sunfeast Baking Supplies 1000g x5 (Regular),25,Sunfeast,1000,g,5,Regular,0,332,235.22,215.95,0.0
+1325,Himalaya Cleaning Tools 250ml x10 (Regular),55,Himalaya,250,ml,10,Regular,0,605,231.6,186.88,0.12
+1326,Fortune Energy Drinks 100g x2 (Regular),75,Fortune,100,g,2,Regular,0,676,2557.84,2102.65,0.18
+1327,Sunfeast Baby Food 2000ml x4 (Regular),19,Sunfeast,2000,ml,4,Regular,0,136,120.93,96.29,0.05
+1328,Tropicana Spices 250g x1 (Economy),7,Tropicana,250,g,1,Economy,0,302,319.72,259.26,0.0
+1329,Kellogg's Category 100 750ml x1 (Economy),100,Kellogg's,750,ml,1,Economy,0,211,172.37,138.7,0.18
+1330,Nestlé Books 500g x1 (Regular),72,Nestlé,500,g,1,Regular,0,147,877.0,794.79,0.18
+1331,DMart Breakfast Cereals 50ml x3 (Regular),20,DMart,50,ml,3,Regular,0,344,89.85,80.93,0.0
+1332,Everest Toys 250g x1 (Regular),45,Everest,250,g,1,Regular,0,276,448.97,388.15,0.05
+1333,Sunfeast Pulses 250ml x10 (Regular),5,Sunfeast,250,ml,10,Regular,0,103,357.43,298.48,0.0
+1334,Tata Category 91 2000ml x3 (Premium),91,Tata,2000,ml,3,Premium,0,579,5157.64,4276.45,0.18
+1335,Harpic Breakfast Cereals 1000g x6 (Regular),20,Harpic,1000,g,6,Regular,0,400,213.58,172.84,0.0
+1336,Lifebuoy Baby Food 1000g x1 (Economy),19,Lifebuoy,1000,g,1,Economy,0,204,69.8,56.47,0.0
+1337,Lizol Ice Cream 750g x1 (Regular),15,Lizol,750,g,1,Regular,1,19,440.9,365.9,0.05
+1338,Ariel Frozen Foods 200ml x3 (Premium),16,Ariel,200,ml,3,Premium,1,11,381.75,340.07,0.0
+1339,Himalaya Home Décor 250g x12 (Regular),81,Himalaya,250,g,12,Regular,0,518,4108.3,3562.38,0.18
+1340,Patanjali Health Drinks 250g x2 (Regular),18,Patanjali,250,g,2,Regular,0,572,167.75,144.26,0.05
+1341,Tata Hair Care 2000g x4 (Economy),30,Tata,2000,g,4,Economy,0,159,630.87,548.57,0.0
+1342,Britannia OTC Medicines 2000ml x3 (Economy),37,Britannia,2000,ml,3,Economy,0,239,1311.76,1109.81,0.05
+1343,Haldiram School Essentials 750g x4 (Economy),64,Haldiram,750,g,4,Economy,0,281,94.15,80.41,0.05
+1344,Appy Category 93 50g x6 (Premium),93,Appy,50,g,6,Premium,0,174,1318.5,1176.42,0.18
+1345,Kissan Home Décor 100ml x1 (Regular),81,Kissan,100,ml,1,Regular,0,253,2030.25,1855.2,0.12
+1346,Haldiram Home Care 2000g x5 (Regular),38,Haldiram,2000,g,5,Regular,0,524,640.68,571.01,0.12
+1347,DMart Cleaning Tools 200ml x12 (Premium),55,DMart,200,ml,12,Premium,0,262,312.65,273.68,0.12
+1348,ITC Meat 1000ml x6 (Economy),17,ITC,1000,ml,6,Economy,1,27,237.26,217.89,0.0
+1349,Pepsi Dishwash 500ml x24 (Regular),40,Pepsi,500,ml,24,Regular,0,355,225.85,183.6,0.12
+1350,DMart Biscuits 750ml x2 (Regular),13,DMart,750,ml,2,Regular,0,371,519.64,431.03,0.05
+1351,"Amul Sugar, Jaggery 500g x2 (Regular)",8,Amul,500,g,2,Regular,0,350,431.85,339.81,0.05
+1352,Kellogg's Pulses 200ml x5 (Regular),5,Kellogg's,200,ml,5,Regular,0,355,338.63,298.54,0.05
+1353,Bikaji Mobile Accessories 750g x1 (Regular),66,Bikaji,750,g,1,Regular,0,287,551.89,480.8,0.05
+1354,MDH Noodles 200g x1 (Regular),21,MDH,200,g,1,Regular,0,642,121.92,101.1,0.0
+1355,Britannia Diabetic Care 200ml x2 (Regular),86,Britannia,200,ml,2,Regular,0,345,2081.87,1647.24,0.28
+1356,Kissan Gardening 500ml x3 (Regular),56,Kissan,500,ml,3,Regular,0,664,1049.78,950.93,0.05
+1357,Dabur Toys 250ml x5 (Regular),45,Dabur,250,ml,5,Regular,0,334,696.12,633.77,0.05
+1358,Tropicana Dry Fruits 250ml x1 (Regular),24,Tropicana,250,ml,1,Regular,0,615,214.24,176.87,0.0
+1359,Sunfeast Water 2000ml x2 (Regular),27,Sunfeast,2000,ml,2,Regular,0,220,442.99,349.82,0.0
+1360,Ariel Lighting 2000ml x1 (Economy),68,Ariel,2000,ml,1,Economy,0,563,1123.67,909.02,0.12
+1361,Pears Dishwash 500ml x1 (Economy),40,Pears,500,ml,1,Economy,0,167,126.84,112.08,0.05
+1362,Appy Bedding 500g x1 (Economy),53,Appy,500,g,1,Economy,0,405,197.54,169.5,0.12
+1363,Britannia Laundry Detergent 2000g x10 (Economy),39,Britannia,2000,g,10,Economy,0,372,685.4,583.87,0.12
+1364,Harpic Masks 2000ml x4 (Economy),84,Harpic,2000,ml,4,Economy,0,216,4853.47,4214.21,0.18
+1365,Patanjali Men's Grooming 1000ml x4 (Regular),33,Patanjali,1000,ml,4,Regular,0,284,540.53,426.26,0.05
+1366,Himalaya School Essentials 200ml x2 (Economy),64,Himalaya,200,ml,2,Economy,0,233,73.32,64.59,0.12
+1367,Saffola Storage 250ml x4 (Regular),51,Saffola,250,ml,4,Regular,0,150,72.14,60.27,0.05
+1368,Dabur Seasonal Specials 250g x1 (Premium),61,Dabur,250,g,1,Premium,0,98,405.79,321.8,0.12
+1369,Kellogg's Water 500ml x2 (Premium),27,Kellogg's,500,ml,2,Premium,0,198,437.57,399.82,0.0
+1370,Dove Pickles 2000ml x1 (Regular),23,Dove,2000,ml,1,Regular,0,656,421.75,384.58,0.05
+1371,Pepsi Oral Care 1000ml x1 (Regular),29,Pepsi,1000,ml,1,Regular,0,378,75.33,65.4,0.0
+1372,Nivea Staples 500ml x1 (Regular),4,Nivea,500,ml,1,Regular,0,658,306.65,256.21,0.05
+1373,Patanjali Pulses 2000ml x2 (Premium),5,Patanjali,2000,ml,2,Premium,0,205,656.08,585.72,0.0
+1374,Nivea Protein 500g x24 (Economy),76,Nivea,500,g,24,Economy,0,410,417.94,354.52,0.18
+1375,Harpic Sports 500g x1 (Regular),57,Harpic,500,g,1,Regular,0,515,338.31,284.85,0.18
+1376,Pepsi Protein 200g x5 (Economy),76,Pepsi,200,g,5,Economy,0,543,217.61,185.8,0.28
+1377,Everest Women's Hygiene 2000ml x1 (Premium),34,Everest,2000,ml,1,Premium,0,528,1652.45,1410.71,0.12
+1378,Dabur Pickles 100ml x5 (Economy),23,Dabur,100,ml,5,Economy,0,148,227.45,188.05,0.05
+1379,Coca-Cola Biscuits 50g x24 (Premium),13,Coca-Cola,50,g,24,Premium,0,678,523.47,473.45,0.0
+1380,Nestlé Fresh Produce 50g x4 (Economy),1,Nestlé,50,g,4,Economy,1,7,153.47,139.41,0.0
+1381,Tropicana Fresh Produce 200g x1 (Regular),1,Tropicana,200,g,1,Regular,1,20,157.46,135.71,0.0
+1382,Appy Hardware 100g x12 (Regular),70,Appy,100,g,12,Regular,0,108,906.43,770.95,0.18
+1383,MDH Bakery 750g x1 (Regular),3,MDH,750,g,1,Regular,1,6,440.43,359.35,0.05
+1384,"Patanjali Sugar, Jaggery 100ml x1 (Regular)",8,Patanjali,100,ml,1,Regular,0,372,224.37,205.7,0.05
+1385,Nivea Category 93 50ml x1 (Regular),93,Nivea,50,ml,1,Regular,0,285,725.91,645.0,0.18
+1386,Pears Spices 1000g x3 (Premium),7,Pears,1000,g,3,Premium,0,617,718.54,587.57,0.0
+1387,"Nestlé Sugar, Jaggery 500ml x1 (Premium)",8,Nestlé,500,ml,1,Premium,0,229,516.59,420.28,0.05
+1388,Britannia Energy Drinks 2000ml x10 (Regular),75,Britannia,2000,ml,10,Regular,0,189,7288.29,6686.91,0.12
+1389,Dove International Foods 200g x1 (Economy),74,Dove,200,g,1,Economy,0,484,1113.3,923.02,0.18
+1390,Kissan Home Appliances 250ml x1 (Regular),48,Kissan,250,ml,1,Regular,0,441,600.1,474.09,0.12
+1391,Monster Home Care 750g x12 (Regular),38,Monster,750,g,12,Regular,0,452,568.2,452.14,0.18
+1392,Dabur Dairy 500ml x2 (Regular),2,Dabur,500,ml,2,Regular,1,28,183.1,159.22,0.0
+1393,Fortune Bakery 50ml x6 (Regular),3,Fortune,50,ml,6,Regular,1,6,421.26,351.06,0.05
+1394,"Patanjali Sugar, Jaggery 200ml x12 (Economy)",8,Patanjali,200,ml,12,Economy,0,502,400.99,315.34,0.0
+1395,Harpic Books 100g x3 (Economy),72,Harpic,100,g,3,Economy,0,543,594.95,497.65,0.18
+1396,Haldiram Air Fresheners 750ml x6 (Regular),41,Haldiram,750,ml,6,Regular,0,136,1387.53,1155.62,0.12
+1397,Colgate Seasonal Specials 2000ml x4 (Economy),61,Colgate,2000,ml,4,Economy,0,377,647.26,582.82,0.05
+1398,MDH Electricals 200g x2 (Economy),47,MDH,200,g,2,Economy,0,344,150.38,118.06,0.18
+1399,MDH Ice Cream 100ml x1 (Economy),15,MDH,100,ml,1,Economy,1,22,245.11,203.31,0.05
+1400,Pears Toys 1000g x1 (Economy),45,Pears,1000,g,1,Economy,0,237,656.35,544.45,0.12
+1401,Himalaya Edible Oils 1000ml x4 (Regular),6,Himalaya,1000,ml,4,Regular,0,186,596.48,542.53,0.05
+1402,Kellogg's Baby Food 2000g x2 (Regular),19,Kellogg's,2000,g,2,Regular,0,326,97.62,84.61,0.0
+1403,Red Bull Footwear 100ml x1 (Economy),59,Red Bull,100,ml,1,Economy,0,507,411.0,356.9,0.05
+1404,"Sunfeast Sauces, Ketchup 100g x12 (Economy)",22,Sunfeast,100,g,12,Economy,0,233,262.94,220.89,0.0
+1405,Harpic Water 250g x4 (Economy),27,Harpic,250,g,4,Economy,0,533,275.79,235.82,0.0
+1406,"Dettol Sauces, Ketchup 50g x10 (Economy)",22,Dettol,50,g,10,Economy,0,719,219.97,200.75,0.05
+1407,Kissan Gardening 100ml x1 (Regular),56,Kissan,100,ml,1,Regular,0,503,562.37,463.4,0.12
+1408,Nestlé Category 100 500g x1 (Economy),100,Nestlé,500,g,1,Economy,0,585,194.81,152.54,0.12
+1409,Appy Lighting 750g x1 (Economy),68,Appy,750,g,1,Economy,0,280,1034.98,920.16,0.05
+1410,Harpic Dairy 200g x5 (Regular),2,Harpic,200,g,5,Regular,1,10,169.48,150.33,0.05
+1411,Saffola Dry Fruits 2000ml x10 (Regular),24,Saffola,2000,ml,10,Regular,0,559,525.66,475.08,0.0
+1412,Lifebuoy Bedding 200ml x3 (Regular),53,Lifebuoy,200,ml,3,Regular,0,542,200.28,178.53,0.05
+1413,Amul Women's Hygiene 100ml x5 (Regular),34,Amul,100,ml,5,Regular,0,656,941.91,795.49,0.12
+1414,Haldiram Spices 100ml x4 (Regular),7,Haldiram,100,ml,4,Regular,0,515,394.53,351.85,0.0
+1415,ITC Diabetic Care 100g x2 (Economy),86,ITC,100,g,2,Economy,0,353,1521.3,1288.47,0.12
+1416,"Tata Sugar, Jaggery 200ml x24 (Regular)",8,Tata,200,ml,24,Regular,0,652,531.36,416.14,0.0
+1417,Monster Pet Care 50ml x24 (Regular),46,Monster,50,ml,24,Regular,0,380,738.41,630.25,0.18
+1418,Paper Boat Pet Food Premium 2000g x4 (Regular),88,Paper Boat,2000,g,4,Regular,0,308,1157.29,975.58,0.18
+1419,DMart Ice Cream 750ml x1 (Economy),15,DMart,750,ml,1,Economy,1,23,387.22,333.97,0.0
+1420,"Kellogg's Tea, Coffee 200g x3 (Economy)",9,Kellogg's,200,g,3,Economy,0,159,86.57,72.53,0.0
+1421,Sunfeast Frozen Foods 250ml x5 (Premium),16,Sunfeast,250,ml,5,Premium,1,7,376.68,311.56,0.05
+1422,Colgate Mobile Accessories 2000ml x4 (Regular),66,Colgate,2000,ml,4,Regular,0,493,895.69,731.27,0.12
+1423,Dabur Electronics Accessories 100g x2 (Economy),65,Dabur,100,g,2,Economy,0,208,499.35,413.1,0.05
+1424,Patanjali Category 92 500ml x2 (Regular),92,Patanjali,500,ml,2,Regular,0,473,892.89,721.8,0.12
+1425,Everest Category 95 1000g x6 (Regular),95,Everest,1000,g,6,Regular,0,655,2388.42,2092.16,0.12
+1426,Aashirvaad Meat 100ml x24 (Regular),17,Aashirvaad,100,ml,24,Regular,1,29,209.55,176.59,0.05
+1427,Himalaya Meat 750ml x1 (Economy),17,Himalaya,750,ml,1,Economy,1,16,188.05,153.47,0.0
+1428,Red Bull International Foods 200ml x4 (Regular),74,Red Bull,200,ml,4,Regular,0,219,1523.58,1376.65,0.28
+1429,Everest Meat 100g x4 (Economy),17,Everest,100,g,4,Economy,1,10,155.5,129.34,0.0
+1430,Catch Hardware 750ml x1 (Economy),70,Catch,750,ml,1,Economy,0,678,741.38,614.56,0.18
+1431,Dove Disposable 50ml x1 (Economy),43,Dove,50,ml,1,Economy,0,534,392.65,357.92,0.18
+1432,Pepsi Home Care 1000ml x1 (Economy),38,Pepsi,1000,ml,1,Economy,0,299,297.46,247.75,0.12
+1433,Pepsi International Foods 50g x10 (Economy),74,Pepsi,50,g,10,Economy,0,298,1316.63,1029.1,0.18
+1434,Parle Kitchen Essentials 200ml x5 (Economy),42,Parle,200,ml,5,Economy,0,434,64.8,53.75,0.05
+1435,Pears Gifting Combos 1000ml x10 (Economy),63,Pears,1000,ml,10,Economy,0,684,325.37,266.03,0.12
+1436,Pears Organic 50ml x3 (Economy),73,Pears,50,ml,3,Economy,0,341,297.19,270.13,0.28
+1437,Haldiram Meat 50g x1 (Economy),17,Haldiram,50,g,1,Economy,1,29,114.91,90.17,0.05
+1438,Britannia First Aid 250ml x24 (Regular),85,Britannia,250,ml,24,Regular,0,159,500.78,420.86,0.28
+1439,Fortune Personal Care 750g x24 (Regular),28,Fortune,750,g,24,Regular,0,678,634.33,571.08,0.05
+1440,Haldiram Personal Care 100ml x1 (Regular),28,Haldiram,100,ml,1,Regular,0,249,258.17,202.95,0.05
+1441,Patanjali Sanitary 2000ml x1 (Regular),80,Patanjali,2000,ml,1,Regular,0,665,1379.7,1112.72,0.12
+1442,Amul Personal Care 100g x24 (Premium),28,Amul,100,g,24,Premium,0,257,552.36,433.15,0.0
+1443,Bikaji Meat 250ml x12 (Regular),17,Bikaji,250,ml,12,Regular,1,20,247.26,205.18,0.05
+1444,Appy Storage 50ml x1 (Premium),51,Appy,50,ml,1,Premium,0,404,54.96,46.67,0.12
+1445,Tata Mobile Accessories 250g x10 (Regular),66,Tata,250,g,10,Regular,0,358,605.03,524.83,0.05
+1446,"Catch Sugar, Jaggery 50g x24 (Regular)",8,Catch,50,g,24,Regular,0,551,433.69,363.54,0.05
+1447,ITC Dairy 200g x10 (Economy),2,ITC,200,g,10,Economy,1,23,198.79,165.91,0.05
+1448,Everest Dry Fruits 50g x1 (Economy),24,Everest,50,g,1,Economy,0,431,135.57,115.71,0.05
+1449,Red Bull Electricals 200g x2 (Economy),47,Red Bull,200,g,2,Economy,0,213,148.32,125.14,0.12
+1450,Colgate Meat 1000g x10 (Regular),17,Colgate,1000,g,10,Regular,1,5,272.65,214.89,0.05
+1451,"Patanjali Sugar, Jaggery 100g x1 (Regular)",8,Patanjali,100,g,1,Regular,0,494,226.15,188.25,0.0
+1452,Aashirvaad Staples 750g x5 (Economy),4,Aashirvaad,750,g,5,Economy,0,122,422.0,329.74,0.0
+1453,Himalaya Kids Snacks 500ml x3 (Regular),87,Himalaya,500,ml,3,Regular,0,675,3413.84,2721.29,0.28
+1454,Lifebuoy Snacks 100g x3 (Premium),12,Lifebuoy,100,g,3,Premium,0,300,55.32,48.73,0.05
+1455,Saffola Ready-to-Eat 50ml x3 (Regular),11,Saffola,50,ml,3,Regular,0,529,68.08,53.96,0.0
+1456,Amul Pickles 2000ml x3 (Regular),23,Amul,2000,ml,3,Regular,0,629,482.0,419.2,0.0
+1457,Colgate Home Appliances 50g x2 (Regular),48,Colgate,50,g,2,Regular,0,493,583.04,520.02,0.12
+1458,Surf Excel Category 91 250g x1 (Regular),91,Surf Excel,250,g,1,Regular,0,527,2371.68,2159.33,0.18
+1459,Bikaji Category 96 250ml x6 (Economy),96,Bikaji,250,ml,6,Economy,0,447,1317.1,1112.2,0.28
+1460,Catch Footwear 100ml x1 (Regular),59,Catch,100,ml,1,Regular,0,229,363.28,306.83,0.12
+1461,Dove Kitchen Appliances 50g x2 (Economy),49,Dove,50,g,2,Economy,0,107,280.72,232.01,0.12
+1462,Everest Hair Care 50g x10 (Economy),30,Everest,50,g,10,Economy,0,592,368.92,301.27,0.05
+1463,Lifebuoy Kitchen Appliances 100g x1 (Regular),49,Lifebuoy,100,g,1,Regular,0,286,218.2,186.56,0.12
+1464,Amul Packaged Foods 500ml x3 (Regular),10,Amul,500,ml,3,Regular,0,454,47.51,38.5,0.05
+1465,"Lizol Tea, Coffee 2000ml x3 (Regular)",9,Lizol,2000,ml,3,Regular,0,203,154.87,131.04,0.0
+1466,Lifebuoy Skin Care 500g x12 (Economy),31,Lifebuoy,500,g,12,Economy,0,352,338.06,294.54,0.12
+1467,MDH Chocolates 2000ml x1 (Economy),14,MDH,2000,ml,1,Economy,0,298,296.1,265.69,0.0
+1468,"Ariel Tea, Coffee 50g x3 (Premium)",9,Ariel,50,g,3,Premium,0,659,102.28,92.31,0.05
+1469,ITC Electricals 250ml x3 (Regular),47,ITC,250,ml,3,Regular,0,426,216.19,186.38,0.18
+1470,Saffola Breakfast Cereals 250ml x1 (Regular),20,Saffola,250,ml,1,Regular,0,164,104.2,95.7,0.05
+1471,Parle Women's Hygiene 50ml x1 (Regular),34,Parle,50,ml,1,Regular,0,504,690.25,620.5,0.05
+1472,Haldiram Health 50g x3 (Premium),36,Haldiram,50,g,3,Premium,0,305,245.27,219.87,0.12
+1473,Aashirvaad Snacks 50ml x2 (Premium),12,Aashirvaad,50,ml,2,Premium,0,437,49.87,41.84,0.0
+1474,Himalaya Fresh Produce 100ml x3 (Regular),1,Himalaya,100,ml,3,Regular,1,13,158.89,128.9,0.0
+1475,Maggi Ice Cream 50ml x12 (Regular),15,Maggi,50,ml,12,Regular,1,27,484.72,380.92,0.0
+1476,Catch Men's Grooming 200ml x5 (Economy),33,Catch,200,ml,5,Economy,0,600,422.21,382.44,0.05
+1477,Harpic Water 200ml x1 (Premium),27,Harpic,200,ml,1,Premium,0,316,309.47,263.86,0.05
+1478,Monster Storage 250ml x1 (Regular),51,Monster,250,ml,1,Regular,0,504,54.23,45.46,0.12
+1479,Amul Sports 1000ml x2 (Regular),57,Amul,1000,ml,2,Regular,0,422,581.98,504.26,0.12
+1480,Harpic Party Supplies 250g x1 (Economy),82,Harpic,250,g,1,Economy,0,346,302.3,265.39,0.28
+1481,Kellogg's Health Drinks 200ml x6 (Premium),18,Kellogg's,200,ml,6,Premium,0,394,195.54,165.05,0.0
+1482,DMart Organic 750g x4 (Economy),73,DMart,750,g,4,Economy,0,155,530.05,460.47,0.12
+1483,Kissan Skin Care 50g x1 (Regular),31,Kissan,50,g,1,Regular,0,443,144.02,123.15,0.12
+1484,Monster Snacks 100ml x10 (Economy),12,Monster,100,ml,10,Economy,0,329,50.48,42.48,0.0
+1485,Coca-Cola Kitchen Essentials 50ml x2 (Economy),42,Coca-Cola,50,ml,2,Economy,0,551,47.51,41.26,0.18
+1486,Nestlé Toys 50ml x3 (Premium),45,Nestlé,50,ml,3,Premium,0,654,619.07,511.9,0.12
+1487,Britannia Spices 500g x1 (Economy),7,Britannia,500,g,1,Economy,0,687,363.73,325.8,0.05
+1488,ITC Pickles 250ml x1 (Regular),23,ITC,250,ml,1,Regular,0,395,272.29,231.32,0.05
+1489,Coca-Cola Oral Care 250g x24 (Economy),29,Coca-Cola,250,g,24,Economy,0,535,86.58,75.02,0.0
+1490,MDH Noodles 250ml x3 (Regular),21,MDH,250,ml,3,Regular,0,239,140.4,111.69,0.0
+1491,ITC Cleaning Tools 100g x24 (Regular),55,ITC,100,g,24,Regular,0,324,247.61,208.5,0.12
+1492,"Haldiram Tea, Coffee 200g x5 (Regular)",9,Haldiram,200,g,5,Regular,0,222,113.3,89.58,0.0
+1493,Dabur Women's Hygiene 1000ml x6 (Regular),34,Dabur,1000,ml,6,Regular,0,432,1444.51,1149.48,0.05
+1494,Tropicana Fresh Produce 2000ml x10 (Regular),1,Tropicana,2000,ml,10,Regular,1,17,367.25,295.8,0.05
+1495,Monster Breakfast Cereals 500ml x1 (Premium),20,Monster,500,ml,1,Premium,0,584,158.27,141.06,0.0
+1496,Bikaji Category 94 200ml x1 (Regular),94,Bikaji,200,ml,1,Regular,0,620,883.88,705.27,0.12
+1497,Colgate Edible Oils 2000g x6 (Regular),6,Colgate,2000,g,6,Regular,0,442,689.86,590.13,0.0
+1498,Amul Gifting Combos 250ml x5 (Regular),63,Amul,250,ml,5,Regular,0,510,215.88,189.84,0.18
+1499,Nivea Women's Hygiene 200ml x24 (Regular),34,Nivea,200,ml,24,Regular,0,329,1316.5,1092.35,0.18
+1500,Aashirvaad Frozen Foods 2000g x6 (Regular),16,Aashirvaad,2000,g,6,Regular,1,8,517.8,466.33,0.05
