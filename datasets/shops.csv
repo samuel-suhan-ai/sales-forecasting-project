@@ -1,0 +1,51 @@
+﻿shop_id,shop_city,shop_state,shop_region,shop_name,store_type,store_size_sqft,opening_date
+1,Mumbai,Maharashtra,West,DMart Mumbai #01,Hypermarket,57472,2020-03-01
+2,Gurugram,Haryana,North,DMart Gurugram #02,Supermarket,16161,2020-05-30
+3,Chandigarh,Chandigarh,North,DMart Chandigarh #03,Supermarket,16520,2023-10-19
+4,Amritsar,Punjab,North,DMart Amritsar #04,Supermarket,29153,2017-01-10
+5,Mumbai,Maharashtra,West,DMart Mumbai #05,Large Format,79257,2016-07-12
+6,Coimbatore,Tamil Nadu,South,DMart Coimbatore #06,Supermarket,27000,2017-07-16
+7,Udaipur,Rajasthan,North,DMart Udaipur #07,Supermarket,37653,2023-05-02
+8,Raipur,Chhattisgarh,Central,DMart Raipur #08,Supermarket,23889,2011-09-19
+9,Thiruvananthapuram,Kerala,South,DMart Thiruvananthapuram #09,Supermarket,19574,2012-04-11
+10,Raipur,Chhattisgarh,Central,DMart Raipur #10,Supermarket,14553,2021-03-21
+11,Coimbatore,Tamil Nadu,South,DMart Coimbatore #11,Supermarket,25919,2012-12-24
+12,Faridabad,Haryana,North,DMart Faridabad #12,Large Format,38964,2014-10-12
+13,Dehradun,Uttarakhand,North,DMart Dehradun #13,Supermarket,27118,2020-07-25
+14,Tirupati,Andhra Pradesh,South,DMart Tirupati #14,Supermarket,20831,2015-09-07
+15,Ranchi,Jharkhand,East,DMart Ranchi #15,Large Format,22219,2012-04-14
+16,Mumbai,Maharashtra,West,DMart Mumbai #16,Large Format,76820,2022-08-04
+17,Tirupati,Andhra Pradesh,South,DMart Tirupati #17,Supermarket,17841,2010-02-19
+18,Panaji,Goa,West,DMart Panaji #18,Large Format,15411,2023-08-12
+19,Mangaluru,Karnataka,South,DMart Mangaluru #19,Supermarket,20845,2010-08-17
+20,Hyderabad,Telangana,South,DMart Hyderabad #20,Hypermarket,76898,2017-02-21
+21,Bengaluru,Karnataka,South,DMart Bengaluru #21,Hypermarket,64803,2022-10-11
+22,Siliguri,West Bengal,East,DMart Siliguri #22,Supermarket,36935,2019-10-02
+23,Meerut,Uttar Pradesh,North,DMart Meerut #23,Large Format,44804,2013-02-04
+24,Ludhiana,Punjab,North,DMart Ludhiana #24,Large Format,22185,2018-10-14
+25,Bhubaneswar,Odisha,East,DMart Bhubaneswar #25,Supermarket,24232,2012-12-07
+26,Vijayawada,Andhra Pradesh,South,DMart Vijayawada #26,Supermarket,13247,2022-01-17
+27,Vijayawada,Andhra Pradesh,South,DMart Vijayawada #27,Supermarket,27237,2010-12-13
+28,Meerut,Uttar Pradesh,North,DMart Meerut #28,Supermarket,29015,2011-07-05
+29,Vijayawada,Andhra Pradesh,South,DMart Vijayawada #29,Supermarket,23054,2019-12-03
+30,Ranchi,Jharkhand,East,DMart Ranchi #30,Supermarket,34029,2017-11-11
+31,Gwalior,Madhya Pradesh,Central,DMart Gwalior #31,Supermarket,24059,2020-06-01
+32,Indore,Madhya Pradesh,Central,DMart Indore #32,Supermarket,26766,2021-04-25
+33,Ludhiana,Punjab,North,DMart Ludhiana #33,Large Format,34676,2020-11-01
+34,Faridabad,Haryana,North,DMart Faridabad #34,Supermarket,34893,2020-09-28
+35,Patna,Bihar,East,DMart Patna #35,Supermarket,36265,2023-09-25
+36,Lucknow,Uttar Pradesh,North,DMart Lucknow #36,Large Format,34779,2010-05-25
+37,Nashik,Maharashtra,West,DMart Nashik #37,Large Format,22462,2020-01-16
+38,Chandigarh,Chandigarh,North,DMart Chandigarh #38,Supermarket,19507,2011-06-27
+39,Visakhapatnam,Andhra Pradesh,South,DMart Visakhapatnam #39,Large Format,16785,2018-05-25
+40,Mumbai,Maharashtra,West,DMart Mumbai #40,Hypermarket,56118,2012-02-23
+41,Ranchi,Jharkhand,East,DMart Ranchi #41,Supermarket,35348,2013-01-23
+42,Bhubaneswar,Odisha,East,DMart Bhubaneswar #42,Supermarket,39830,2018-02-17
+43,Indore,Madhya Pradesh,Central,DMart Indore #43,Large Format,26499,2018-02-07
+44,Indore,Madhya Pradesh,Central,DMart Indore #44,Supermarket,14529,2016-01-12
+45,Ludhiana,Punjab,North,DMart Ludhiana #45,Large Format,42237,2013-12-20
+46,Kolkata,West Bengal,East,DMart Kolkata #46,Large Format,59475,2010-11-24
+47,Pune,Maharashtra,West,DMart Pune #47,Hypermarket,46687,2013-11-28
+48,Vadodara,Gujarat,West,DMart Vadodara #48,Supermarket,32353,2023-11-12
+49,Meerut,Uttar Pradesh,North,DMart Meerut #49,Supermarket,12914,2015-06-21
+50,Meerut,Uttar Pradesh,North,DMart Meerut #50,Supermarket,25560,2017-07-23
