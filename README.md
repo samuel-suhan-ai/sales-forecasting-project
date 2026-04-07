@@ -1,5 +1,7 @@
 # Sales Forecasting Project
 
+[![CI](https://github.com/samuel-suhan-ai/sales-forecasting-project/actions/workflows/ci.yml/badge.svg)](https://github.com/samuel-suhan-ai/sales-forecasting-project/actions/workflows/ci.yml)
+
 A practical sales forecasting project using Python, notebooks, and generated output artifacts.
 
 ## Project Structure
